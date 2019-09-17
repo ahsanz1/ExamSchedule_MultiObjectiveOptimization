@@ -1,0 +1,17 @@
+EE220		Instrumentation and Measurements
+==========================================
+15312	14L-4484	Abubakar Jahangir
+14780	13L-4450	Ghulam Hussain Bhatti
+14815	13L-4483	Haseeb Ahsan
+15104	14L-4423	Muhammad Umer
+15354	14L-4511	Danish Murtaza
+15375	14L-4516	Ali Husnain
+14697	12L-4281	Usama Ikhlaq
+14748	13L-4388	Muhammad Usman Amjad Chishtee
+14841	13L-4531	Hafiz Talha Waheed
+14741	13L-4378	Mansoor Imam
+14787	13L-4453	Muhammad Asad Farooq
+14714	12L-4505	Hassan Javaid
+14808	13L-4478	Muhammad Mohsin Saeed
+14854	13L-4555	Rizwan Mahmood Siddiqui
+15306	14L-4483	Shawez Ahmad

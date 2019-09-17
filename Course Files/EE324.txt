@@ -1,0 +1,17 @@
+EE324		Power Electronics
+==========================================
+15028	14L-4396	Syed Zafaryab Hussain
+15257	14L-4465	Burhan Ahsan
+15183	14L-4444	Hasaan Amjad
+15355	14L-4511	Danish Murtaza
+14900	14L-4358	Muhammad Shoaib Alam
+15196	14L-4446	Muhammad Ruhban Gill
+15114	14L-4425	Shahzad Ghaffar
+15080	14L-4418	Muhammad Aun Raza
+15385	14L-4517	Shehryar Hasan
+15398	14L-4519	Irfan Hussain
+15406	14L-5718	Shahzada Shahjahan Ahmed
+14938	14L-4371	Abdul Rauf
+14861	13L-4556	Talha Saqib
+14887	14L-4351	Muhammad Farhan Akhtar
+15245	14L-4461	Misha Ghauri

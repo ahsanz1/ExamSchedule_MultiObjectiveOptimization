@@ -1,0 +1,52 @@
+CS411		Network Security
+==========================================
+5600	14L-4157	Muhammad Qasim
+5173	14L-4039	Muhammad Kamran Sohail
+5909	14L-4239	Faizan Ahmad
+4672	12L-5540	Umer jaan
+5306	14L-4080	Syed Muhammad Asharib Nadeem
+4967	13L-5867	Usama Hassan Khilji
+5178	14L-4041	Zohaib Arshad
+4868	13L-4214	Muhammad Ahmad
+5336	14L-4086	Muhammad Ehtesham Anwar
+5102	14L-4024	Muhammad Bilal
+5991	14L-4266	Hassan Khalid
+5868	14L-4223	Shaoor Munir
+5995	14L-4268	Syed Sajjad Ali
+5879	14L-4225	Sara Tanzeel
+4901	13L-4294	Muhammad Haris
+6090	14L-4304	Zainab Iftikhar
+6295	14L-4504	Basit Riaz
+5435	14L-4109	Muhammad Awais Omer
+6102	14L-4307	Abdul Rehman Bashir
+4665	12L-4336	Umair Nazir
+5497	14L-4132	Hajira Haider
+5707	14L-4177	Abdur Rahman Sheikh
+6377	14L-5864	Muhammad Saim Siddiqui
+6254	14L-4412	Muhammad Bilal
+5841	14L-4215	Mohammad Hamza Rasheed
+4594	12L-4076	Arslan Liaqat
+4627	12L-4149	Muzzammil Jamil Khokhar
+4712	13L-4034	Furqan Saqib
+5243	14L-4060	Muhammad Kashif
+5724	14L-4183	Aqsa Razzaq
+4909	13L-4316	Muhammad Usman Shabbir
+5730	14L-4184	Hira Akram
+5079	14L-4020	Shahreyaar Faseh
+5734	14L-4185	Aqeel Ahmad
+5266	14L-4065	Waleed Tariq
+5639	14L-4165	Usman Shahzad
+5347	14L-4089	Zainab Saif
+5650	14L-4167	Saad Ahmad
+6341	14L-5851	Aliza Lisan
+5204	14L-4048	Muhammad Fahad Zafar
+5937	14L-4246	Abdul Raheem
+5791	14L-4203	Ahmad Nauman
+5942	14L-4247	Hassaan Tauqir
+4659	12L-4320	Saad Salman
+5358	14L-4092	Asjad Zaheer
+5669	14L-4170	Ali Nauman
+4804	13L-4101	Nimra Nasir
+5673	14L-4171	Syed Muhammad Sarim Jalil
+4876	13L-4226	Bilal Waqar
+6068	14L-4296	Ehsan Latif

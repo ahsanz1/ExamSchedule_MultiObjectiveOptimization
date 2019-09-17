@@ -1,0 +1,78 @@
+EE223		Signals & Systems
+==========================================
+16192	16L-4417	Syed Muhammad Mujtaba Amin
+15761	15L-4487	Danish Saeed
+16199	16L-4419	Zainab Zahid
+15908	15L-4521	Muhammad Hashim Raza
+16392	16L-4457	Yasir Hassan
+16176	16L-4414	Muhammad Usman Javed
+16674	16L-5469	Gohar Nayyab
+16184	16L-4416	Umair Naseem
+16641	16L-5427	Ahsan Kaukab
+16360	16L-4453	Malik Muhammad Awais
+16168	16L-4410	Jibran Ali
+16368	16L-4454	Maryam Rasool Chaudhry
+16501	16L-4498	Muhammad Zeeshan Aslam
+16376	16L-4455	Umair Abbas
+16509	16L-4499	Ayman Waseem
+16384	16L-4456	Muhammad Hassan Shahid
+16667	16L-5467	Ahmad Numeer
+16694	16L-6353	Muhammad Bilal Tahir
+16344	16L-4450	Duaa Ali
+16485	16L-4494	Muhammad Aslaan Sarwar
+15417	15L-4403	Hamza Tahir
+16352	16L-4451	Arsal Azam
+15768	15L-4491	Abdullah
+16144	16L-4406	Sidra Jawad
+16152	16L-4407	Mahnoor Jawad Khan
+15471	15L-4411	Muhammad Daniyal
+16160	16L-4409	Muhammad Zuhair Anas
+16328	16L-4446	Abdul Nasir
+16626	16L-4523	Asif Ahmad Arif
+16634	16L-4524	Muhammad Usama
+16128	16L-4404	Raffay Sajjad
+16137	16L-4405	Arham Hasib Ilahi
+16469	16L-4486	Rehab Abrar
+16320	16L-4443	Hafiz Inam Ghous
+16477	16L-4487	Muhammad Zohaib Ali Shaikh
+16604	16L-4520	Hadeera Munsif
+16611	16L-4521	Kainat Fatima
+16657	16L-5457	Muhammad Ahsan Mahmood
+16447	16L-4482	Daniyal Ahmed
+15487	15L-4414	Haris Waheed Khan
+16311	16L-4440	Umair Ali Khan
+16461	16L-4484	Sheharyar Saleem
+16115	15L-5557	Izma Binte Atif
+16304	16L-4439	Abeya Khan
+16573	16L-4516	Muhammad Bilal Khalid
+16580	16L-4517	Aroosha Farooq
+16588	16L-4518	Muhammad Murtaza
+16596	16L-4519	Muddassir Ahmed
+16431	16L-4479	Zain Ul Abidin
+16288	16L-4436	Maryam Zaib
+16556	16L-4514	Murtaza Hussain Mirza
+16564	16L-4515	Erbaz Khan
+16256	16L-4431	Mahnoor Naveed
+16264	16L-4432	Benish Hussain
+16650	16L-5443	Mohammad Haasin Farooq
+16272	16L-4433	Abdullah Ashfaq Cheema
+16279	16L-4434	Zartush Khan Durrani
+15847	15L-4505	Muhammad Osama
+16423	16L-4473	Mahnoor Sohail
+16247	16L-4430	Arsal Naeem
+16439	16L-4481	Muhammad Waleed Malik
+15703	15L-4470	Asmar Asim Zaheer
+15863	15L-4511	Aaqib Riaz
+16035	15L-4554	Mehak Amjad
+16416	16L-4468	Zunaira Tahir
+16224	16L-4425	Muhammad Zain
+16525	16L-4502	Ahmed Sibt E Ali
+16232	16L-4427	Muhammad Omer
+16540	16L-4504	Ali Abid Zaidi
+16207	16L-4420	Sarmad Bin Tahir
+16401	16L-4465	Manahil Tanveer
+16682	16L-5476	Syed Ali Hamad Naqvi
+15885	15L-4517	Muhammad Waqar Muzaffar
+16216	16L-4422	Ahsan Jalil Mirza
+16517	16L-4500	Haider Nadeem
+15593	15L-4438	Muhammad Raees Haider

@@ -1,0 +1,56 @@
+MT101		Calculus - I
+==========================================
+9814	16L-4379	Usman Noor
+11053	17L-4191	Muhammad Zubair
+10192	17L-4022	Basim Ahmad Sirohey
+11735	17L-4341	Shahzaib Ahmed Joyia
+11381	17L-4263	Muhammad Usman
+12045	17L-6324	Abdul Hannan Saqib
+10216	17L-4026	Salman Arshad
+11207	17L-4224	Mahnoor Hassan
+10205	17L-4024	Shafia Masood
+10199	17L-4023	Umair Ahmad
+12032	17L-6321	Abdullah Fawad
+10230	17L-4028	Muhammad Hamza Riaz
+10870	17L-4149	Ali Ahmed Siddique
+11213	17L-4225	Abdullah Khalil
+11413	17L-4269	Saad Ali
+11552	17L-4302	Usama Ashraf
+11892	17L-4467	Tehseen Ullah Kahlon
+11579	17L-4309	Faateh Bin Hamad
+10501	17L-4081	Fuzail Ur Rehman Khan
+10475	17L-4076	Muhammad Abdullah Nadeem
+11073	17L-4196	Muhammad Sikandar Subhani
+10262	17L-4035	Abdul Hadi
+11258	17L-4233	Hafiz Ahmed Mujtaba
+11286	17L-4239	Murtaza Hussain
+10715	17L-4116	Muhammad Mukarram Murtaza
+11597	17L-4313	Rija Rizwan
+9945	16L-5405	Haseeb Ur Rehman
+11849	17L-4370	Muhammad Areeb Hashir
+11492	17L-4290	Hassan Raza
+11479	17L-4286	Salman Ahmed
+11953	17L-6301	Fatima Junaid
+10303	17L-4042	Mohammad Zaeem Younas
+11472	17L-4284	Ramin Rafi
+10952	17L-4169	Qira Ahmad
+11830	17L-4367	Ahmed Waheed Butt
+11100	17L-4201	Farjad Suhail
+12105	17L-6341	Akash Bajwa
+11643	17L-4320	Muhammad Hamza Saeed
+11819	17L-4364	Shelan Naveed
+11670	17L-4325	Tehreem Mushtaq
+10748	17L-4126	Ali Affan
+11835	17L-4368	Talal Zulfiqar
+11134	17L-4207	Syed Arham Hussain
+10399	17L-4062	Usama Imran
+11012	17L-4182	Muhammad Romman Nadeem
+10781	17L-4132	Muhammad Zain Ul Haq
+10979	17L-4176	Samran Waheed
+11525	17L-4296	Zain Ayaz
+11854	17L-4372	Abdul Malik
+10151	17L-4015	Abdur Rafay
+10801	17L-4136	Osama Atta
+11161	17L-4211	Danish Irfan
+11711	17L-4335	Abdul Mukit
+11723	17L-4339	Sohaib Ali

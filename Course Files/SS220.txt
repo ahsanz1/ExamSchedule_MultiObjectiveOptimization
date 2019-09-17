@@ -1,0 +1,53 @@
+SS220		Modern Politics & Government
+==========================================
+7753	15L-4325	Muhammad Hamza Imran
+7620	15L-4287	Muhammad Fawad Zafar
+8118	16L-4017	Abdullah Munir
+9301	16L-4259	Ahmed Zubair
+8699	16L-4134	Ali Iqbal
+9274	16L-4255	Syed Najam Ul Hasan
+8097	16L-4014	Dania Ahmad
+9651	16L-4333	Malik Mohsin Hayat
+8111	16L-4016	Ubaidullah Muhammad Naeem
+9261	16L-4252	Muhammad Muaaz Bin Zaka
+8323	16L-4055	Muhammad Ali Durrani
+8083	16L-4012	Muhammad Saud Amer
+10066	16L-6354	Wahaj Javed
+7184	15L-4178	Muhammad Ahmad Ikram
+7163	15L-4175	Muhammad Sarmad Iqbal Khan
+9063	16L-4206	Saqib Rashid
+9983	16L-6308	Muhammad Hamza
+9785	16L-4366	Husnain Akhtar Khan
+8644	16L-4120	Bilal Ashfaq
+8860	16L-4165	Usman Tariq
+9771	16L-4363	Aiza Zaheer
+8296	16L-4051	Zain Arshad
+8514	16L-4095	Muhammad Farrukh Tariq Butt
+8882	16L-4172	Awais Ahmad
+5280	14L-4070	Muhammad Ehsan
+9577	16L-4315	Bilal Zahid
+9758	16L-4359	Talha Rasheed
+8234	16L-4036	Hassaan Arshad Wain
+8812	16L-4157	Osama Fayyaz
+9193	16L-4234	Mahad Sajeel
+9557	16L-4312	Usama Khan
+9950	16L-5446	Muhammad Kamran
+8826	16L-4159	Ahmad Hasnain
+9017	16L-4196	Muhammad Faique
+9903	16L-4396	Hassan Majid
+9408	16L-4282	Muhammad Junaid
+4986	13L-5883	Muhammad Talal Rashid
+4995	13L-5888	Muhammad Musab Sohail
+7254	15L-4191	Muhammad Taha Bokhari
+9545	16L-4309	Muhammad Nouman
+7831	15L-4353	Mohammad Saad Bin Riaz
+8188	16L-4028	Noor Fatima Saleem
+9511	16L-4304	Mohammad Badar Ud Din
+9864	16L-4388	Mehar Fatima Khan
+8565	16L-4104	Nashit Bin Mashkoor
+9680	16L-4340	Syed Shan E Raza
+8752	16L-4143	Roshan Ul Haq
+8759	16L-4144	Aanish Amir Waseem
+9132	16L-4221	Haider Imran Khan
+9335	16L-4265	Muhammad Abdul Akhir Ihsan
+9878	16L-4390	Fahad Hussain

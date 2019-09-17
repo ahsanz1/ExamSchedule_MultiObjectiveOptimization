@@ -1,0 +1,23 @@
+MG311		Financial Management
+==========================================
+3709	15L-4930	Tajver Murtaza
+921	15L-4685	Rana Muhammad Yaseen
+3425	15L-4861	Hamna Fahim
+215	14L-4652	Kainat Rasheed
+1302	15L-4796	Ahsan khursheed
+1559	15L-4892	Maria Samreen
+909	15L-4682	Muhammad Uzair Riaz
+3337	14L-5569	Saad Ansari
+1071	15L-4728	Mohammad Maaz
+1389	15L-4816	Annas Wajid Shah
+1344	15L-4806	Arsum Shabbir
+720	14L-4814	Omar Mahmood
+1383	15L-4815	Khurram Shahzad
+1363	15L-4812	Hisham Raphick
+3720	15L-4933	Rabia Shahzad
+788	15L-4659	Rida Ahmad
+773	15L-4656	Beenish Tahir
+1423	15L-4821	Muhammad Abdullah
+780	15L-4657	Ahsan Sharfat
+3610	15L-4910	Muhammad Taimoor Haider
+898	15L-4680	Imtiaz Ahmed

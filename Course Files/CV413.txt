@@ -1,0 +1,76 @@
+CV413		Irrigation & Drainage Engineering
+==========================================
+12500	14L-5761	Muhammad Qasim Pervaiz
+12508	14L-5762	Zain Tajamal
+12516	14L-5764	Muhammad Hasnat
+12524	14L-5765	Muhammad Bilal
+12339	14L-5722	Usama Khalid
+12726	14L-5800	Muhammad Usama Waheed Khan
+12539	14L-5767	Muhammad Ahsan
+12547	14L-5768	Muhammad Fahad Amjad
+12742	14L-5802	Rooh Ullah
+12556	14L-5769	Muhammad Farhan Saleem
+12734	14L-5801	Muhammad Abdul Wahab
+12347	14L-5726	Chaudhary Saad Zahid
+12761	14L-5804	Rahima Ejaz
+12750	14L-5803	Hammad Ahmad
+12355	14L-5728	Ahmed Tahir
+12363	14L-5729	Muhammad Bilal Shahid
+12776	14L-5808	Sheharyar
+12768	14L-5807	Ahmad Waleed Athar
+12784	14L-5809	Sohaib Aslam
+12112	11L-4684	Muhammad Arslan
+12565	14L-5770	Asfand Ali
+12677	14L-5794	Umair Ahmad
+12686	14L-5795	Aatra Ali
+12694	14L-5796	Hafiz Saad Siddiqi
+12702	14L-5797	Muhammad Waleed Imran
+12281	14L-5710	Muhammad Junaid Asif Sahi
+12463	14L-5754	Kawish Khan
+12710	14L-5798	Saiyed Mohammad Yeahyea Gailani
+12289	14L-5711	Muhammad Bilal Ali
+12718	14L-5799	Ahmed Nawaz
+12215	14L-4469	Haseeb Ahmad
+12297	14L-5713	Muhammad Shahan
+12472	14L-5757	Muhammad Hammad Gohar
+12481	14L-5758	Muhammad Sufyan Ahmed
+12490	14L-5759	Safiyullah Nadeem
+12305	14L-5716	Arslan Mazhar
+12313	14L-5717	Taemoor Hassan
+12321	14L-5719	Shahneel Fatima
+12131	12L-5784	Usama Noor
+12141	13L-4246	Muhammad Noman Tariq
+12206	13L-5812	Arslan Ahmad
+12121	12L-5707	Faisal Hameed Khan
+12607	14L-5782	Hamza Sohail
+12430	14L-5740	Muhammad Yousaf
+12615	14L-5784	Iram Naeem
+12438	14L-5741	Muhammad Abdullah Ahmad
+12625	14L-5785	Talha Bin Arif
+12446	14L-5742	Tahir Nadeem
+12634	14L-5786	Fahad Nouman
+12643	14L-5787	Sheikh Muhammad Usama
+12651	14L-5788	Adil Shakeel
+12659	14L-5789	Muhammad Arslan
+12233	14L-5702	Ahmed Mateen
+12455	14L-5746	Rabia Adnan
+12241	14L-5704	Faisal Tariq Khan
+12249	14L-5705	Muhammad Talha Ishfaq
+12257	14L-5707	Zain Ul Islam
+12265	14L-5708	Muhammad Sikandar Malik
+12273	14L-5709	Mohammad Anzar Sheikh
+12667	14L-5790	Muhammad Waleed Ahsan
+12573	14L-5771	Asghar Mehdi
+12371	14L-5730	Ahmad Raza
+12379	14L-5731	Muhammad Shahroz
+12387	14L-5732	Sameer Moazzam
+12395	14L-5733	Muzamil Kaleem
+12582	14L-5777	Sarim Adnan
+12403	14L-5734	M Wahib Bin Qamar Qureshi
+12792	14L-5810	Haseeb Anjum
+12591	14L-5779	Hamdoon Nasrullah
+12411	14L-5736	Zohaib Mahmood Butt
+12421	14L-5737	Adnan Rasheed
+12149	13L-5714	Hamza Shahram
+12599	14L-5780	Faisal Gulzar
+12184	13L-5799	Taha Tariq

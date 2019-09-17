@@ -1,0 +1,68 @@
+MG326		Corporate Accounting-II
+==========================================
+4017	16L-4935	Shah Alam Khan Niazi
+4124	16L-4979	Ayesha Nawaz
+4119	16L-4978	Umair Amir
+3803	15L-4960	Syed Nehan Rizvi
+4027	16L-4937	Faisal Iqbal
+4022	16L-4936	Nimra Tariq
+4114	16L-4975	Amman Naeem
+3828	16L-4853	Muhammad Hamza
+4109	16L-4974	Syeda Hina Zehra
+3845	16L-4856	Mian Sabeh Tabassum
+3339	14L-5569	Saad Ansari
+3840	16L-4855	Saher Fatima
+4012	16L-4932	Zara Zafar
+4094	16L-4971	Usama Saeed
+3933	16L-4893	Kinza Asim
+3823	16L-4851	Mishail Khawaja
+3675	15L-4923	Khubaib Mustafa
+3655	15L-4920	Muhammad Tahir Khan
+3928	16L-4892	Saira
+4032	16L-4939	Amlish Khan
+3997	16L-4924	Muhammad Omer Amir
+4084	16L-4968	Dilawer Virk
+3992	16L-4923	Faizan Ahmad
+4002	16L-4925	Syed Hussain Abbas Shah
+3923	16L-4888	Fahad Waseem
+3913	16L-4883	Fawad Tariq
+3908	16L-4882	Mahnoor Tahir
+3407	15L-4857	Hashim Ejaz
+3100	14L-4949	Uswah Aslam Zaeem
+3903	16L-4880	Novair Ahmad Khawaja
+2985	13L-4923	Syed Ijlal Haider Naqvi
+3742	15L-4939	Usama Abid
+4007	16L-4929	Rameen Razzaq
+3433	15L-4864	Ashir Habib Ahmad
+3755	15L-4941	Salvat Ahmed
+3960	16L-4912	Muhammad Bilal
+3427	15L-4861	Hamna Fahim
+3970	16L-4915	Muhammad Ahmed Nasir
+3965	16L-4914	Maheen Raza
+3898	16L-4876	Hajara Mahmood
+4061	16L-4953	Ghulam Fatima
+3422	15L-4860	Muhammad Qasim Ali Chattha
+3893	16L-4875	Hafiz Ammar Akbar Baig
+4066	16L-4955	Rabi Amir
+3955	16L-4910	Ali Faizan
+3776	15L-4946	Hafiz Shaheer Akbar Baig
+3888	16L-4874	Aniqa Rehman
+3565	15L-4903	Syed Ali
+3784	15L-4947	Muhammad Sarwar Hashmat
+2979	12L-5879	Raza Hassan khan
+3000	13L-5927	Rahma Sajjad
+3980	16L-4917	Syeda Alina Zahra
+3975	16L-4916	Bilal Ahsan
+3985	16L-4919	Arjumand Akbar
+3878	16L-4869	Abdul Rehman
+4051	16L-4946	Waleed Sultan
+3355	14L-5574	Ahmed Ali Ghuman
+3371	15L-4710	M Taha Khan
+3873	16L-4868	Aqsa Sarwar
+4046	16L-4945	Latif Masih
+3816	16L-4827	Munawer Abbas
+3862	16L-4864	Laiba Mohsin
+4037	16L-4941	Subhana Khalil
+3850	16L-4860	Kumail Waseem
+3857	16L-4863	Minahil Maqsood
+4056	16L-4949	Uzair Farooq

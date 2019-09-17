@@ -1,0 +1,22 @@
+EE228		Electrical Network Analysis
+==========================================
+15864	15L-4511	Aaqib Riaz
+16242	16L-4428	Muhammad Usman Akram
+16201	16L-4419	Zainab Zahid
+16417	16L-4468	Zunaira Tahir
+16338	16L-4448	Zargham Ahmed Khan
+16298	16L-4438	Malik Haris Ali Khokhar
+16643	16L-5427	Ahsan Kaukab
+16209	16L-4420	Sarmad Bin Tahir
+16408	16L-4466	Ayesha
+16659	16L-5457	Muhammad Ahsan Mahmood
+16121	16L-4401	Syed Ali Zain Zaidi
+16281	16L-4434	Zartush Khan Durrani
+16620	16L-4522	Muhammad Sikander Abbas
+16668	16L-5467	Ahmad Numeer
+15489	15L-4414	Haris Waheed Khan
+15631	15L-4447	Usaid Rafique
+15988	15L-4546	Arslan Sohail
+16313	16L-4440	Umair Ali Khan
+16249	16L-4430	Arsal Naeem
+15704	15L-4470	Asmar Asim Zaheer

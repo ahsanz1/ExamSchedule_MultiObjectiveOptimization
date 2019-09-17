@@ -1,0 +1,52 @@
+SS403		Chinese Language
+==========================================
+5790	14L-4199	Muhammad Hamza Akhtar
+7884	15L-4363	Farwa Abbas
+8917	16L-4178	Zarar Tahir
+8528	16L-4098	Muhammad Hammad Afzal
+9462	16L-4296	Abdul Majid
+8930	16L-4180	Syed Farooq Shah Bukhari
+7156	15L-4174	Maaz Elahi
+6672	15L-4050	Muhammad Saad Ahmed
+9990	16L-6309	Omer Ali
+8069	16L-4007	Raffey Nasser
+9056	16L-4205	Muhammad Usman
+9617	16L-4327	Ahmad Khalid Rizwan
+9443	16L-4289	Taha Kibria
+9922	16L-4400	Hassan Bin Tariq
+8672	16L-4126	Minahil Imtiaz
+9219	16L-4241	Zarfishan Wajid
+9226	16L-4243	Sabaat Haroon
+8303	16L-4052	Laraib Jahangir
+8889	16L-4173	Momin Siddique
+9455	16L-4294	Maarij Fatima
+6533	15L-4020	Zeeshan javaid
+11785	17L-4357	Khawala Tauseef
+9570	16L-4314	Danial Haroon
+8030	15L-5551	Arooba Ahmad
+8227	16L-4035	Syed Sajjad Zaidi
+8807	16L-4156	Muhammad Abdullah
+9186	16L-4233	Hamza Nazir
+9551	16L-4310	Muhammad Adan Ramzan
+9388	16L-4278	Talha Zaheer Sipra
+8616	16L-4115	Maheen Hassan
+8800	16L-4154	Muhammad Yasir Abbas
+9374	16L-4275	Muhammad Hassaan Bin Sohail
+4658	12L-4304	M. Arslan Sarwar
+8833	16L-4160	Hamza Nawaz
+9531	16L-4307	Hafiz Muhammad Wajih Ul Hassan
+6608	15L-4036	Manahil Shehzad
+7846	15L-4355	Muhammad Talha Javed
+8194	16L-4029	Arshia Akhtar
+9518	16L-4305	Syed Shaheryar Ali
+8583	16L-4108	Usama Ahmad
+8972	16L-4189	Nimra Aamir
+8168	16L-4025	Daniyal Akhlaq
+8182	16L-4027	Ahmed Hasan
+9504	16L-4302	Mahnoor
+10005	16L-6320	Areesha Iftikhar
+8539	16L-4100	Muhammad Usama Shahid
+9849	16L-4386	Noman Shafi
+9004	16L-4194	Muhammad Waqas Afzal
+9884	16L-4392	Danial Ahmed
+5014	13L-5950	Syed Hasnain Raza

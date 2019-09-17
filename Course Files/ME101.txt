@@ -1,0 +1,100 @@
+ME101		Basic Mechanical Engineering
+==========================================
+17138	17L-4509	Mansoor Ul Hassan Sohail
+16971	17L-4462	Usama Mahmood
+16964	17L-4461	Hamza Irfan Rathor
+16992	17L-4466	Muhammad Wasal Imtiaz
+16985	17L-4465	Talha Masood
+16978	17L-4463	Mudassar Abbas
+17124	17L-4502	Haissam Tariq Zaman
+17131	17L-4504	Muhammad Mohsin
+17180	17L-4519	Malik Nisar Jamil
+16125	16L-4401	Syed Ali Zain Zaidi
+17033	17L-4480	Umair Bukhari
+16458	16L-4483	Habib Ur Rehman
+17006	17L-4472	Ibrahim Mansoor Khalid
+16999	17L-4471	Adil Mustafa
+17026	17L-4476	Muhammad Ammar
+17019	17L-4475	Usama Raheel
+17012	17L-4474	Muhammad Burhan
+17159	17L-4514	Zeeshan Kamal
+17152	17L-4512	Ameer Ali Abdur Rehman
+17145	17L-4511	Imam Zaid Abdullah
+17173	17L-4518	Khubaib Ahsan
+17166	17L-4515	Haider Sultan
+16877	17L-4440	Umair Asif
+17310	17L-4561	Abdullah Khan
+17331	17L-4565	Zain Zahid Fazal
+16884	17L-4443	Muhammad Ahmed
+17324	17L-4564	Amna Javed Alvi
+17317	17L-4562	Ibrahim Amir Khan
+16904	17L-4448	Hassan Munir
+16897	17L-4446	Abdul Wadood Khan
+16891	17L-4445	Zain Arshad
+17338	17L-4566	Hussain Zafar
+16537	16L-4503	Muhammad Adan Arshad
+15881	15L-4515	Hira Ali
+16917	17L-4451	Aliya Batool
+16937	17L-4455	Muhammad Abdullah Aftab
+16930	17L-4453	Zohaib Saleem
+16923	17L-4452	Nizam Elahi
+16957	17L-4459	Saniya Tanzeem
+16950	17L-4458	Hafiz Huzefa Naeem
+16821	17L-4422	Syed Abuturab Hussain Jaffry
+17264	17L-4543	Muhammad Farhan Liaqat Ali
+16814	17L-4421	Kamran Ijaz
+16807	17L-4420	Shakaib Ahmad Hashmi
+17257	17L-4541	Abdul Rehman
+16828	17L-4425	Laiba Nadeem
+17271	17L-4546	Muhammad Omar Khan
+16849	17L-4429	Khawaja Mohammad Hammad
+16842	17L-4428	Muhammad Hamza Ali
+16835	17L-4427	Mahad Farooq
+17291	17L-4554	Umair Ismail
+16863	17L-4432	Asad Hameed
+16856	17L-4431	Minahil Tauqir
+17284	17L-4551	Hafiz Hamza Mahtab
+17305	17L-4558	Ayesha Baig
+16870	17L-4434	Muhammed Ahmed Khalid Shafi
+17298	17L-4555	Subhan A Aziz
+17365	17L-6337	Abdul Mannan
+17372	17L-6338	Umer Atiq
+17379	17L-6339	Muhammad Ibrahim
+16691	16L-6337	Saif Ur Rehman
+17096	17L-4491	Abdullah Tahir
+17061	17L-4484	Abuzar Sadiq
+17054	17L-4483	Muhammad Muneeb Shahid
+17047	17L-4482	Muhammad Musa
+17344	17L-6302	Zainab Nauman
+17040	17L-4481	Muhammad Taha
+17082	17L-4488	Tabish Mehmood
+17075	17L-4487	Muhammad Qasim Atif
+17068	17L-4485	Ch Arslan Ali
+16732	17L-4404	Attiya Rubab
+17194	17L-4525	Aneeq Asghar
+16719	17L-4402	Altamash Yar Khan
+16712	17L-4401	Tasweeb Ammad
+17089	17L-4489	Ahmad Kashif
+17187	17L-4522	Talha Jameel
+16759	17L-4408	Aly Azeemi
+16752	17L-4407	Farooq Ahmad
+17215	17L-4528	Muhammad Usman Tariq Khan
+17208	17L-4527	Muhammad Umer
+16739	17L-4405	Aneeq Khan
+17201	17L-4526	M Areeb Nasir
+16705	17L-4260	Ubaid Ur Rehman
+17351	17L-6312	Muhammad Wasif Imran
+17358	17L-6313	Mohammad Hassaan Asif
+17103	17L-4492	Rohab Aamir
+16773	17L-4411	Muhammad Usama Anwar Chaudhry
+17229	17L-4532	Zia Mohyuddin
+16766	17L-4410	Syed Moeed Amjad
+17117	17L-4498	Nayab Ahmad
+17222	17L-4531	Muhammad Qasim Shahid
+17110	17L-4497	Rayan Tahir Khan
+16793	17L-4415	Simona Saeed
+17236	17L-4535	Mohammad Shamraiz Gul
+16780	17L-4413	Beenish Ali
+17250	17L-4539	Muhammad Tabish Nadeem
+17243	17L-4538	Omer Mahmood
+16800	17L-4416	Mohid Asim

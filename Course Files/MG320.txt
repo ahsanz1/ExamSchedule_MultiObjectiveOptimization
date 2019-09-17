@@ -1,0 +1,67 @@
+MG320		Operations Management
+==========================================
+1175	15L-4764	Syed Faizan Siddique
+1546	15L-4885	Saba Naseem
+923	15L-4685	Rana Muhammad Yaseen
+1162	15L-4762	Zoha Mahmood
+1168	15L-4763	Rana Muhammad Junaid Ahmed Noon
+918	15L-4683	Rahima Noor
+1060	15L-4726	Ifra akram
+1329	15L-4804	Tehreem Fatima
+1054	15L-4724	Alishah Saeed
+1323	15L-4801	Raja Abdul Basit
+1047	15L-4722	Anoush Hussain Agha
+1180	15L-4766	Rabbia Roohi Zulfiqar
+15	13L-4814	Zunair Khalid
+1357	15L-4809	Fatima Hassan Khilji
+28	13L-4974	Hamna Khalid
+767	15L-4654	Hibba Nouman
+1079	15L-4732	Ayesha Siddiqah
+1228	15L-4776	Haider Ali
+1536	15L-4850	Ahmad Farhan Rafique
+1201	15L-4772	Rana Ahsan Bakhtiar
+944	15L-4692	Warda Shafique
+1552	15L-4891	Syeda Maria Ashfaq
+1391	15L-4816	Annas Wajid Shah
+1398	15L-4817	Muhammad Shehryar Tariq
+1091	15L-4735	Taimoor Khalid
+1370	15L-4813	Ammar Nadeem
+1234	15L-4777	Arzoo Mehboob
+781	15L-4657	Ahsan Sharfat
+1086	15L-4734	Hamna Taufique
+1410	15L-4819	Mahnoor Imran
+821	15L-4665	Fahad Shafi Baig
+827	15L-4666	Muhammad Umair Masud
+1417	15L-4820	Ayesha Ahsen
+217	14L-4652	Kainat Rasheed
+814	15L-4664	Hamza Shahid Bhatti
+802	15L-4662	Muhammad Sarmad Suhail
+991	15L-4706	Anum Zaib
+996	15L-4707	Muhammad Umer Rehman
+1135	15L-4749	Javeria Abdul Sattar
+1442	15L-4826	Zargham Hayder
+846	15L-4669	Haris Saeed
+1131	15L-4746	M Taha bin Sohail
+1430	15L-4823	Abdul Rehman Butt
+979	15L-4703	Muhammad Asman
+833	15L-4667	Iqra Saeed
+1274	15L-4788	Zainab Farooq
+1540	15L-4865	Muhammad Mujtaba
+1010	15L-4709	Yumna Tariq Butt
+1285	15L-4790	Rida Ghazanfar
+1311	15L-4797	Shahid Ahmad Sial
+877	15L-4677	Maryam Rashid
+1453	15L-4831	Reshmail Ahmad Chaudhry
+551	14L-4761	Zuha Arif
+871	15L-4675	Imran
+860	15L-4672	Waleed Shahid
+1291	15L-4794	Zohaib Imran Minhas
+1028	15L-4717	Faran Saeed
+1497	15L-4838	Filza Ali
+1574	15L-4916	Areej Saleem
+1486	15L-4836	Amna Zahid
+1156	15L-4758	Hassaan mahmood
+1014	15L-4711	Muhammad Mahin Mian Ansari
+1317	15L-4799	Muhammad Taimoor Ghani
+1466	15L-4833	Osama Mateen
+1579	15L-4919	Fatima Shahzad

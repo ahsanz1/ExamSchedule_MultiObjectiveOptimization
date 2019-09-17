@@ -1,0 +1,45 @@
+CS451		Advance Database Concepts
+==========================================
+5035	14L-4011	Hamna Waseem
+4938	13L-5492	Saud Zaman Khan
+5044	14L-4012	Syeda Zainab Bukhari
+5226	14L-4056	Sana Babur
+6076	14L-4298	Muhammad Haseeb Mahmood
+5153	14L-4035	Ch Waqar Ali
+5299	14L-4079	Sana Fatima
+5440	14L-4112	Shoib Khalid
+5505	14L-4134	Aurangzaib
+7554	15L-4267	Eman Ijaz
+6108	14L-4312	Khawar Hussain
+5608	14L-4159	Shahiq Ur Rehman
+5904	14L-4236	Awais Ahmed
+6818	15L-4087	Ibrahim Aijaz
+7019	15L-4142	Muhammad Faheem
+5850	14L-4218	Mirza Ahmer Baig
+6859	15L-4097	Raja Asim Fayyaz
+5323	14L-4083	Hafiz M. Huzaifah Bin Asad
+4874	13L-4216	Muhammad Raghib
+6279	14L-4462	Muhammad Zeeshan Shahid
+5194	14L-4046	Hira Ahmad
+5398	14L-4102	Muhammad Mohib Bin Qamar
+5479	14L-4125	Khadija Saeed
+5998	14L-4268	Syed Sajjad Ali
+6205	14L-4345	Sumra Yasmin
+6238	14L-4389	Muhammad Shahrukh Khan
+6348	14L-5853	Muhammad Sohaib Qadeer
+4981	13L-5881	Ameera Arif
+6004	14L-4269	Muhammad Saad Tariq
+6144	14L-4324	Shayan Shokat
+4790	13L-4096	Nouman Ali
+5128	14L-4029	Mahnoor Ahmed
+6150	14L-4326	Syed Ferhan Haider
+6225	14L-4349	Zeenat Zahra
+6939	15L-4119	Zara Tahir
+5676	14L-4171	Syed Muhammad Sarim Jalil
+6710	15L-4062	Marriam Sajid
+6059	14L-4293	Mahnoor Fatima
+4933	13L-5438	Ahsan Arif
+5768	14L-4195	Muhammad Asim Waqar
+5955	14L-4250	Hammad Bin Ather
+5388	14L-4097	Aiman Arif Ansari
+5577	14L-4152	Khadija Arshad

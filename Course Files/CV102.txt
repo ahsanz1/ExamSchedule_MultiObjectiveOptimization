@@ -1,0 +1,71 @@
+CV102		Engineering Surveying
+==========================================
+14411	17L-4629	Razi Ur Rehman Malik
+14680	17L-6323	Shoaib Hassan
+14383	17L-4620	Bassam Tassaduq
+14541	17L-4664	Muhammad Safyan
+14534	17L-4662	Haider Ali
+14673	17L-6320	Mohammad Abdullah Arslan
+14233	17L-4426	Muhammad Dawood
+14562	17L-4667	Qasim Ahmed Bham
+14226	17L-4424	Rahfay Arshad
+14254	17L-4468	Syed Muhammad Sherafgan
+14555	17L-4666	Touseeque Amed
+14267	17L-4544	Muhammad Talha
+14390	17L-4621	Umer Shahid
+14548	17L-4665	Muhammad Ammar Ishaq
+14404	17L-4628	Khizer Ali Bhatti
+14397	17L-4626	Syed Noor Ali Hussaini
+14576	17L-4671	Zaineb Naeem
+14569	17L-4670	Syed Aown Abbas
+14597	17L-4675	Fahad Imran Sheikh
+14418	17L-4630	Abdul Wahab
+14590	17L-4674	Salman Chaudhary
+14583	17L-4672	Malieka Batool
+14240	17L-4437	Ahsan Bashir
+14432	17L-4635	Usama Irshad
+14625	17L-4679	Muhamad Hashim Khan
+14618	17L-4678	Ali Abid Khan Niazi
+14611	17L-4677	Muhammad Aquib Jamil
+14425	17L-4632	Muhammad Adeel Abbas
+14604	17L-4676	Nabiha Khalid
+14459	17L-4639	Syed Mohammad Asjad Adil Rizvi
+14452	17L-4638	Faran Waheed Khan
+14446	17L-4637	Asif Ali
+14247	17L-4438	Muhammad Talha Tariq
+14439	17L-4636	Majid Ali
+14327	17L-4609	Rana Sarmad Shabir
+14320	17L-4608	Afaq Ahmad
+14314	17L-4607	Wasee Bin Asad
+14639	17L-4681	Laraib Khan
+14632	17L-4680	Muhammad Abdullah
+14473	17L-4642	Rana Muhammad Qalbe Saleem
+14653	17L-4686	Usama Rao
+14466	17L-4641	Shoaib Akram
+14646	17L-4685	Neha Shafqat Qureshi
+14260	17L-4486	Muhammad Hamza Saghir
+14281	17L-4602	Muhammad Usman Gill
+14501	17L-4646	Muhammad Amir Khan
+14274	17L-4601	Muhammad Emaz Azam
+14494	17L-4645	Hamas Nazir Malik
+14487	17L-4644	Muhammad Asad Ejaz
+14480	17L-4643	Aurang Zaib Ali
+14660	17L-4687	Talha Iftikhar
+14307	17L-4606	Muhammad Asim Bhatti
+14300	17L-4605	Zulfiqar Ali Jauher
+14295	17L-4604	Muhammad Adeel
+14666	17L-6306	Muhammad Rizwan Khan
+14288	17L-4603	Rana Ahmad Tariq
+14376	17L-4618	Salman Tahir Cheema
+13869	16L-5439	Hamza Ashfaq
+14220	17L-4334	M Faizan Haider
+14515	17L-4652	Usama Rehman
+14508	17L-4650	Ali Akmal Chaudhary
+14341	17L-4612	Muhammad Qasim
+14529	17L-4656	Faizan Zahid Mir
+14334	17L-4610	Muhammad Bilal Akram
+14522	17L-4654	Muhammad Awais Ajmal
+14369	17L-4617	Muhammad Zain Asghar
+14362	17L-4616	Hamza Ali
+14355	17L-4615	Arslan Saghir
+14348	17L-4614	Mirub Akram

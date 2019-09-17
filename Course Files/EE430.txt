@@ -1,0 +1,26 @@
+EE430		Power Distribution and Utilisation
+==========================================
+14989	14L-4385	Muhammad Talha Tahir
+15217	14L-4451	Ali Abdullah Anjum
+15091	14L-4421	M Haaris Nayyar Warraich
+15179	14L-4443	Hafiz Mohsin Ali Malik
+14928	14L-4368	Ammara Ahmad
+15234	14L-4457	Muhammad Mehran Shahid
+15298	14L-4479	Fatima Waseem Baig
+14737	13L-4372	Mohammed Sami Ur Rehman Malik
+15066	14L-4414	Muhammad Shahrukh Khan
+15203	14L-4447	Ahsan Ahmad
+15087	14L-4419	Muhammad Ali
+15392	14L-4518	Asad Ul Hassan
+14692	12L-4256	Ahmed Mustafa
+14775	13L-4438	Talha Babar
+14749	13L-4388	Muhammad Usman Amjad Chishtee
+14743	13L-4378	Mansoor Imam
+14754	13L-4389	Muhammad Ali
+14716	12L-4505	Hassan Javaid
+14796	13L-4458	Muhammad Aziz Ur Rehman
+14809	13L-4478	Muhammad Mohsin Saeed
+14982	14L-4383	Yousuf Rehman
+15280	14L-4471	Fazal Khan
+14804	13L-4468	Syed Uzair Abbas Bukhari
+14862	13L-4556	Talha Saqib

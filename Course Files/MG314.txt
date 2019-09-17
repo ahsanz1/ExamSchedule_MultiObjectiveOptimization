@@ -1,0 +1,80 @@
+MG314		Financial Statement Analysis
+==========================================
+3320	14L-5562	Fahad Waqar
+3810	15L-5458	Fareed Ahmad
+3508	15L-4883	Sania Ahsen
+3516	15L-4884	Waleed Hussaini
+3124	14L-4953	Syed Shahzaib Hassan
+3338	14L-5569	Saad Ansari
+3502	15L-4880	Javeria Rizwan
+3275	14L-4998	Javeria Hameed
+3688	15L-4926	Muhammad Addiyan Aamir
+3696	15L-4927	Ahsan Naveed
+3682	15L-4924	Hafeez Ur Rehman Khan
+3669	15L-4922	Muhammad Fakhar e alam
+3674	15L-4923	Khubaib Mustafa
+3654	15L-4920	Muhammad Tahir Khan
+1525	15L-4844	Abdul karim
+3040	14L-4917	Mishal Qamar
+3661	15L-4921	Ch Muhammad Sameed Ayub
+3702	15L-4928	Fatima Masood
+3386	15L-4853	Aamir Saeed
+3710	15L-4930	Tajver Murtaza
+3529	15L-4894	Mahmood Ahmad
+493	14L-4740	Muhammad Zuhair
+3378	15L-4851	Sheikh Hassan Mahmood
+3536	15L-4895	Hafiza Ayesha Javaid
+3523	15L-4890	Aima Irfan
+951	15L-4693	Faraz Naeem
+3727	15L-4937	Samie ul hassan
+3734	15L-4938	Maryem Iftikhar
+3414	15L-4858	Areej Mujahid
+1385	15L-4815	Khurram Shahzad
+3400	15L-4856	Iqra Amir
+3406	15L-4857	Hashim Ejaz
+3392	15L-4854	Rameen Sarwar
+1085	15L-4734	Hamna Taufique
+3550	15L-4899	Muhammad Ali Subhani Gondal
+3716	15L-4932	Muhammad Wahab Tabish
+2984	13L-4923	Syed Ijlal Haider Naqvi
+3741	15L-4939	Usama Abid
+3747	15L-4940	Sheeza Hussain
+3432	15L-4864	Ashir Habib Ahmad
+3754	15L-4941	Salvat Ahmed
+3426	15L-4861	Hamna Fahim
+813	15L-4664	Hamza Shahid Bhatti
+3421	15L-4860	Muhammad Qasim Ali Chattha
+473	14L-4732	Muddassir Mustafa Mian
+3570	15L-4904	Sania Misbah
+3577	15L-4905	Noor Zia
+3453	15L-4869	Fahad Hameed
+3564	15L-4903	Syed Ali
+3783	15L-4947	Muhammad Sarwar Hashmat
+3446	15L-4867	Abdullah Naveed
+3557	15L-4901	Mishaal Aslam
+3770	15L-4945	Saad Aqeel
+3761	15L-4942	Manal Abid
+3439	15L-4866	Muhammad Mehdi
+3598	15L-4908	Mian Harris Riaz
+3606	15L-4909	Zainab Naveed
+2998	13L-5927	Rahma Sajjad
+3584	15L-4906	Muhammad Asadullah Butt
+3591	15L-4907	Kashaf ul khair
+3482	15L-4874	Shahram Ali
+3370	15L-4710	M Taha Khan
+3474	15L-4872	Muhammad Mateen
+3361	14L-5577	Fatima Sajjad
+3461	15L-4870	Syed Muhammad Raza Shirazi
+3467	15L-4871	Husnain Ijaz
+452	14L-4723	Neha Idrees
+3162	14L-4966	Zoha Saleem
+3632	15L-4913	Muhammad Ahmad Safdar
+3366	14L-5858	Zeeshan Iqbal
+3175	14L-4969	Abdullah Hassan Malik
+3618	15L-4911	Muhammad Jahangir Khan
+3495	15L-4879	Ramsha Mehmood
+3625	15L-4912	Syed Ammar Ahmad Bukhari
+3796	15L-4956	Muhammad Shariq Ali Rabbani
+3487	15L-4876	Ashir Wasim
+3790	15L-4954	Zain ul abedin
+3648	15L-4918	Muattar Javed

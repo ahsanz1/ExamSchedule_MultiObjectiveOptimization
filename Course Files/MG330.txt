@@ -1,0 +1,77 @@
+MG330		Engineering Management
+==========================================
+15033	14L-4396	Syed Zafaryab Hussain
+14895	14L-4354	Abdullah Nasir
+15353	14L-4510	Muhammad Zunair Khan
+15294	14L-4478	Mahak Khalid
+15359	14L-4511	Danish Murtaza
+14905	14L-4358	Muhammad Shoaib Alam
+15301	14L-4479	Fatima Waseem Baig
+15373	14L-4514	Muhammad Talha Rana
+15160	14L-4438	Muhammad Ahsan Ali
+15381	14L-4516	Ali Husnain
+15389	14L-4517	Shehryar Hasan
+15397	14L-4518	Asad Ul Hassan
+15404	14L-4519	Irfan Hussain
+15305	14L-4481	Ghosia Miraj
+15311	14L-4483	Shawez Ahmad
+14993	14L-4385	Muhammad Talha Tahir
+15256	14L-4463	Muhammad Baidar Bakhat
+15001	14L-4387	Shawwal Aftab Waseer
+15095	14L-4421	M Haaris Nayyar Warraich
+15262	14L-4465	Burhan Ahsan
+15270	14L-4466	Abdul Moid Rahat
+15111	14L-4423	Muhammad Umer
+15119	14L-4425	Shahzad Ghaffar
+15341	14L-4502	Rajaa Baloch
+15127	14L-4427	Kainat Rizwan Butt
+15133	14L-4428	Muhammad Hamza
+15349	14L-4505	Hassan Ali Zahid
+15139	14L-4429	Khizar Nawaz
+15414	14L-5718	Shahzada Shahjahan Ahmed
+15015	14L-4391	Hassaan Ahmad
+15020	14L-4392	Muhammad Atif Farooq
+14892	14L-4351	Muhammad Farhan Akhtar
+15027	14L-4395	Syed Ali Hassnat
+15289	14L-4472	Arsal Siddiq
+14881	14L-4253	Taimoor Sattar
+14955	14L-4374	Saad Aftab
+15222	14L-4451	Ali Abdullah Anjum
+14963	14L-4376	Hassan Ali
+14886	14L-4256	Sohaib Ul Hassan Sulehari
+14969	14L-4378	Shayan Akhtar
+15064	14L-4411	Hamza Mumtaz
+15337	14L-4499	Owais Bin Khalid Dar
+15238	14L-4457	Muhammad Mehran Shahid
+15072	14L-4414	Muhammad Shahrukh Khan
+15079	14L-4417	Shaheera Fatima
+15085	14L-4418	Muhammad Aun Raza
+15090	14L-4419	Muhammad Ali
+14975	14L-4380	Razi Haider Khan
+14980	14L-4382	Zoha Waheed
+14859	13L-4555	Rizwan Mahmood Siddiqui
+14987	14L-4383	Yousuf Rehman
+15244	14L-4460	Bilal Habib
+14865	13L-4556	Talha Saqib
+15250	14L-4461	Misha Ghauri
+15319	14L-4484	Abubakar Jahangir
+14919	14L-4364	Ahmad Bin Ishtiaq
+15166	14L-4441	Bilal Raza
+15326	14L-4485	Talha Mehboob
+15174	14L-4442	Muaaz Ahmed
+14924	14L-4366	Basir Mahmood
+15182	14L-4443	Hafiz Mohsin Ali Malik
+15188	14L-4444	Hasaan Amjad
+14931	14L-4368	Ammara Ahmad
+15195	14L-4445	Tayyaba Saeed
+15332	14L-4489	Ali Raza
+14937	14L-4369	Arslan Babar
+15201	14L-4446	Muhammad Ruhban Gill
+15042	14L-4403	Zulfiqar Ali
+15208	14L-4447	Ahsan Ahmad
+15214	14L-4448	Syed Mujtaba Ali Shamsi
+15048	14L-4405	Ayesha Irfan
+15053	14L-4408	Muhammad Ali
+15059	14L-4409	Uzair Mahmood
+14943	14L-4371	Abdul Rauf
+14949	14L-4373	Saad Saleem Raja

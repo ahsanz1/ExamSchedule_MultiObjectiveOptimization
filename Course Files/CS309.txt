@@ -1,0 +1,63 @@
+CS309		Object Oriented Analysis & Design
+==========================================
+6662	15L-4049	Aqsa Noor
+7289	15L-4203	Muhammad Hasan Alvi
+7459	15L-4247	Umair Zohaib
+7297	15L-4204	Tarviha Fatima
+7129	15L-4169	Fatima Tahira
+7452	15L-4246	Umer Naseer
+6825	15L-4089	Tahir Hameed
+6951	15L-4122	Badar Ali
+7442	15L-4244	Waqar Ahmad
+7989	15L-4449	Muhammad Siddique Khalid
+7966	15L-4406	Tehreem Aftab
+6851	15L-4095	Attiqa Naseer
+5331	14L-4084	Maida Tariq
+6841	15L-4092	Maleeha Qasim
+5625	14L-4162	Muhammad Farukh Jamal
+6830	15L-4090	Muhammad Momin Siddiqui
+7949	15L-4377	Fahad Tariq
+6201	14L-4344	Hassan Jalal
+6426	14L-5875	Raja Afraz Kamal
+6699	15L-4056	Muhammad Hamza
+7934	15L-4375	Syed Ghassan Faheem
+7508	15L-4255	Muhammad Jamal Butt
+7943	15L-4376	Muhammad Hamza Jawad Rana
+6431	14L-5876	Bilal Naseer
+6872	15L-4099	Nimrah Tariq
+6987	15L-4132	Asad ur Rehman
+7166	15L-4176	Muhammad Moeez Arif
+7766	15L-4330	Hasan Saleem Bajwa
+7929	15L-4374	Daniyal Khalid
+7351	15L-4216	Hamza Usman
+5566	14L-4150	Habibah Shahid
+6373	14L-5862	Saad Salman Zahid
+7800	15L-4344	Abdul Majid Hamza Khan
+5055	14L-4014	Abdul Rafey Tahir
+5832	14L-4212	Rida Anwar
+6368	14L-5861	Muhammad Mubashar Khawar
+6552	15L-4026	Muhammad Taha Tahir
+7379	15L-4224	Ifrah Nadeem
+7548	15L-4266	Muhammad Faiq
+4650	12L-4276	Ghayyur Ali
+4585	12L-4033	Muhammad Ahmad Mujtaba
+7671	15L-4307	Muhammad Hamza
+8035	15L-5558	Sabiqa Batool
+7068	15L-4152	Umer riaz
+6749	15L-4072	Muhammad Zaman
+7557	15L-4270	Moeen Ahmad
+6743	15L-4071	Aleeza Wasim
+7857	15L-4357	Ali Hassan
+7708	15L-4314	Khadija Asim Uppal
+6908	15L-4113	Lubaina Zubair Khan
+7093	15L-4157	Muhammad Faizan Hanif
+7098	15L-4158	Izzah Tariq
+7693	15L-4312	Usman Ahmed
+5019	14L-4006	Maha Saeed
+5950	14L-4248	Hassan Zubair
+6587	15L-4032	Haider Ali
+6356	14L-5859	Ahmed Mustafa
+6812	15L-4086	Hamza Ahmad
+6628	15L-4040	Mehrin Athar
+7582	15L-4280	Hamza Rashid
+4927	13L-4347	Muhammad Asif

@@ -1,0 +1,32 @@
+EE431		Power System Analysis
+==========================================
+14878	14L-4253	Taimoor Sattar
+15029	14L-4396	Syed Zafaryab Hussain
+15218	14L-4451	Ali Abdullah Anjum
+14901	14L-4358	Muhammad Shoaib Alam
+15067	14L-4414	Muhammad Shahrukh Khan
+15081	14L-4418	Muhammad Aun Raza
+15393	14L-4518	Asad Ul Hassan
+14971	14L-4380	Razi Haider Khan
+14983	14L-4383	Yousuf Rehman
+15307	14L-4483	Shawez Ahmad
+14990	14L-4385	Muhammad Talha Tahir
+14915	14L-4364	Ahmad Bin Ishtiaq
+15252	14L-4463	Muhammad Baidar Bakhat
+15322	14L-4485	Talha Mehboob
+14997	14L-4387	Shawwal Aftab Waseer
+15092	14L-4421	M Haaris Nayyar Warraich
+15258	14L-4465	Burhan Ahsan
+15184	14L-4444	Hasaan Amjad
+15106	14L-4423	Muhammad Umer
+15328	14L-4489	Ali Raza
+14933	14L-4369	Arslan Babar
+15197	14L-4446	Muhammad Ruhban Gill
+15115	14L-4425	Shahzad Ghaffar
+15204	14L-4447	Ahsan Ahmad
+15129	14L-4428	Muhammad Hamza
+15136	14L-4429	Khizar Nawaz
+15055	14L-4409	Uzair Mahmood
+15408	14L-5718	Shahzada Shahjahan Ahmed
+14939	14L-4371	Abdul Rauf
+14888	14L-4351	Muhammad Farhan Akhtar

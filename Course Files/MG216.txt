@@ -1,0 +1,62 @@
+MG216		Cost & Management Accounting
+==========================================
+4015	16L-4935	Shah Alam Khan Niazi
+4122	16L-4979	Ayesha Nawaz
+4117	16L-4978	Umair Amir
+4025	16L-4937	Faisal Iqbal
+4020	16L-4936	Nimra Tariq
+4112	16L-4975	Amman Naeem
+3826	16L-4853	Muhammad Hamza
+4107	16L-4974	Syeda Hina Zehra
+3843	16L-4856	Mian Sabeh Tabassum
+3838	16L-4855	Saher Fatima
+4010	16L-4932	Zara Zafar
+4092	16L-4971	Usama Saeed
+3931	16L-4893	Kinza Asim
+3821	16L-4851	Mishail Khawaja
+3926	16L-4892	Saira
+4030	16L-4939	Amlish Khan
+3995	16L-4924	Muhammad Omer Amir
+4082	16L-4968	Dilawer Virk
+3706	15L-4930	Tajver Murtaza
+3990	16L-4923	Faizan Ahmad
+4000	16L-4925	Syed Hussain Abbas Shah
+3921	16L-4888	Fahad Waseem
+3911	16L-4883	Fawad Tariq
+4078	16L-4960	Aima Khan
+3906	16L-4882	Mahnoor Tahir
+3901	16L-4880	Novair Ahmad Khawaja
+3740	15L-4939	Usama Abid
+4005	16L-4929	Rameen Razzaq
+3430	15L-4864	Ashir Habib Ahmad
+3958	16L-4912	Muhammad Bilal
+3424	15L-4861	Hamna Fahim
+3968	16L-4915	Muhammad Ahmed Nasir
+3963	16L-4914	Maheen Raza
+3896	16L-4876	Hajara Mahmood
+4059	16L-4953	Ghulam Fatima
+3419	15L-4860	Muhammad Qasim Ali Chattha
+3891	16L-4875	Hafiz Ammar Akbar Baig
+4064	16L-4955	Rabi Amir
+3953	16L-4910	Ali Faizan
+3774	15L-4946	Hafiz Shaheer Akbar Baig
+3886	16L-4874	Aniqa Rehman
+3781	15L-4947	Muhammad Sarwar Hashmat
+3765	15L-4944	Hasan Zaim Khan
+3978	16L-4917	Syeda Alina Zahra
+3973	16L-4916	Bilal Ahsan
+3983	16L-4919	Arjumand Akbar
+3876	16L-4869	Abdul Rehman
+4049	16L-4946	Waleed Sultan
+3871	16L-4868	Aqsa Sarwar
+4044	16L-4945	Latif Masih
+3814	16L-4827	Munawer Abbas
+3943	16L-4904	Jahanzaib Shaukat Chattha
+3360	14L-5577	Fatima Sajjad
+3860	16L-4864	Laiba Mohsin
+4035	16L-4941	Subhana Khalil
+3636	15L-4915	Shumaila Anwar
+3848	16L-4860	Kumail Waseem
+4129	16L-4981	Sufiyan Tahir Bhatti
+3855	16L-4863	Minahil Maqsood
+4054	16L-4949	Uzair Farooq

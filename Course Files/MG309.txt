@@ -1,0 +1,156 @@
+MG309		Consumer Behavior
+==========================================
+1611	16L-4659	Muhammad Abou Ul Hassan Naqvi
+2124	16L-4814	Ismat Tahreem
+2120	16L-4813	Syed Hussain Abdul Mutlib
+2134	16L-4816	Muhammad Zeeshan
+1585	15L-4961	Moosa Wahid
+2129	16L-4815	Mahnoor Baig
+1606	16L-4656	Roshaan Khan
+2010	16L-4777	Tahleel Kashif
+2272	16L-6316	Muhammad Ali
+906	15L-4681	Muhammad Ahmad Khan
+2115	16L-4812	Ammar Bin Waheed
+2110	16L-4811	Minahil Tariq
+1596	16L-4651	Muhammad Hamid Ahmed Dastgir
+1995	16L-4772	Muhammad Ali Farrukh
+2264	16L-6313	Saad Shahid
+2000	16L-4773	Muhammad Usman
+2260	16L-6312	Syed Muhammad Zain Ul Abideen
+1601	16L-4653	Mian Muhammad Faizan Elahi
+2005	16L-4775	Abdul Rahman
+1530	15L-4846	Rajea khan
+1985	16L-4770	Tehreem Faizan
+1990	16L-4771	Khadija Bakht
+2139	16L-4818	Saud Shahzad
+2144	16L-4819	Ayesha Qayyum
+2088	16L-4802	Muhammad Humza Iqbal Khan
+1589	16L-4529	Auneeb Hussain Usmani
+2096	16L-4805	Hina Harram
+1976	16L-4765	Raahim Nasrullah
+1980	16L-4768	Adsia Ramzan
+2083	16L-4800	Iqra Saleem
+1104	15L-4739	Rija Hassan
+1967	16L-4761	Maryam Khadim
+1972	16L-4763	Ruha
+2250	16L-4884	Noor Fatima
+2101	16L-4807	Maira Khan
+2105	16L-4808	Muhammad Junaid Butt
+1946	16L-4755	Mahrin Imtiaz
+1951	16L-4756	Nawal Mehmood
+1956	16L-4757	Ammad
+1936	16L-4751	Hassan Shehryar
+2246	16L-4871	Farwa Tahir
+1941	16L-4752	Aimen Nadeem
+1931	16L-4748	Syeda Fizza Naqvi
+1921	16L-4743	Ramsha Sultan
+1926	16L-4745	Zubair Nisar
+2241	16L-4866	Abdullah Mehmood
+1917	16L-4741	Amina Yousaf
+688	14L-4805	Ihtisham Khaliq
+694	14L-4806	Muhammad Hashim ishaq
+1777	16L-4699	Harris Najam
+1902	16L-4732	Saffara Shoaib
+1907	16L-4733	Ali Yahya
+1912	16L-4734	Anam Mustafa
+1762	16L-4695	Yasha Binnat-e-Mufeez
+2234	16L-4850	Rida Khan
+1343	15L-4806	Arsum Shabbir
+1767	16L-4696	Hamza Khalid Butt
+1772	16L-4697	Zareen Qadeer
+1897	16L-4731	Ammarah Waheed
+1742	16L-4691	Muhammad Omer Farooq
+1747	16L-4692	Zoon Gohar Khan
+1752	16L-4693	Aneeza Ahsan
+1757	16L-4694	Danyal Shahid
+612	14L-4781	Zainab Naveed
+1873	16L-4725	Maryam Shami
+2220	16L-4847	Haider Sami Butt
+1878	16L-4726	Asma Rauf
+2215	16L-4846	Hamad Abbas
+625	14L-4783	Khuzaima Akmal
+2230	16L-4849	Faiz Ur Rehman Khan
+1883	16L-4728	Anish Aslam
+2225	16L-4848	Muhammad Shoaib Aslam
+1863	16L-4721	Khadija Bilal Bhutta
+2199	16L-4842	Ahmed Mubeen
+282	14L-4666	Saba Farooq
+1868	16L-4723	Hiba Sajid
+2210	16L-4845	Sallahudin Ijaz
+1397	15L-4817	Muhammad Shehryar Tariq
+1727	16L-4685	Wajiha Amir Butt
+1732	16L-4687	Naureeta Chaudhary
+1858	16L-4720	Habiba Majeed
+1714	16L-4680	Moeez Musa
+1718	16L-4681	Abdullah Masood
+1722	16L-4682	Darakshan Tariq Aziz
+779	15L-4657	Ahsan Sharfat
+1737	16L-4690	Muhammad Arslan Baig
+1888	16L-4729	Laibaibrahim
+1843	16L-4715	Mehwish Khan
+2189	16L-4835	Hafiz Hamza Azeem
+2255	16L-4956	Shifa Khalid
+379	14L-4696	Atiqa Latif
+1848	16L-4717	Zainab Awan
+794	15L-4661	Hafiz Murtaza Amad
+1699	16L-4677	Ejaz Rasool
+1828	16L-4710	Laiba Rizwan Meer
+2078	16L-4799	Muhammad Laraib Khawar
+2179	16L-4832	Aneeza Naeem
+1704	16L-4678	Sana Tahir
+1833	16L-4711	Qasim Mahmood
+2073	16L-4798	Kumail Raza
+2174	16L-4831	Shahbaz Mehmood
+1709	16L-4679	Muhammad Bahauddin
+1838	16L-4712	Ayela Mujeeb
+2184	16L-4833	Zainab Waheed
+1677	16L-4673	Muhammad Hassan Tariq
+1682	16L-4674	Sarah Zafar
+2058	16L-4794	Huzaifah Imtiaz
+1687	16L-4675	Rofia Khalid
+2068	16L-4797	Masooma Ali Shah
+2169	16L-4830	Osama Imtiaz
+1441	15L-4826	Zargham Hayder
+2063	16L-4796	Hamza Ishaq
+1662	16L-4670	Azba Asghar Butt
+2283	16L-6330	Minhaal Rabbani
+1273	15L-4788	Zainab Farooq
+1667	16L-4671	Shafaq Naeem
+2053	16L-4793	Zainab Naeem
+1672	16L-4672	Muhammad Temur Ahmad Latif
+1447	15L-4829	Aaqib Hussain Khan
+1009	15L-4709	Yumna Tariq Butt
+1853	16L-4718	Aneeq Ahmed Gilani
+2194	16L-4839	Kinza Imran
+1792	16L-4703	Ali Ahmad
+2164	16L-4825	Muhammad Khizar Hayat
+864	15L-4674	Usama Iftikhar
+1802	16L-4705	Muhammad Ahmad
+1807	16L-4706	Maham Qasim
+1642	16L-4666	Farah Naseem Chaudhry
+2048	16L-4788	Maria Tariq
+1289	15L-4794	Zohaib Imran Minhas
+1647	16L-4667	Gul Afroz
+1782	16L-4700	Ifaf Imtiaz
+2043	16L-4787	Anas Khan Nizamani
+2149	16L-4820	Haika Zia
+1652	16L-4668	Haseeb Zia
+1787	16L-4701	Arslan Ahmed
+1657	16L-4669	Anoushey Fatima
+1622	16L-4662	Muhammad Daud Zaidi
+1627	16L-4663	Iqra Rauf
+2030	16L-4783	Lyba Maqsood
+2278	16L-6323	Sadaf Amir
+1632	16L-4664	Areeba Tariq
+2039	16L-4786	Hasnain Asif
+1492	15L-4837	Daud Muhammad Aslam
+1637	16L-4665	Muhammad Omer Bhatti
+2035	16L-4785	Ume Aimen
+2015	16L-4780	Tehniat Meer
+1617	16L-4660	Zoha Batool
+2025	16L-4782	Adina Khalid
+891	15L-4679	Zahid Athar Khan
+2020	16L-4781	Abdullah Majeed
+1812	16L-4707	Faizan Umer Butt
+1818	16L-4708	Aqeel Abbas
+1823	16L-4709	Laiba Saghir

@@ -1,0 +1,32 @@
+CS303		Software Engineering
+==========================================
+5702	14L-4176	Saqib Ali
+6454	14L-5882	Khawar Ahmed Kharal
+5163	14L-4037	Khizar Amin
+5451	14L-4116	Muhammad Meesam Ali Khan
+5964	14L-4259	Muhammad Anees Shafique
+6119	14L-4314	Abdul Hanan
+4884	13L-4240	Usama Sajid
+5456	14L-4118	Khan Muhammad Riaz Bin Tariq
+4678	12L-5541	Rana Muhammad Tauheed
+6408	14L-5869	Maghfoor Ahmad Bilal
+4971	13L-5869	Syed Ali Aizad Kirmani
+4850	13L-4179	Shahzad Ali
+6033	14L-4282	Muhammad Farooq
+4717	13L-4038	Muhammad Hanif
+5984	14L-4262	Saba Abbas
+5542	14L-4143	Muhammad Bilal Iqbal
+5271	14L-4067	Hafiz Rizwan Ahmad
+6413	14L-5870	Muhammad Ali Raza
+4891	13L-4253	Usama Zulfiqar
+4788	13L-4096	Nouman Ali
+5557	14L-4149	Hamza Ahmed
+5429	14L-4108	Fatima Khan
+6154	14L-4328	Adeel Shaukat
+6159	14L-4329	Ahmad Ayyaz
+4600	12L-4079	Mugheez Aslam
+4577	12L-4017	Fauz Ahmad Khan
+5354	14L-4091	Hira Rauf
+4775	13L-4089	Muhammad Hassan Akhlaq
+5765	14L-4195	Muhammad Asim Waqar
+4975	13L-5876	Amir Muddassar

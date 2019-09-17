@@ -1,0 +1,130 @@
+MG312		Financial Institutions & Markets
+==========================================
+1041	15L-4721	Uswa Sadia
+1510	15L-4842	Muhammad Ahmad Mansoor
+521	14L-4750	M Zeeshan Jamil
+922	15L-4685	Rana Muhammad Yaseen
+930	15L-4686	Shahzaib hashmi
+916	15L-4683	Rahima Noor
+910	15L-4682	Muhammad Uzair Riaz
+1072	15L-4728	Mohammad Maaz
+1058	15L-4726	Ifra akram
+541	14L-4759	Mustafa Kamal
+1066	15L-4727	Muhammad Salman Anjum
+1046	15L-4722	Anoush Hussain Agha
+1517	15L-4843	Umer Naveed
+1524	15L-4844	Abdul karim
+2974	12L-4961	Ahsan Farooq
+937	15L-4691	Laiba Noor
+1078	15L-4732	Ayesha Siddiqah
+957	15L-4696	Fatima Sarfraz
+1534	15L-4850	Ahmad Farhan Rafique
+103	14L-4621	Qasim Zafar
+943	15L-4692	Warda Shafique
+950	15L-4693	Faraz Naeem
+1105	15L-4739	Rija Hassan
+1098	15L-4738	Azqa Saif
+1090	15L-4735	Taimoor Khalid
+1084	15L-4734	Hamna Taufique
+204	14L-4650	Muhammad Daniyal Malik
+580	14L-4771	Ghulam Mustafa Aslam
+1124	15L-4743	Talha Anjum Butt
+1111	15L-4740	Tubah Shahzadi
+216	14L-4652	Kainat Rasheed
+587	14L-4773	Zeeshan Shahid
+597	14L-4775	Romaisa Lateef Sheikh
+242	14L-4657	Nusrat Ullah Roomi
+248	14L-4659	Sophia Mansoor
+714	14L-4813	Muhammad Abubakar
+721	14L-4814	Omar Mahmood
+1129	15L-4746	M Taha bin Sohail
+1539	15L-4865	Muhammad Mujtaba
+32	13L-5924	Fawad Zafar
+1143	15L-4754	Rija Javaid
+1573	15L-4916	Areej Saleem
+1567	15L-4914	Romeesa Tariq
+1155	15L-4758	Hassaan mahmood
+1150	15L-4755	Fatima Tariq
+1578	15L-4919	Fatima Shahzad
+1174	15L-4764	Syed Faizan Siddique
+1545	15L-4885	Saba Naseem
+1161	15L-4762	Zoha Mahmood
+1167	15L-4763	Rana Muhammad Junaid Ahmed Noon
+676	14L-4799	Talha Amjad
+1336	15L-4805	Laiba Tariq
+422	14L-4714	Faizan Shahnawaz
+1328	15L-4804	Tehreem Fatima
+1322	15L-4801	Raja Abdul Basit
+1179	15L-4766	Rabbia Roohi Zulfiqar
+1188	15L-4767	Maheer Awais Malik
+1355	15L-4809	Fatima Hassan Khilji
+1350	15L-4808	Muhammad Tahir Latif
+766	15L-4654	Hibba Nouman
+1221	15L-4775	Abdul Rahman Maqbool
+617	14L-4782	Vijay Kumar
+1227	15L-4776	Haider Ali
+753	15L-4652	Faizan Khaleeq
+1207	15L-4773	Rimsha Imran
+760	15L-4653	Rafia Javed
+1194	15L-4771	Muhammad Mustafa Mumtaz
+1560	15L-4892	Maria Samreen
+746	15L-4651	Saad Shahzad
+1199	15L-4772	Rana Ahsan Bakhtiar
+283	14L-4666	Saba Farooq
+1551	15L-4891	Syeda Maria Ashfaq
+288	14L-4668	Sara Salim
+1377	15L-4814	Khadija Waheed
+1384	15L-4815	Khurram Shahzad
+789	15L-4659	Rida Ahmad
+1369	15L-4813	Ammar Nadeem
+774	15L-4656	Beenish Tahir
+1233	15L-4777	Arzoo Mehboob
+1240	15L-4778	Usman Naeem
+1404	15L-4818	Aqeeb ud din
+1409	15L-4819	Mahnoor Imran
+363	14L-4693	Sulman Azam
+820	15L-4665	Fahad Shafi Baig
+826	15L-4666	Muhammad Umair Masud
+1266	15L-4787	Abdullah Shahzad
+1416	15L-4820	Ayesha Ahsen
+808	15L-4663	Mahlaqa Saqib
+1259	15L-4785	Shahzeb Haq
+795	15L-4661	Hafiz Murtaza Amad
+1253	15L-4782	Ramsha Naveed
+800	15L-4662	Muhammad Sarmad Suhail
+990	15L-4706	Anum Zaib
+995	15L-4707	Muhammad Umer Rehman
+1436	15L-4825	Fawad Ahmad
+984	15L-4705	Hazik Bin Waqar
+845	15L-4669	Haris Saeed
+1428	15L-4823	Abdul Rehman Butt
+977	15L-4703	Muhammad Asman
+832	15L-4667	Iqra Saeed
+1424	15L-4821	Muhammad Abdullah
+840	15L-4668	Zainab Hussain Bukhari
+1279	15L-4789	Maleeha Jamal
+1003	15L-4708	Ayesha Adeel Bottar
+1284	15L-4790	Rida Ghazanfar
+1310	15L-4797	Shahid Ahmad Sial
+876	15L-4677	Maryam Rashid
+1452	15L-4831	Reshmail Ahmad Chaudhry
+865	15L-4674	Usama Iftikhar
+1297	15L-4795	Mehreen Fatima
+870	15L-4675	Imran
+1303	15L-4796	Ahsan khursheed
+859	15L-4672	Waleed Shahid
+1290	15L-4794	Zohaib Imran Minhas
+853	15L-4670	Kalsoom Khan
+1027	15L-4717	Faran Saeed
+1496	15L-4838	Filza Ali
+1034	15L-4718	Mehak Zahid
+1503	15L-4839	Ammara Rehman
+1485	15L-4836	Amna Zahid
+1021	15L-4713	Ibrahim Ayyaz
+1473	15L-4834	Muhammad Musa Khan
+1481	15L-4835	Hamna Waheed
+884	15L-4678	Nabiha Shahid
+1013	15L-4711	Muhammad Mahin Mian Ansari
+1465	15L-4833	Osama Mateen
+24	13L-4868	Anam Hamid
+899	15L-4680	Imtiaz Ahmed

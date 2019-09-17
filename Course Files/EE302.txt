@@ -1,0 +1,79 @@
+EE302		Digital Signal Processing
+==========================================
+15623	15L-4445	Ayesha Nadeem
+15915	15L-4522	Ayesha Javed
+15141	14L-4431	Shahzeb Tauqir
+15901	15L-4520	Muhammad Hassan Sharif
+15615	15L-4444	Muhammad Zeeshan
+15751	15L-4485	Hamza Awan
+16089	15L-4563	Fahad Amer
+16073	15L-4560	Zainab Eman
+15607	15L-4440	Shayan Najeeb Ghumman
+16081	15L-4561	Muhammad Asad Nawaz
+15455	15L-4409	Arslan Mehmood
+15439	15L-4407	Hammad Munir
+15383	14L-4517	Shehryar Hasan
+15447	15L-4408	Muhammad Hamza
+15431	15L-4405	Maida
+15931	15L-4527	Abdullah Amjad
+15632	15L-4447	Usaid Rafique
+15423	15L-4404	Noraiz Butt
+15923	15L-4525	Usman Mehboob
+14757	13L-4419	Waleed Ahmed
+14906	14L-4362	Muhammad Talal Mustafa
+15479	15L-4413	Ahmad Hamza
+15663	15L-4457	Salman Tariq
+15463	15L-4410	Muhammad Arsalan Baig
+16097	15L-5467	Amna Tariq
+15096	14L-4422	Muhammad Usama Aslam
+15798	15L-4496	Marium Aamer
+15655	15L-4453	Sabeena Tariq
+15273	14L-4468	Aaqib Naeem
+15782	15L-4494	Uzair Zafar
+15639	15L-4451	Nummra Khalid
+15790	15L-4495	Hamza Usman Shuja
+15342	14L-4505	Hassan Ali Zahid
+15514	15L-4418	Mahnoor Shahid
+15503	15L-4417	Basma Aslam
+15947	15L-4535	Abdul Hanan Ali
+15495	15L-4415	Muhammad Saad Khan
+15955	15L-4536	Arsman Safdar
+14690	12L-4256	Ahmed Mustafa
+15671	15L-4460	Talha Imran
+15278	14L-4471	Fazal Khan
+15535	15L-4423	Mohammad Adil Tariq
+15687	15L-4467	Muhammad Aqib
+15543	15L-4424	Muhammad Ahmad Saleem
+15695	15L-4468	Muhammad Mustafa
+15821	15L-4501	Muhammad Bin Ashiq
+14956	14L-4376	Hassan Ali
+15527	15L-4422	Nehal Ijaz
+15679	15L-4466	Shawal Nazir
+15519	15L-4420	Khizar
+15231	14L-4457	Muhammad Mehran Shahid
+15559	15L-4429	Shahzaib Akram
+15853	15L-4507	Muhammad Yasir
+15551	15L-4425	Majid Nadeem
+15829	15L-4502	Ehtesham Riazat
+15839	15L-4503	Shah Zaman
+14772	13L-4438	Talha Babar
+14867	13L-4559	Ameeq Ahmed Khan
+15583	15L-4434	Basma Nadeem Anwar
+15719	15L-4479	Malik Zaeem Ul Haq Awan
+16041	15L-4556	Sidra Sajjad
+15567	15L-4430	Muhammad Moaz Adnan
+16017	15L-4551	Moeez Shakoor
+15575	15L-4431	Salman Nadeem
+16025	15L-4552	Mehroz Afzal
+16009	15L-4550	Shadab Ahmad Khan
+15892	15L-4518	Rabiya Sajid
+16065	15L-4559	Muhammad Abdullah
+14698	12L-4281	Usama Ikhlaq
+15599	15L-4439	Agha Ali Zeb
+16049	15L-4557	Syed Kausain Mehdi
+16057	15L-4558	Sohaib Abbasi
+14764	13L-4428	Muhammad Raza
+15735	15L-4481	Muhammad Fatir Malik
+15743	15L-4482	Babar Afzal
+15727	15L-4480	Mahnoor Zaghum Butt
+14802	13L-4468	Syed Uzair Abbas Bukhari

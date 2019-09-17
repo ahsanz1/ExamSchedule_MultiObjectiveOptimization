@@ -1,0 +1,10 @@
+EE305		Electromagnetic Theory
+==========================================
+15815	15L-4500	Muhammad Hamza
+16106	15L-5556	Ahmad Awab
+14817	13L-4483	Haseeb Ahsan
+15189	14L-4445	Tayyaba Saeed
+15036	14L-4403	Zulfiqar Ali
+15362	14L-4513	Mudassar Seemab
+15370	14L-4514	Muhammad Talha Rana
+15391	14L-4518	Asad Ul Hassan

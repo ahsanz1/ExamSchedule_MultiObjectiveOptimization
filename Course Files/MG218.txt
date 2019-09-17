@@ -1,0 +1,51 @@
+MG218		Leadership in Organizations
+==========================================
+302	14L-4673	Mahad Ali
+519	14L-4750	M Zeeshan Jamil
+128	14L-4630	Mahrukh Fatima
+663	14L-4796	Faryal Shafiq
+138	14L-4632	Aliza Rizvi
+3279	14L-4999	Rida Imran
+3694	15L-4927	Ahsan Naveed
+1186	15L-4767	Maheer Awais Malik
+3044	14L-4918	Shahtaj Quasim
+764	15L-4654	Hibba Nouman
+623	14L-4783	Khuzaima Akmal
+629	14L-4784	Syed Taha Noman Wasti
+274	14L-4665	Zainab Ashraf
+503	14L-4743	Ayesha Saeed
+941	15L-4692	Warda Shafique
+3521	15L-4890	Aima Irfan
+292	14L-4669	Hiba Abdul Manan
+1095	15L-4738	Azqa Saif
+406	14L-4707	Shanzah Sahir
+1231	15L-4777	Arzoo Mehboob
+3315	14L-5561	Ahmad Imtiaz
+1414	15L-4820	Ayesha Ahsen
+213	14L-4652	Kainat Rasheed
+384	14L-4697	Khush Bakht
+1251	15L-4782	Ramsha Naveed
+225	14L-4654	Iqra Kamal
+389	14L-4698	Ismail Hassan Butt
+230	14L-4655	Ameer Nosherwan Ali
+73	14L-4612	Muhammad Aayem Masood
+477	14L-4733	Muhammad Hassan
+988	15L-4706	Anum Zaib
+82	14L-4614	Mian Usman Saif
+606	14L-4779	Namra Siddique
+3203	14L-4978	Talha Nasir Manj
+1270	15L-4788	Zainab Farooq
+1277	15L-4789	Maleeha Jamal
+1282	15L-4790	Rida Ghazanfar
+545	14L-4760	Farrukh Alam
+857	15L-4672	Waleed Shahid
+441	14L-4720	Zara Javed
+3157	14L-4964	Hasan Raheel
+1494	15L-4838	Filza Ali
+190	14L-4647	Omer Farooq
+1571	15L-4916	Areej Saleem
+3061	14L-4923	Baligha Khalid
+3066	14L-4924	Maria Arshad
+45	14L-4606	Rabia Tariq
+3646	15L-4918	Muattar Javed
+357	14L-4692	Abdullah Ahmad

@@ -1,0 +1,73 @@
+CV401		Construction Management
+==========================================
+12497	14L-5761	Muhammad Qasim Pervaiz
+12505	14L-5762	Zain Tajamal
+12513	14L-5764	Muhammad Hasnat
+12521	14L-5765	Muhammad Bilal
+12336	14L-5722	Usama Khalid
+12723	14L-5800	Muhammad Usama Waheed Khan
+12536	14L-5767	Muhammad Ahsan
+12544	14L-5768	Muhammad Fahad Amjad
+12739	14L-5802	Rooh Ullah
+12553	14L-5769	Muhammad Farhan Saleem
+12731	14L-5801	Muhammad Abdul Wahab
+12344	14L-5726	Chaudhary Saad Zahid
+12757	14L-5804	Rahima Ejaz
+12747	14L-5803	Hammad Ahmad
+12352	14L-5728	Ahmed Tahir
+12360	14L-5729	Muhammad Bilal Shahid
+12773	14L-5808	Sheharyar
+12765	14L-5807	Ahmad Waleed Athar
+12781	14L-5809	Sohaib Aslam
+12109	11L-4684	Muhammad Arslan
+12562	14L-5770	Asfand Ali
+12674	14L-5794	Umair Ahmad
+12683	14L-5795	Aatra Ali
+12691	14L-5796	Hafiz Saad Siddiqi
+12699	14L-5797	Muhammad Waleed Imran
+12278	14L-5710	Muhammad Junaid Asif Sahi
+12460	14L-5754	Kawish Khan
+12707	14L-5798	Saiyed Mohammad Yeahyea Gailani
+12286	14L-5711	Muhammad Bilal Ali
+12715	14L-5799	Ahmed Nawaz
+12212	14L-4469	Haseeb Ahmad
+12294	14L-5713	Muhammad Shahan
+12469	14L-5757	Muhammad Hammad Gohar
+12478	14L-5758	Muhammad Sufyan Ahmed
+12487	14L-5759	Safiyullah Nadeem
+12302	14L-5716	Arslan Mazhar
+12310	14L-5717	Taemoor Hassan
+12318	14L-5719	Shahneel Fatima
+12128	12L-5784	Usama Noor
+12203	13L-5812	Arslan Ahmad
+12119	12L-5707	Faisal Hameed Khan
+12604	14L-5782	Hamza Sohail
+12427	14L-5740	Muhammad Yousaf
+12612	14L-5784	Iram Naeem
+12435	14L-5741	Muhammad Abdullah Ahmad
+12622	14L-5785	Talha Bin Arif
+12443	14L-5742	Tahir Nadeem
+12631	14L-5786	Fahad Nouman
+12640	14L-5787	Sheikh Muhammad Usama
+12648	14L-5788	Adil Shakeel
+12656	14L-5789	Muhammad Arslan
+12230	14L-5702	Ahmed Mateen
+12452	14L-5746	Rabia Adnan
+12238	14L-5704	Faisal Tariq Khan
+12246	14L-5705	Muhammad Talha Ishfaq
+12254	14L-5707	Zain Ul Islam
+12262	14L-5708	Muhammad Sikandar Malik
+12270	14L-5709	Mohammad Anzar Sheikh
+12664	14L-5790	Muhammad Waleed Ahsan
+12570	14L-5771	Asghar Mehdi
+12368	14L-5730	Ahmad Raza
+12376	14L-5731	Muhammad Shahroz
+12384	14L-5732	Sameer Moazzam
+12392	14L-5733	Muzamil Kaleem
+12579	14L-5777	Sarim Adnan
+12400	14L-5734	M Wahib Bin Qamar Qureshi
+12789	14L-5810	Haseeb Anjum
+12588	14L-5779	Hamdoon Nasrullah
+12408	14L-5736	Zohaib Mahmood Butt
+12418	14L-5737	Adnan Rasheed
+12596	14L-5780	Faisal Gulzar

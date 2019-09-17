@@ -1,0 +1,173 @@
+MG224		Financial Accounting
+==========================================
+2339	17L-4907	Afnan Tufail
+2332	17L-4906	Muhammad Khubaib Malik
+2325	17L-4905	Sehab Razzaq
+2270	16L-6316	Muhammad Ali
+2353	17L-4909	Faheel Anjum
+2346	17L-4908	Ali Asghar Cheema
+2266	16L-6315	Awais Khalid
+2925	17L-5041	Saad Akram
+1528	15L-4846	Rajea khan
+2918	17L-5040	Amaduddin
+2890	17L-5031	Ifrah Zaeem
+2904	17L-5037	Babar Iqbal
+2897	17L-5036	Salman Imran
+2649	17L-4980	Yumna Khalil
+2677	17L-4987	Mehr Un Nisa
+2670	17L-4986	Muhammad Hamza Naseer
+2663	17L-4985	Syeda Ayman Zahra
+2656	17L-4984	Rimsha Shah
+2911	17L-5039	Abubakr Saleem
+2318	17L-4903	Maria Fatima Toor
+2311	17L-4902	Syeda Shayan Zahra
+2304	17L-4901	Ibrahim Shahzad
+2684	17L-4988	Maheen Ashar
+2092	16L-4803	Awsaf Arshad
+1587	16L-4529	Auneeb Hussain Usmani
+3916	16L-4886	Zainab Kamal Ud Deen
+2943	17L-5045	Ali Hamid
+2932	17L-5043	Chaudary Muddassar Feth Ali
+2290	17L-4752	Muhammad Fasih
+2956	17L-5048	Fatima Irfan
+4145	17L-4751	Syed Shahzaib Munir
+2704	17L-4992	Muhammad Haris
+2697	17L-4991	Muhammad Ahmad Yousaf
+2360	17L-4910	Farjmand Malik
+2725	17L-4998	Ayesha Mahmood
+4165	17L-4756	Muhammad Asif Riaz
+2718	17L-4997	Sohaib Zulfiqar
+2711	17L-4996	Fatima Khalid
+4152	17L-4753	Muhammad Taqi
+2374	17L-4914	Naqeeb Sarfraz
+2367	17L-4913	Gul E Jannat
+4179	17L-4758	Mustafa Salman Mubarak
+2732	17L-4999	Saad Bin Waqas
+4172	17L-4757	Mujtaba Salman Mubarak
+1115	15L-4742	Osama Khalid
+1959	16L-4758	Muhammad Mobeen Ul Haq
+3881	16L-4872	Ainza Zaman
+2791	17L-5011	Khadija Aslam
+2560	17L-4961	Mariam Maheen Iqbal
+2818	17L-5016	Samra Javaid
+2553	17L-4960	Hamd Qasim
+4560	17L-5136	Abdullah Jamshed Butt
+2805	17L-5014	Abdullah Bin Khalid
+2798	17L-5013	Fatima Mahmood
+2581	17L-4965	Shizra Awais
+2568	17L-4963	Mohsin Abbas
+2832	17L-5018	Ayesha
+2825	17L-5017	Saad Rabbani
+2595	17L-4969	Anmol Asif
+2588	17L-4967	Aiman Fatima
+3936	16L-4902	Hummayun Asghar Daha
+2885	17L-5030	Dua Afzaal
+692	14L-4806	Muhammad Hashim ishaq
+2846	17L-5021	Ahmed Sohail
+2839	17L-5020	Fatima Mumtaz
+2608	17L-4972	Muhammad Hasnan Zafar
+4539	17L-4851	Zainab Saleem
+2602	17L-4971	Muhammad Yousaf Faisal
+2873	17L-5026	Mehak Naseem
+2866	17L-5025	Iman Ilyas
+2859	17L-5024	Muhammad Abubakar
+2629	17L-4976	Mehwish Amjad
+2622	17L-4975	Abuzar Khan
+3947	16L-4909	Afaq Ul Hassan
+2615	17L-4973	Ahmad Tauseef
+4546	17L-4852	Tayyab Zahid
+2636	17L-4978	Muhammad Danial Shafi Awan
+4530	17L-4827	Munazza Zahoor
+3833	16L-4854	Syed Musa Raza Zaidi
+2233	16L-4850	Rida Khan
+4087	16L-4970	Hibah Iqbal
+4103	16L-4973	Muhammad Furqan Naeem
+4314	17L-4781	Anam Naz
+4307	17L-4780	Awais Nayyer
+2297	17L-4785	Shirjeel Zarar Niazi
+4328	17L-4783	Syeda Javaria Wasti
+4321	17L-4782	Usman Mehmood
+2497	17L-4943	Rida Fatima
+4513	17L-4822	Nabeel Younas
+2490	17L-4942	Kashuf Khurram
+4342	17L-4788	Zaid Khalid
+2483	17L-4941	Arfa Sarfraz
+4506	17L-4820	Awais Ansari
+2476	17L-4940	Maha Ehtesham
+4335	17L-4786	Minahil Azeem
+2511	17L-4946	Umer Madni
+2967	17L-6327	Saniya Javed
+2504	17L-4945	Babar Ali
+279	14L-4666	Saba Farooq
+2203	16L-4844	Shehryar Ahmad Khan
+2746	17L-5001	Umair Shahab
+4356	17L-4792	Shabbar Hussain
+2739	17L-5000	Sunila
+4349	17L-4791	Daniyal Yousaf Naveed
+2518	17L-4950	Muhammad Salman
+2760	17L-5004	Ali Usman
+4369	17L-4794	Amna Ghumman
+2753	17L-5002	Aadil Ali
+4363	17L-4793	Haris Sami Alvi
+2781	17L-5008	Tayyab Iqbal Khokhar
+4390	17L-4799	Noor Mahmood
+2774	17L-5007	Muhammad Ahtesham
+4383	17L-4798	Areeba Mahmood
+2525	17L-4951	Muhammad Ali Shah
+2767	17L-5006	Adan Imtiaz
+4376	17L-4797	Hamza Iqbal
+2546	17L-4958	Muhammad Fahad Khan
+2539	17L-4957	Mueen Ullah Meo
+2532	17L-4956	Sania Shahid
+4553	17L-4955	Neha Malik
+4432	17L-4808	Saad Imran
+2420	17L-4928	Atta Ul Muhamin
+4425	17L-4807	Zulaikha Kamal
+2413	17L-4927	Muhammad Hassan
+4074	16L-4959	Moizuddin Haider
+2406	17L-4926	Shahid Farid
+4069	16L-4958	Waleeja Shoukat
+4418	17L-4805	Minha Farooq
+4439	17L-4809	Ayesha Iftikhar
+1690	16L-4676	Fawad Ahmad
+4200	17L-4763	Irtiqua Ameer
+4193	17L-4761	Muhammad Ahmed
+4186	17L-4760	Muhammad Ali
+4228	17L-4767	Zartash Jahan
+4397	17L-4800	Tooba Masroor
+4221	17L-4766	Syed Hamza Karar
+4214	17L-4765	Kashf Ramzan
+4207	17L-4764	Hadiya Waseem
+2395	17L-4924	Laraib Zakir
+4411	17L-4803	Muhammad Farid Ud Din Ahmad
+2388	17L-4923	Muhammad Nausherwan Adil
+4241	17L-4769	Faisal Naveed
+2381	17L-4922	Sohaib Khawaja
+4404	17L-4801	Umar Ijaz
+2469	17L-4939	Muhammad Ahmad
+4499	17L-4818	Mariam Mahmood
+4492	17L-4817	Hira Khalid
+2462	17L-4937	Moneeb Abdullah
+2152	16L-4823	Muhammad Dawood
+446	14L-4722	Khurram Jahangir
+4040	16L-4943	Muhammad Osama Ajmal
+4141	16L-5477	Muhammad Hashim
+4272	17L-4774	Muhammad Bilal
+4265	17L-4773	Tabish Ayub Chattha
+4254	17L-4771	Muhammad Ahmed Adnan
+2441	17L-4932	Asharib Aftab
+4453	17L-4811	Muhammad Saad Nazir
+2434	17L-4931	Nabeel Sagheer
+4293	17L-4777	Hussam Ahmad Maaz
+4446	17L-4810	Muhammad Affan Manzoor
+2427	17L-4930	Ahmed Amad Mojaddidi
+4286	17L-4776	Majid Saqib
+4279	17L-4775	Muhammad Zain
+1810	16L-4707	Faizan Umer Butt
+2455	17L-4936	Muhammad Abubakr Khan
+4481	17L-4815	Muhammad Abdullah
+4474	17L-4814	Zoraiz Ahmad Jan
+4467	17L-4813	Zain Hameed
+2448	17L-4933	Hassan Rasool
+4300	17L-4779	Sara Mahmood
+4460	17L-4812	Muhammad Bilal

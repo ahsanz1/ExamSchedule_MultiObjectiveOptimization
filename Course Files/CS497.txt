@@ -1,0 +1,53 @@
+CS497		Software Testing
+==========================================
+5144	14L-4033	Shiza Ali
+5789	14L-4199	Muhammad Hamza Akhtar
+5302	14L-4079	Sana Fatima
+5442	14L-4112	Shoib Khalid
+5901	14L-4235	Hamza Rafiq
+6110	14L-4312	Khawar Hussain
+6276	14L-4433	Saad Tahir
+6127	14L-4315	Haseeb Ahmed
+4675	12L-5540	Umer jaan
+5309	14L-4080	Syed Muhammad Asharib Nadeem
+5316	14L-4081	Muhammad Omer Farooqi
+5615	14L-4160	Zargham Khaliq
+5632	14L-4163	Haider Ali
+5637	14L-4164	Salman Haseeb
+5395	14L-4100	Waheed Amir
+4784	13L-4093	Muhammad Kazim
+5400	14L-4102	Muhammad Mohib Bin Qamar
+5407	14L-4103	Abdul Sami
+5117	14L-4027	Muhammad Usman Nazir
+6216	14L-4347	Ali Asgher
+6436	14L-5877	Ayman Mustansar
+6221	14L-4348	Hasan Nadeem
+6105	14L-4307	Abdul Rehman Bashir
+4689	12L-5546	Muhammad Mansoor
+4842	13L-4167	Awais Sultan
+5580	14L-4152	Khadija Arshad
+5585	14L-4153	Muhammad Ammar
+5229	14L-4056	Sana Babur
+5710	14L-4177	Abdur Rahman Sheikh
+5818	14L-4210	Hamza Awan
+5824	14L-4211	Farzam Azhar
+5514	14L-4135	Mohammad Saad Mirza
+6257	14L-4412	Muhammad Bilal
+5071	14L-4017	M. Salman Akram CH.
+5076	14L-4019	Muhammad Falah Siddiqui
+4596	12L-4076	Arslan Liaqat
+4764	13L-4079	Muhammad Amir
+5727	14L-4183	Aqsa Razzaq
+5975	14L-4260	Muhammad Ammar Aslam
+5979	14L-4261	Muhammad Ali Shan
+5533	14L-4141	Javeria Sadiq
+5088	14L-4021	Rida Bari
+5352	14L-4089	Zainab Saif
+5196	14L-4046	Hira Ahmad
+5475	14L-4124	Muhammad Ali Qadri
+4824	13L-4154	Umair Sana
+5490	14L-4129	Raziullah Baig
+5217	14L-4052	Mohammad Hammas Saeed
+5391	14L-4097	Aiman Arif Ansari
+5496	14L-4130	Ayesha Iftikhar
+6066	14L-4295	Arqam Bin Rehan

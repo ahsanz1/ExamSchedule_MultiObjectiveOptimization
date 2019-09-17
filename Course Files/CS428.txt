@@ -1,0 +1,52 @@
+CS428		Concurrent & Distributed Systems
+==========================================
+6282	14L-4473	Ayesha Tahreem Aamir
+4857	13L-4180	Zeshan Afzal
+5157	14L-4036	Muhammad Uzair Abid
+5444	14L-4114	Abdul Wahab
+4673	12L-5540	Umer jaan
+4641	12L-4254	Awais Munir
+4755	13L-4057	Mariya Javaid Gill
+5341	14L-4087	Qandeel Mushtaq
+5634	14L-4164	Salman Haseeb
+6277	14L-4462	Muhammad Zeeshan Shahid
+6191	14L-4342	Hafiza Ramzah Rehman
+5869	14L-4223	Shaoor Munir
+5996	14L-4268	Syed Sajjad Ali
+6213	14L-4347	Ali Asgher
+6091	14L-4304	Zainab Iftikhar
+4592	12L-4057	Muhammad Asfand Shabbir
+4626	12L-4139	Asad Ali Choudhry
+4731	13L-4045	Amman Habib
+4962	13L-5850	Muhammad Shabib Hiader
+5569	14L-4151	Hafiz Saad Mazhar
+5885	14L-4230	Sara Iftikhar
+5033	14L-4011	Hamna Waseem
+6164	14L-4330	Shoaib Anwar
+5041	14L-4012	Syeda Zainab Bukhari
+6378	14L-5864	Muhammad Saim Siddiqui
+6392	14L-5866	Shahzaib Mahtab
+4992	13L-5888	Muhammad Musab Sohail
+5257	14L-4062	Uzair Ahmed
+5735	14L-4185	Aqeel Ahmad
+5348	14L-4089	Zainab Saif
+6342	14L-5851	Aliza Lisan
+5472	14L-4124	Muhammad Ali Qadri
+5658	14L-4168	Abdul Moeez Zahid
+5938	14L-4246	Abdul Raheem
+5792	14L-4203	Ahmad Nauman
+6318	14L-4524	Ahmad Anwar
+6323	14L-4526	Junaid Ahmed Khan
+4660	12L-4320	Saad Salman
+4612	12L-4113	Arslaan Muhammad Ali
+4618	12L-4116	Taimur Mughal
+4805	13L-4101	Nimra Nasir
+5674	14L-4171	Syed Muhammad Sarim Jalil
+5680	14L-4172	Hamza Ali Sajjad
+6289	14L-4491	Muhammad Hussnain Ajmal
+5684	14L-4173	Rimsha Yousaf
+5953	14L-4250	Hammad Bin Ather
+5493	14L-4130	Ayesha Iftikhar
+5960	14L-4251	Aqsa Bajwa
+5695	14L-4175	Muhammad Ammar Sheikh
+6069	14L-4296	Ehsan Latif

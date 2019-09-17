@@ -1,0 +1,82 @@
+MG409		Organizational Development and Change
+==========================================
+1547	15L-4885	Saba Naseem
+3253	14L-4990	Bilal Javaid
+660	14L-4794	Majid Tamoor
+135	14L-4631	Sana Mansoor
+531	14L-4753	Shaheer Ahmed Kamal
+671	14L-4797	Asfand Sultan
+3111	14L-4951	Rabia Waheed
+145	14L-4633	Sheikh Mubeen Riaz
+3268	14L-4996	Sana Zakir
+1073	15L-4728	Mohammad Maaz
+3131	14L-4954	Maryam Khalid
+3276	14L-4998	Javeria Hameed
+155	14L-4639	Adina Tahir
+1048	15L-4722	Anoush Hussain Agha
+3034	14L-4916	Shizza Nasir
+735	14L-4919	Mahnoor Siddique
+2988	13L-4970	Afnan Ahmad
+254	14L-4660	Zahra Irfan
+614	14L-4781	Zainab Naveed
+3290	14L-5551	Hania Imran
+619	14L-4782	Vijay Kumar
+958	15L-4696	Fatima Sarfraz
+264	14L-4663	Qurat Ul Ain
+761	15L-4653	Rafia Javed
+3537	15L-4895	Hafiza Ayesha Javaid
+271	14L-4664	Zahid Ali
+638	14L-4785	Irfan Abdullah
+506	14L-4743	Ayesha Saeed
+396	14L-4700	Muhammad Talha Naveed
+511	14L-4745	Saffa Faisal
+114	14L-4627	Muhammad Uzair Zia
+119	14L-4628	Maha Kayani
+124	14L-4629	Maham Nadeem
+790	15L-4659	Rida Ahmad
+1411	15L-4819	Mahnoor Imran
+365	14L-4693	Sulman Azam
+370	14L-4694	Bilal Ishaq
+1267	15L-4787	Abdullah Shahzad
+375	14L-4695	Samman Rana
+463	14L-4730	Areeba Ajmal
+593	14L-4774	Hafiz Mohammad Furqan Hameed
+62	14L-4610	Ahmar Ali
+3185	14L-4973	Mahnoor
+233	14L-4655	Ameer Nosherwan Ali
+710	14L-4810	Asna Rehman
+3191	14L-4975	Aleeza Waqar
+3571	15L-4904	Sania Misbah
+997	15L-4707	Muhammad Umer Rehman
+716	14L-4813	Muhammad Abubakar
+985	15L-4705	Hazik Bin Waqar
+1136	15L-4749	Javeria Abdul Sattar
+3558	15L-4901	Mishaal Aslam
+841	15L-4668	Zainab Hussain Bukhari
+2980	12L-5879	Raza Hassan khan
+1011	15L-4709	Yumna Tariq Butt
+3592	15L-4907	Kashaf ul khair
+6	13L-4753	Hamza Tayyub
+878	15L-4677	Maryam Rashid
+1454	15L-4831	Reshmail Ahmad Chaudhry
+165	14L-4641	Ammarah Raza Khan
+3148	14L-4961	Rimsha Shoaib
+349	14L-4687	Ifaf Abid
+563	14L-4764	Jaudat Ahmed Sulehri
+3153	14L-4962	Rida Zainab
+3468	15L-4871	Husnain Ijaz
+177	14L-4644	Amna Kazim Khan
+854	15L-4670	Kalsoom Khan
+568	14L-4767	Mahnoor Jowad Qureshi
+3056	14L-4921	Muhammad Zain Afzal
+1487	15L-4836	Amna Zahid
+42	14L-4605	Alina Zahra
+200	14L-4649	Muhammad Yawar Aziz
+1474	15L-4834	Muhammad Musa Khan
+1157	15L-4758	Hassaan mahmood
+885	15L-4678	Nabiha Shahid
+1015	15L-4711	Muhammad Mahin Mian Ansari
+57	14L-4609	Maria Gauhar
+700	14L-4807	Menahil Imran
+705	14L-4809	Zainab Nazir
+1580	15L-4919	Fatima Shahzad

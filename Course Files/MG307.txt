@@ -1,0 +1,28 @@
+MG307		International Business
+==========================================
+1173	15L-4764	Syed Faizan Siddique
+3257	14L-4991	Fatima Khan
+3515	15L-4884	Waleed Hussaini
+221	14L-4653	Nabeeha Akbar
+467	14L-4731	Amina Sameen
+905	15L-4681	Muhammad Ahmad Khan
+3501	15L-4880	Javeria Rizwan
+2975	12L-4990	Syed Musa Hasan Rizvi
+3681	15L-4924	Hafeez Ur Rehman Khan
+3605	15L-4909	Zainab Naveed
+3344	14L-5570	Kashif Ali
+1309	15L-4797	Shahid Ahmad Sial
+3481	15L-4874	Shahram Ali
+258	14L-4661	Faiza Mariam Qazi
+3212	14L-4980	Muhammad Arslan
+3385	15L-4853	Aamir Saeed
+3296	14L-5553	Wajahat Raza Bajwa
+3460	15L-4870	Syed Muhammad Raza Shirazi
+1026	15L-4717	Faran Saeed
+3413	15L-4858	Areej Mujahid
+3089	14L-4946	Hamza Khan
+3399	15L-4856	Iqra Amir
+1480	15L-4835	Hamna Waheed
+3494	15L-4879	Ramsha Mehmood
+3098	14L-4949	Uswah Aslam Zaeem
+3789	15L-4954	Zain ul abedin

@@ -1,0 +1,53 @@
+SS207		Philosophy
+==========================================
+7747	15L-4323	Hassaan Maajid
+8124	16L-4018	Gohar Zaman
+7431	15L-4242	Rafay Anwar Malik
+9089	16L-4211	Agha Bazaid Khan
+8096	16L-4014	Dania Ahmad
+8706	16L-4135	Muhammad Hameez Rizwan
+8110	16L-4016	Ubaidullah Muhammad Naeem
+8327	16L-4056	Leena Chaudhry
+10065	16L-6354	Wahaj Javed
+6844	15L-4092	Maleeha Qasim
+5878	14L-4224	Salaar Ahmed Chaudhary
+8068	16L-4007	Raffey Nasser
+9784	16L-4366	Husnain Akhtar Khan
+9042	16L-4202	Muhammad Farhan Atif
+8057	16L-4005	Faraz Tauqeer
+8246	16L-4042	Hafiz Muhammad Anas
+8859	16L-4165	Usman Tariq
+9225	16L-4243	Sabaat Haroon
+10045	16L-6343	Muhammad Ammaduddin Qazi
+8507	16L-4093	Muhammad Shamoon Shahid
+8291	16L-4050	Kanwar Taimoor Ali
+9936	16L-4490	Muhammad Hasan Sarwar
+5279	14L-4070	Muhammad Ehsan
+6532	15L-4020	Zeeshan javaid
+5776	14L-4197	Syed Muhammad Bilal Munir
+9590	16L-4319	Syed Haris Bin Waseem
+6556	15L-4026	Muhammad Taha Tahir
+8240	16L-4039	Haiqa Ashraf
+7240	15L-4189	Salman Sagheer
+8597	16L-4112	Abdul Wasey Butt
+8811	16L-4157	Osama Fayyaz
+8609	16L-4114	Ahmed Ijaz
+9556	16L-4312	Usama Khan
+8207	16L-4031	Syeda Tazeen Batool
+9016	16L-4196	Muhammad Faique
+8212	16L-4032	Haad Fida
+9021	16L-4197	Hooria Muslih Ud Din
+9902	16L-4396	Hassan Majid
+10019	16L-6332	Noefal Ahmed
+8464	16L-4083	Muhammad Saad Tayyab
+8832	16L-4160	Hamza Nawaz
+10012	16L-6328	Faiz Muhammad
+8396	16L-4068	Kissaebatool
+9342	16L-4267	Ali Haider
+8558	16L-4103	Muhammad Saad Zaheer Bhatti
+9497	16L-4301	Muhammad Haroon
+8747	16L-4142	Mirza Haider Baig
+9321	16L-4263	Hamza Hameed Dar
+8957	16L-4187	Moeed Raza Khan
+9354	16L-4271	Ibrahim Zafar
+8403	16L-4070	Aeman Akram

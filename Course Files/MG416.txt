@@ -1,0 +1,67 @@
+MG416		Financial Risk Management
+==========================================
+3254	14L-4990	Bilal Javaid
+3259	14L-4991	Fatima Khan
+3105	14L-4950	Hira Tahseen
+3325	14L-5566	Rahma Ilyas
+3112	14L-4951	Rabia Waheed
+3264	14L-4995	Maheen Muzaffar
+3118	14L-4952	Murtaza Ali
+3269	14L-4996	Sana Zakir
+3330	14L-5568	Fariha Nawaz
+3125	14L-4953	Syed Shahzaib Hassan
+3012	14L-4910	Zainab Ashraf
+3132	14L-4954	Maryam Khalid
+3018	14L-4911	Asphand Tariq
+3137	14L-4955	Sofia Nasim
+3281	14L-4999	Rida Imran
+3023	14L-4913	Ali Raza
+3144	14L-4957	Maryam Masroor
+3028	14L-4915	Adeel Imran
+3035	14L-4916	Shizza Nasir
+3041	14L-4917	Mishal Qamar
+3046	14L-4918	Shahtaj Quasim
+2994	13L-5904	Nasir Subhani
+2989	13L-4970	Afnan Ahmad
+3345	14L-5570	Kashif Ali
+3291	14L-5551	Hania Imran
+3215	14L-4980	Muhammad Arslan
+3544	15L-4897	Umer Nadeem
+3220	14L-4981	Saad Amin Khan
+3297	14L-5553	Wajahat Raza Bajwa
+3224	14L-4983	Faryab Ahmad Khan
+3303	14L-5555	Khadija Pervaiz
+3083	14L-4941	M.Musaddique Latif
+3006	14L-4788	Shiza Tahir
+3231	14L-4986	Muhammad Sohaib Khan Bhatti
+3236	14L-4987	Tehreem Ahsan
+3310	14L-5559	Khushbakht Saleem
+3243	14L-4988	Hafiz Muhammad Ahmad
+3248	14L-4989	Faiqa Shahbaz
+3090	14L-4946	Hamza Khan
+3095	14L-4948	Gull e Daudi
+3101	14L-4949	Uswah Aslam Zaeem
+3285	14L-5000	Maryam Manzoor Qadir
+3316	14L-5561	Ahmad Imtiaz
+3180	14L-4970	Humza Liaquat
+3186	14L-4973	Mahnoor
+3192	14L-4975	Aleeza Waqar
+3074	14L-4932	Areeba Amjad
+3198	14L-4976	Laiba Khalid
+3204	14L-4978	Talha Nasir Manj
+3208	14L-4979	Ayat Ul Khadija
+3078	14L-4936	Mahnoor Sohail
+2997	13L-5925	Usman Murtaza Bhatti
+2981	12L-5879	Raza Hassan khan
+3001	13L-5927	Rahma Sajjad
+3149	14L-4961	Rimsha Shoaib
+3362	14L-5577	Fatima Sajjad
+3154	14L-4962	Rida Zainab
+3051	14L-4920	Dania Azhar Sheikh
+3159	14L-4964	Hasan Raheel
+3057	14L-4921	Muhammad Zain Afzal
+3164	14L-4966	Zoha Saleem
+3063	14L-4923	Baligha Khalid
+3068	14L-4924	Maria Arshad
+3168	14L-4968	Nimra Saher
+3176	14L-4969	Abdullah Hassan Malik

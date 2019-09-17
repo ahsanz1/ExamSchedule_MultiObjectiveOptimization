@@ -1,0 +1,70 @@
+MG442		Islamic Banking
+==========================================
+3321	14L-5562	Fahad Waqar
+924	15L-4685	Rana Muhammad Yaseen
+3108	14L-4950	Hira Tahseen
+3328	14L-5566	Rahma Ilyas
+3120	14L-4952	Murtaza Ali
+3333	14L-5568	Fariha Nawaz
+911	15L-4682	Muhammad Uzair Riaz
+3128	14L-4953	Syed Shahzaib Hassan
+3015	14L-4910	Zainab Ashraf
+3140	14L-4955	Sofia Nasim
+425	14L-4714	Faizan Shahnawaz
+544	14L-4759	Mustafa Kamal
+1330	15L-4804	Tehreem Fatima
+3026	14L-4913	Ali Raza
+1324	15L-4801	Raja Abdul Basit
+3031	14L-4915	Adeel Imran
+3662	15L-4921	Ch Muhammad Sameed Ayub
+738	14L-4919	Mahnoor Siddique
+3703	15L-4928	Fatima Masood
+1080	15L-4732	Ayesha Siddiqah
+3300	14L-5553	Wajahat Raza Bajwa
+267	14L-4663	Qurat Ul Ain
+273	14L-4664	Zahid Ali
+3227	14L-4983	Faryab Ahmad Khan
+3306	14L-5555	Khadija Pervaiz
+106	14L-4621	Qasim Zafar
+3086	14L-4941	M.Musaddique Latif
+3009	14L-4788	Shiza Tahir
+3239	14L-4987	Tehreem Ahsan
+3728	15L-4937	Samie ul hassan
+111	14L-4626	Sh. Muhammad Umer
+3251	14L-4989	Faiqa Shahbaz
+405	14L-4704	Maira Tahir
+1092	15L-4735	Taimoor Khalid
+3097	14L-4948	Gull e Daudi
+3393	15L-4854	Rameen Sarwar
+415	14L-4708	Numair Ahmad
+3551	15L-4899	Muhammad Ali Subhani Gondal
+420	14L-4709	Mohammad Mashal Khan
+3288	14L-5000	Maryam Manzoor Qadir
+3748	15L-4940	Sheeza Hussain
+3183	14L-4970	Humza Liaquat
+383	14L-4696	Atiqa Latif
+796	15L-4661	Hafiz Murtaza Amad
+600	14L-4775	Romaisa Lateef Sheikh
+251	14L-4659	Sophia Mansoor
+3211	14L-4979	Ayat Ul Khadija
+731	14L-4815	Shahbaz Aziz
+847	15L-4669	Haris Saeed
+3081	14L-4936	Mahnoor Sohail
+3771	15L-4945	Saad Aqeel
+8	13L-4753	Hamza Tayyub
+341	14L-4684	Noor Ul Ain
+555	14L-4761	Zuha Arif
+866	15L-4674	Usama Iftikhar
+3475	15L-4872	Muhammad Mateen
+872	15L-4675	Imran
+174	14L-4642	Hassan Badar Butt
+346	14L-4686	Ujala Ijaz
+460	14L-4724	Noor Ul Ain
+683	14L-4801	Afia Rasheed
+3633	15L-4913	Muhammad Ahmad Safdar
+3171	14L-4968	Nimra Saher
+54	14L-4607	Muhammad Nauman Naeem
+3626	15L-4912	Syed Ammar Ahmad Bukhari
+3797	15L-4956	Muhammad Shariq Ali Rabbani
+1318	15L-4799	Muhammad Taimoor Ghani
+2977	12L-4992	Khawaja Haroon

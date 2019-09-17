@@ -1,0 +1,31 @@
+CS210		Data Structures & Algorithms
+==========================================
+16113	15L-5557	Izma Binte Atif
+16572	16L-4516	Muhammad Bilal Khalid
+15224	14L-4452	Abdullah Zubair
+15980	15L-4543	Shehroz Waheed
+14899	14L-4358	Muhammad Shoaib Alam
+16296	16L-4438	Malik Haris Ali Khokhar
+15846	15L-4505	Muhammad Osama
+15416	15L-4403	Hamza Tahir
+16493	16L-4495	Muhammad Saad Ul Haq
+15838	15L-4503	Shah Zaman
+14786	13L-4453	Muhammad Asad Farooq
+16240	16L-4428	Muhammad Usman Akram
+14995	14L-4387	Shawwal Aftab Waseer
+15177	14L-4443	Hafiz Mohsin Ali Malik
+16034	15L-4554	Mehak Amjad
+16415	16L-4468	Zunaira Tahir
+15272	14L-4468	Aaqib Naeem
+16336	16L-4448	Zargham Ahmed Khan
+15113	14L-4425	Shahzad Ghaffar
+16136	16L-4405	Arham Hasib Ilahi
+16400	16L-4465	Manahil Tanveer
+15135	14L-4429	Khizar Nawaz
+16618	16L-4522	Muhammad Sikander Abbas
+15592	15L-4438	Muhammad Raees Haider
+15870	15L-4514	Syed Talha Hasnain
+14725	13L-4207	Ahmad Ammar
+14827	13L-4509	Aneeq Ali
+14747	13L-4388	Muhammad Usman Amjad Chishtee
+15277	14L-4471	Fazal Khan

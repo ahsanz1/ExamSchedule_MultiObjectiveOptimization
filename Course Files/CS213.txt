@@ -1,0 +1,19 @@
+CS213		Fundamentals of Databases
+==========================================
+14951	14L-4374	Saad Aftab
+15162	14L-4441	Bilal Raza
+14688	10L-4317	Amood Pervez
+15003	14L-4388	Haider Ali Adnan
+14966	14L-4378	Shayan Akhtar
+14926	14L-4368	Ammara Ahmad
+15296	14L-4479	Fatima Waseem Baig
+14736	13L-4372	Mohammed Sami Ur Rehman Malik
+15368	14L-4514	Muhammad Talha Rana
+15044	14L-4405	Ayesha Irfan
+15121	14L-4427	Kainat Rizwan Butt
+15158	14L-4438	Muhammad Ahsan Ali
+14875	13L-5726	Bilawal Iqbal
+14794	13L-4458	Muhammad Aziz Ur Rehman
+14801	13L-4468	Syed Uzair Abbas Bukhari
+14945	14L-4373	Saad Saleem Raja
+15023	14L-4395	Syed Ali Hassnat

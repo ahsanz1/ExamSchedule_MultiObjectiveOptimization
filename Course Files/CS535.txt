@@ -1,0 +1,51 @@
+CS535		Natural Language Processing
+==========================================
+5145	14L-4033	Shiza Ali
+5894	14L-4231	Muhammad Taseer Ijaz
+6016	14L-4275	Sana Mahmood
+6457	14L-5882	Khawar Ahmed Kharal
+5150	14L-4034	Muhammad Mohsin Ajmal
+6021	14L-4277	Aleena Farooq
+5448	14L-4114	Abdul Wahab
+5902	14L-4235	Hamza Rafiq
+5172	14L-4038	Osama Haroon Rana
+5912	14L-4239	Faizan Ahmad
+4639	12L-4170	Mahboob Mustafa Mian
+5321	14L-4082	Usman Mohammad Rafi
+4756	13L-4057	Mariya Javaid Gill
+5863	14L-4221	Adil Iqbal
+5754	14L-4189	Yahya Ali
+5550	14L-4146	Abdullah Yahya
+6208	14L-4345	Sumra Yasmin
+5555	14L-4148	Ch Uzair Hassan
+6437	14L-5877	Ayman Mustansar
+6228	14L-4349	Zeenat Zahra
+5285	14L-4072	Abdul Sami
+5140	14L-4032	Hussam Habib
+5586	14L-4153	Muhammad Ammar
+5501	14L-4132	Hajira Haider
+6168	14L-4330	Shoaib Anwar
+5049	14L-4013	Asad Mahmood
+5233	14L-4057	Mohammad Babak Shahid
+5722	14L-4179	Zainab Amir
+5062	14L-4015	Mohammad Omer Aamir
+5066	14L-4016	Muhammad Haroon
+5519	14L-4137	Rahim Bin Shahid
+5525	14L-4139	Hafiz Muhammad Shoaib Hasnat
+4932	13L-5401	Rashid Mahmood
+5252	14L-4061	Khansa Tanveer
+5733	14L-4184	Hira Akram
+5981	14L-4261	Muhammad Ali Shan
+5089	14L-4021	Rida Bari
+5539	14L-4142	Ayeza Tanveer
+5930	14L-4243	Muhammad Ahmed Riaz
+5197	14L-4046	Hira Ahmad
+5935	14L-4245	Ahmed Shabbir
+6303	14L-4520	Taimoor Mirza
+5665	14L-4169	Hafiza Nadia Batool
+6350	14L-5853	Muhammad Sohaib Qadeer
+5814	14L-4209	Mubashra Zahid
+4633	12L-4159	Hammad Javed
+5373	14L-4094	Samreen Fatima
+4935	13L-5438	Ahsan Arif
+5218	14L-4052	Mohammad Hammas Saeed

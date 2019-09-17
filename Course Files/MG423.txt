@@ -1,0 +1,9 @@
+MG423		Financial Management
+==========================================
+17	13L-4814	Zunair Khalid
+34	13L-5924	Fawad Zafar
+18	13L-4849	Jalal Khan
+2	12L-4797	Ali Raza
+2976	12L-4990	Syed Musa Hasan Rizvi
+21	13L-4863	Khlood Tariq Butt
+31	13L-4974	Hamna Khalid

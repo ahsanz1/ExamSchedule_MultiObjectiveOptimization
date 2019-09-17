@@ -1,0 +1,35 @@
+EE426		Industrial Processes Control
+==========================================
+15216	14L-4451	Ali Abdullah Anjum
+14893	14L-4354	Abdullah Nasir
+14958	14L-4376	Hassan Ali
+15151	14L-4435	Hadia Hassan
+15233	14L-4457	Muhammad Mehran Shahid
+15297	14L-4479	Fatima Waseem Baig
+15086	14L-4419	Muhammad Ali
+15399	14L-4519	Irfan Hussain
+14721	12L-4523	Mashood Zafar
+14705	12L-4445	Ammar Nadeem
+14742	13L-4378	Mansoor Imam
+14824	13L-4497	Abdul Islam
+14970	14L-4380	Razi Haider Khan
+14795	13L-4458	Muhammad Aziz Ur Rehman
+15240	14L-4460	Bilal Habib
+15314	14L-4484	Abubakar Jahangir
+14914	14L-4364	Ahmad Bin Ishtiaq
+15251	14L-4463	Muhammad Baidar Bakhat
+15321	14L-4485	Talha Mehboob
+14996	14L-4387	Shawwal Aftab Waseer
+15178	14L-4443	Hafiz Mohsin Ali Malik
+14781	13L-4450	Ghulam Hussain Bhatti
+15265	14L-4466	Abdul Moid Rahat
+14927	14L-4368	Ammara Ahmad
+15105	14L-4423	Muhammad Umer
+15191	14L-4445	Tayyaba Saeed
+15327	14L-4489	Ali Raza
+14932	14L-4369	Arslan Babar
+15054	14L-4409	Uzair Mahmood
+15407	14L-5718	Shahzada Shahjahan Ahmed
+14710	12L-4458	Ali Adnan
+14729	13L-4207	Ahmad Ammar
+15011	14L-4391	Hassaan Ahmad

@@ -1,0 +1,102 @@
+CS406		Web Programming
+==========================================
+7278	15L-4201	Hamza Yasser
+6656	15L-4048	Muhammad Kamal Subhani
+7733	15L-4321	Muhammad Awais
+4671	12L-5540	Umer jaan
+4680	12L-5541	Rana Muhammad Tauheed
+7302	15L-4205	Haziq Farooq
+7756	15L-4327	Hanan Mehmood
+5305	14L-4080	Syed Muhammad Asharib Nadeem
+6682	15L-4052	Amber Warsi
+7633	15L-4292	Farhan Shoukat
+7141	15L-4172	Talha Saqib
+4966	13L-5867	Usama Hassan Khilji
+5739	14L-4187	Syed Hussain Haider Zaidi
+5272	14L-4067	Hafiz Rizwan Ahmad
+5744	14L-4188	Harris Irfan
+4782	13L-4093	Muhammad Kazim
+7345	15L-4213	Wajahat
+4794	13L-4098	Muhammad Ahsan Awan
+6704	15L-4057	Muhammad Kamran
+5415	14L-4106	Saba Asif
+6294	14L-4504	Basit Riaz
+4777	13L-4089	Muhammad Hassan Akhlaq
+7200	15L-4182	Rana Muhammad Shujha Shabbir
+5287	14L-4075	Zubair Ijaz
+5884	14L-4230	Sara Iftikhar
+6359	14L-5860	Syed Hassan Ali Naqvi
+7807	15L-4347	Hafiz Nokhaiz Ali
+5511	14L-4135	Mohammad Saad Mirza
+6729	15L-4068	M Usman Abbasi
+7224	15L-4186	Hammad Farooq
+5073	14L-4019	Muhammad Falah Siddiqui
+4829	13L-4155	Ch Mudassar Sharif
+4905	13L-4315	Abdul Mannan Yar Khan
+4991	13L-5888	Muhammad Musab Sohail
+4908	13L-4316	Muhammad Usman Shabbir
+5529	14L-4141	Javeria Sadiq
+4990	13L-5887	Muhammad Nomair Ahsan
+5534	14L-4142	Ayeza Tanveer
+5927	14L-4243	Muhammad Ahmed Riaz
+7852	15L-4356	Ishwa Obaid
+4822	13L-4154	Umair Sana
+5020	14L-4006	Maha Saeed
+5487	14L-4129	Raziullah Baig
+4588	12L-4044	Saba Ali
+6795	15L-4083	Muhammad Zaid Tariq
+6800	15L-4084	Abdullah Siddiqui
+5386	14L-4097	Aiman Arif Ansari
+6781	15L-4080	Mirah Saqib
+6012	14L-4275	Sana Mahmood
+5590	14L-4155	Imran Latif
+6963	15L-4127	Hafsa Batool
+7447	15L-4245	Muhammad Hasan Zahid
+4866	13L-4181	Abdullah Hussain
+5165	14L-4037	Khizar Amin
+6475	15L-4008	Sharjeel Tariq
+4621	12L-4129	Muhammad Owais Aslam
+6981	15L-4130	Arsal Mahmood
+6027	14L-4280	Ghufran Ahmad
+4754	13L-4057	Mariya Javaid Gill
+4872	13L-4216	Muhammad Raghib
+6835	15L-4091	Saifullah
+5093	14L-4022	Muhammad Usama Tahir
+7959	15L-4379	Muhammad Fahad
+5099	14L-4023	Muhammad Ghilman Khurshid
+5990	14L-4266	Hassan Khalid
+4748	13L-4054	Muhammad Najam Us Saqib
+5109	14L-4026	Ali Zain
+6489	15L-4012	Timur Asif
+5551	14L-4148	Ch Uzair Hassan
+6002	14L-4269	Muhammad Saad Tariq
+8016	15L-4530	Muhammad Sheraz Rafique
+5558	14L-4149	Hamza Ahmed
+6432	14L-5876	Bilal Naseer
+4917	13L-4328	Abdul Khaliq Ghaffar
+7008	15L-4140	Ayishm Aziz
+6530	15L-4020	Zeeshan javaid
+7013	15L-4141	Ayyaz Ali
+4941	13L-5497	Irtaza Hasan
+5581	14L-4153	Muhammad Ammar
+7052	15L-4148	Ali Imran Sheikh
+5224	14L-4056	Sana Babur
+5713	14L-4178	Tasmia Rana
+6547	15L-4025	Hassan Tasir
+6553	15L-4026	Muhammad Taha Tahir
+7541	15L-4265	Noor Ahmed
+5840	14L-4215	Mohammad Hamza Rasheed
+4886	13L-4240	Usama Sajid
+7023	15L-4143	Tehreem Talat
+5242	14L-4060	Muhammad Kashif
+4761	13L-4079	Muhammad Amir
+5644	14L-4166	Muhammad Abdullah Chaudhry
+5200	14L-4047	Ahsan Munir
+7575	15L-4279	Kainat E Riaz Ch
+6599	15L-4034	Muhammad Zubair
+6142	14L-4324	Shayan Shokat
+6155	14L-4328	Adeel Shaukat
+4616	12L-4116	Taimur Mughal
+4921	13L-4345	Umair Bukhari
+7601	15L-4284	Syed Muhammad Hamza Ali Kazmi
+5668	14L-4170	Ali Nauman

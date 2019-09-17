@@ -1,0 +1,51 @@
+CS402		Compiler Construction
+==========================================
+5141	14L-4033	Shiza Ali
+5168	14L-4038	Osama Haroon Rana
+5606	14L-4159	Shahiq Ur Rehman
+5908	14L-4239	Faizan Ahmad
+5461	14L-4119	Omer Haroon
+4620	12L-4129	Muhammad Owais Aslam
+5304	14L-4080	Syed Muhammad Asharib Nadeem
+4928	13L-4499	Usama Khalid
+5317	14L-4082	Usman Mohammad Rafi
+4812	13L-4139	Muhammad Awais Rana
+4871	13L-4216	Muhammad Raghib
+4702	13L-4017	Ali Shahid
+7950	15L-4377	Fahad Tariq
+6079	14L-4301	Ali Shazaib
+6236	14L-4389	Muhammad Shahrukh Khan
+5119	14L-4028	Usama Aslam
+6084	14L-4303	Omair Javed
+5423	14L-4107	Muhammad Shahzeb Qaisar
+6097	14L-4306	Hamza Arshad
+4697	13L-4003	Shahzaib Haroon
+4693	13L-4001	Hamza Abbas
+4961	13L-5850	Muhammad Shabib Hiader
+5286	14L-4075	Zubair Ijaz
+4722	13L-4040	Usama Jamil
+6328	14L-4532	Noman Maqsood
+5516	14L-4137	Rahim Bin Shahid
+6259	14L-4413	Aiza Mansur
+4765	13L-4086	Sherjeel Bin Amer
+4828	13L-4155	Ch Mudassar Sharif
+4984	13L-5883	Muhammad Talal Rashid
+4904	13L-4315	Abdul Mannan Yar Khan
+5723	14L-4183	Aqsa Razzaq
+5259	14L-4063	Mohammad Saad Mujeeb
+5729	14L-4184	Hira Akram
+5926	14L-4243	Muhammad Ahmed Riaz
+6137	14L-4321	Faisal Ali
+5657	14L-4168	Abdul Moeez Zahid
+5477	14L-4125	Khadija Saeed
+4821	13L-4154	Umair Sana
+4979	13L-5881	Ameera Arif
+5023	14L-4008	Shaheryar Khan
+4670	12L-5530	Ahsan Shahid
+5667	14L-4170	Ali Nauman
+5374	14L-4095	Ahmad Waleed Qureshi
+5679	14L-4172	Hamza Ali Sajjad
+6057	14L-4293	Mahnoor Fatima
+5214	14L-4052	Mohammad Hammas Saeed
+5380	14L-4096	Hammad Fozi
+5492	14L-4130	Ayesha Iftikhar

@@ -1,0 +1,106 @@
+SS142		Technical Report Writing
+==========================================
+15630	15L-4445	Ayesha Nadeem
+14897	14L-4354	Abdullah Nasir
+15622	15L-4444	Muhammad Zeeshan
+16096	15L-4563	Fahad Amer
+16080	15L-4560	Zainab Eman
+15614	15L-4440	Shayan Najeeb Ghumman
+16088	15L-4561	Muhammad Asad Nawaz
+15382	14L-4516	Ali Husnain
+15390	14L-4517	Shehryar Hasan
+15638	15L-4447	Usaid Rafique
+14763	13L-4419	Waleed Ahmed
+14913	14L-4362	Muhammad Talal Mustafa
+15670	15L-4457	Salman Tariq
+15654	15L-4452	Malik Zaeem Waqar Awan
+15662	15L-4453	Sabeena Tariq
+14740	13L-4372	Mohammed Sami Ur Rehman Malik
+15646	15L-4451	Nummra Khalid
+15678	15L-4460	Talha Imran
+15694	15L-4467	Muhammad Aqib
+15820	15L-4500	Muhammad Hamza
+16119	15L-5557	Izma Binte Atif
+15702	15L-4468	Muhammad Mustafa
+15828	15L-4501	Muhammad Bin Ashiq
+16111	15L-5556	Ahmad Awab
+15686	15L-4466	Shawal Nazir
+15860	15L-4507	Muhammad Yasir
+15852	15L-4505	Muhammad Osama
+15836	15L-4502	Ehtesham Riazat
+15844	15L-4503	Shah Zaman
+14873	13L-4559	Ameeq Ahmed Khan
+15710	15L-4470	Asmar Asim Zaheer
+14860	13L-4555	Rizwan Mahmood Siddiqui
+15868	15L-4511	Aaqib Riaz
+15726	15L-4479	Malik Zaeem Ul Haq Awan
+15718	15L-4474	Maryam Bokhari
+15891	15L-4517	Muhammad Waqar Muzaffar
+15899	15L-4518	Rabiya Sajid
+15883	15L-4515	Hira Ali
+15876	15L-4514	Syed Talha Hasnain
+14753	13L-4388	Muhammad Usman Amjad Chishtee
+15742	15L-4481	Muhammad Fatir Malik
+15750	15L-4482	Babar Afzal
+15734	15L-4480	Mahnoor Zaghum Butt
+15922	15L-4522	Ayesha Javed
+15148	14L-4431	Shahzeb Tauqir
+15766	15L-4487	Danish Saeed
+15907	15L-4520	Muhammad Hassan Sharif
+15914	15L-4521	Muhammad Hashim Raza
+15758	15L-4485	Hamza Awan
+15462	15L-4409	Arslan Mehmood
+15446	15L-4407	Hammad Munir
+15454	15L-4408	Muhammad Hamza
+15438	15L-4405	Maida
+15938	15L-4527	Abdullah Amjad
+15422	15L-4403	Hamza Tahir
+15430	15L-4404	Noraiz Butt
+15930	15L-4525	Usman Mehboob
+15781	15L-4493	Muhammad Ghous Iqbal
+14792	13L-4453	Muhammad Asad Farooq
+15773	15L-4491	Abdullah
+15486	15L-4413	Ahmad Hamza
+15946	15L-4534	Muhammad Nauman Tauseef
+15470	15L-4410	Muhammad Arsalan Baig
+15813	15L-4498	Umair Hameed
+16104	15L-5467	Amna Tariq
+15009	14L-4388	Haider Ali Adnan
+15478	15L-4411	Muhammad Daniyal
+15103	14L-4422	Muhammad Usama Aslam
+15805	15L-4496	Marium Aamer
+15797	15L-4495	Hamza Usman Shuja
+15518	15L-4418	Mahnoor Shahid
+15140	14L-4429	Khizar Nawaz
+15970	15L-4537	Adeel Mazhar
+15510	15L-4417	Basma Aslam
+15494	15L-4414	Haris Waheed Khan
+15954	15L-4535	Abdul Hanan Ali
+15502	15L-4415	Muhammad Saad Khan
+15962	15L-4536	Arsman Safdar
+14696	12L-4256	Ahmed Mustafa
+15550	15L-4424	Muhammad Ahmad Saleem
+15978	15L-4542	Abdul Moiz
+15534	15L-4422	Nehal Ijaz
+15985	15L-4543	Shehroz Waheed
+15526	15L-4420	Khizar
+15566	15L-4429	Shahzaib Akram
+16008	15L-4548	Muhammad Hamza Saeed
+15558	15L-4425	Majid Nadeem
+16000	15L-4547	Farhad Ali
+14814	13L-4478	Muhammad Mohsin Saeed
+15590	15L-4434	Basma Nadeem Anwar
+16048	15L-4556	Sidra Sajjad
+15175	14L-4442	Muaaz Ahmed
+16040	15L-4554	Mehak Amjad
+15574	15L-4430	Muhammad Moaz Adnan
+16024	15L-4551	Moeez Shakoor
+15582	15L-4431	Salman Nadeem
+16032	15L-4552	Mehroz Afzal
+16016	15L-4550	Shadab Ahmad Khan
+15215	14L-4448	Syed Mujtaba Ali Shamsi
+15598	15L-4438	Muhammad Raees Haider
+16072	15L-4559	Muhammad Abdullah
+15606	15L-4439	Agha Ali Zeb
+16056	15L-4557	Syed Kausain Mehdi
+16064	15L-4558	Sohaib Abbasi

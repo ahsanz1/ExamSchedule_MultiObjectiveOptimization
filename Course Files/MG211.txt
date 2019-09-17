@@ -1,0 +1,53 @@
+MG211		Total Quality Management
+==========================================
+7883	15L-4363	Farwa Abbas
+8088	16L-4013	Ibraheem Ahmed
+8333	16L-4057	Maidah Tayyab
+8340	16L-4058	Muhammad Abubakar Siddique
+9100	16L-4213	Kamran Khalid Shah
+9809	16L-4378	Daniyal Yahya
+7761	15L-4328	Fatima
+8074	16L-4010	Muhammad Wajahat Ali Khan
+8684	16L-4131	Ali Raza
+9259	16L-4252	Muhammad Muaaz Bin Zaka
+9467	16L-4297	Abdul Rehman
+9629	16L-4330	Mohammad Saad Rafique
+8938	16L-4182	Hafiz Muhammad Haseeb
+8360	16L-4062	Obaid Ur Rehman
+9306	16L-4260	Shaheer Ahmad
+8731	16L-4140	Mahnoor Arif
+8928	16L-4180	Syed Farooq Shah Bukhari
+6037	14L-4282	Muhammad Farooq
+5628	14L-4162	Muhammad Farukh Jamal
+6504	15L-4014	Syeda Neeha Batool
+8277	16L-4048	Izzah Manzoor
+8243	16L-4042	Hafiz Muhammad Anas
+10036	16L-6342	Ilsa Marium Chaudhary
+8042	16L-4001	Muhammad Moiz Arshad
+8293	16L-4051	Zain Arshad
+8880	16L-4172	Awais Ahmad
+8301	16L-4052	Laraib Jahangir
+8519	16L-4096	Sufwan Khalid
+8628	16L-4117	Muhammad Hassan Minhas
+5526	14L-4139	Hafiz Muhammad Shoaib Hasnat
+7232	15L-4187	Usama Ali
+8438	16L-4079	Ali Raza
+8599	16L-4113	Uzair Rehman
+7679	15L-4308	Syeda Arham Fatima Kazmi
+9562	16L-4313	Nimra Ijaz
+8205	16L-4031	Syeda Tazeen Batool
+9731	16L-4351	Usama Azeem
+8434	16L-4078	Nabeel Khalid
+9406	16L-4282	Muhammad Junaid
+8474	16L-4085	Muhammad Abdullah Aziz
+9763	16L-4360	Ali Arshad Janjua
+9536	16L-4308	Rimsha Amer
+8541	16L-4101	Ayesha Ejaz
+8549	16L-4102	Zulqarnain Abbas
+8771	16L-4147	Faaiz Ahmed Muneer
+9697	16L-4345	Huzaifa Hussnain
+9344	16L-4269	Rimsha Gul
+9685	16L-4341	Burhan Atique
+8152	16L-4023	Muhammad Hamza Ashraf
+8757	16L-4144	Aanish Amir Waseem
+8983	16L-4191	Fatima Rathore

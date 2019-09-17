@@ -1,0 +1,54 @@
+SS105		German Language
+==========================================
+7285	15L-4202	Marvah Mushtaq
+9115	16L-4215	Duraze Saquib
+7877	15L-4362	Muhammad Talha Tanveer
+9643	16L-4332	Ahmad Moatasim
+8342	16L-4058	Muhammad Abubakar Siddique
+9657	16L-4335	Muhammad Adil
+8317	16L-4054	Muhammad Ahmad Saif
+8686	16L-4131	Ali Raza
+9637	16L-4331	Saadi Ahmad Ali
+9798	16L-4375	Sikander Hassan Khan
+8940	16L-4182	Hafiz Muhammad Haseeb
+6043	14L-4285	Salahudin
+9069	16L-4208	Tayyaba Sadiq
+8060	16L-4006	Hamna Faisal Khan
+9049	16L-4204	Muhammad Danial Mirza
+9962	16L-6305	Ali Haider
+6434	14L-5876	Bilal Naseer
+8866	16L-4167	Muhammad Arsil Khan
+6444	14L-5878	Amna Arshad
+9035	16L-4201	Huma Mozyen Alvi
+9954	16L-6301	Syed Sardar Shaharyar
+9603	16L-4324	Jameel Ahmed
+8251	16L-4044	Moazzam Saleem
+9770	16L-4363	Aiza Zaheer
+9935	16L-4490	Muhammad Hasan Sarwar
+5050	14L-4013	Asad Mahmood
+6332	14L-4532	Noman Maqsood
+8622	16L-4116	Faryal Khan
+7238	15L-4189	Salman Sagheer
+9576	16L-4315	Bilal Zahid
+8602	16L-4113	Uzair Rehman
+9020	16L-4197	Hooria Muslih Ud Din
+9172	16L-4231	Asfand Yar Ahmad Khan
+9179	16L-4232	Zarmeen Mustafa
+9908	16L-4397	Samra Arshad
+8467	16L-4084	Muhammad Muneeb Akhtar
+8839	16L-4161	Ahmad Raza
+9765	16L-4360	Ali Arshad Janjua
+4716	13L-4034	Furqan Saqib
+6340	14L-5850	Umer Shafique
+8780	16L-4149	Umair Ghafoor
+8544	16L-4101	Ayesha Ejaz
+8551	16L-4102	Zulqarnain Abbas
+8174	16L-4026	Muhammad Umer Saeed
+8773	16L-4147	Faaiz Ahmed Muneer
+9347	16L-4269	Rimsha Gul
+9678	16L-4340	Syed Shan E Raza
+8381	16L-4066	Muhammad Zain
+8751	16L-4143	Roshan Ul Haq
+8990	16L-4192	Faiqa
+9889	16L-4393	Syeda Zeenat Hassan Zaidi
+6807	15L-4085	Hassan Tariq

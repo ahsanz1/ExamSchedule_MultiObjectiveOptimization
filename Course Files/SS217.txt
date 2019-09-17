@@ -1,0 +1,54 @@
+SS217		Mass Communication
+==========================================
+7132	15L-4169	Fatima Tahira
+8125	16L-4018	Gohar Zaman
+9090	16L-4211	Agha Bazaid Khan
+9095	16L-4212	Muzammil Azam
+10073	16L-6358	Hassaan Ahmed
+8903	16L-4175	Kanwar Muhammad Ahmed Zaman
+6472	15L-4007	Maira Arshad
+9821	16L-4380	Afaq Ahmad
+9050	16L-4204	Muhammad Danial Mirza
+9970	16L-6306	Muhammad Irtaza Fiaz
+7336	15L-4211	Shahbaz Raza
+7930	15L-4374	Daniyal Khalid
+9977	16L-6307	Muhammad Zain Anjum
+8272	16L-4047	Muhammad Talal
+9240	16L-4245	Ahmad Mushtaq Ahmad
+9956	16L-6301	Syed Sardar Shaharyar
+9043	16L-4202	Muhammad Farhan Atif
+8483	16L-4086	Rida Nazir
+8853	16L-4163	Rouel Shafi Chaudhary
+9212	16L-4240	Muhammad Hassan Ali
+9429	16L-4285	Afrasiyab
+8259	16L-4045	Haider Nadeem Mirza
+9436	16L-4287	Saad Akbar
+9450	16L-4292	Syed Asad Abrar
+8888	16L-4173	Momin Siddique
+7209	15L-4183	Muhammad Jahangeer Shahid Awan
+5777	14L-4197	Syed Muhammad Bilal Munir
+5057	14L-4014	Abdul Rafey Tahir
+8241	16L-4039	Haiqa Ashraf
+9206	16L-4237	Ahmad Bilal Bahadur
+8226	16L-4035	Syed Sajjad Zaidi
+9361	16L-4273	Saira Saddique
+8213	16L-4032	Haad Fida
+9022	16L-4197	Hooria Muslih Ud Din
+8220	16L-4033	Ahmad Maqbool Bajwa
+9029	16L-4198	Abdur Rehman Mushtaq
+9173	16L-4231	Asfand Yar Ahmad Khan
+9909	16L-4397	Samra Arshad
+8458	16L-4082	Syed Saif Ali
+9401	16L-4281	Hammad Ikhlaq
+10025	16L-6340	Abdul Rafay Qaisar
+8187	16L-4028	Noor Fatima Saleem
+8570	16L-4106	Nimra Batool
+9510	16L-4304	Mohammad Badar Ud Din
+9929	16L-4469	Shahiryar Khalid
+8175	16L-4026	Muhammad Umer Saeed
+9871	16L-4389	Muhammad Salman
+9322	16L-4263	Hamza Hameed Dar
+8147	16L-4022	Fawad Omer Siddiqui
+8958	16L-4187	Moeed Raza Khan
+9329	16L-4264	Syed Ahmad Saeed
+9890	16L-4393	Syeda Zeenat Hassan Zaidi

@@ -1,0 +1,11 @@
+SS123		Communication Skills
+==========================================
+15320	14L-4484	Abubakar Jahangir
+14896	14L-4354	Abdullah Nasir
+14964	14L-4376	Hassan Ali
+15102	14L-4422	Muhammad Usama Aslam
+14826	13L-4497	Abdul Islam
+15021	14L-4392	Muhammad Atif Farooq
+15405	14L-4519	Irfan Hussain
+14988	14L-4383	Yousuf Rehman
+14912	14L-4362	Muhammad Talal Mustafa

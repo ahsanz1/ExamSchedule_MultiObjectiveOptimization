@@ -1,0 +1,19 @@
+EE303		µP Interfacing & Programming
+==========================================
+15313	14L-4484	Abubakar Jahangir
+15536	15L-4423	Mohammad Adil Tariq
+15696	15L-4468	Muhammad Mustafa
+16105	15L-5556	Ahmad Awab
+15472	15L-4411	Muhammad Daniyal
+15680	15L-4466	Shawal Nazir
+15097	14L-4422	Muhammad Usama Aslam
+15648	15L-4452	Malik Zaeem Waqar Awan
+15712	15L-4474	Maryam Bokhari
+15361	14L-4513	Mudassar Seemab
+15964	15L-4537	Adeel Mazhar
+16001	15L-4548	Muhammad Hamza Saeed
+15552	15L-4425	Majid Nadeem
+15424	15L-4404	Noraiz Butt
+14727	13L-4207	Ahmad Ammar
+15775	15L-4493	Muhammad Ghous Iqbal
+14907	14L-4362	Muhammad Talal Mustafa

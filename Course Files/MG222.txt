@@ -1,0 +1,99 @@
+MG222		Engineering Economics
+==========================================
+15629	15L-4445	Ayesha Nadeem
+15621	15L-4444	Muhammad Zeeshan
+16095	15L-4563	Fahad Amer
+16079	15L-4560	Zainab Eman
+15365	14L-4513	Mudassar Seemab
+15613	15L-4440	Shayan Najeeb Ghumman
+16087	15L-4561	Muhammad Asad Nawaz
+15396	14L-4518	Asad Ul Hassan
+15637	15L-4447	Usaid Rafique
+14762	13L-4419	Waleed Ahmed
+15669	15L-4457	Salman Tariq
+15661	15L-4453	Sabeena Tariq
+15275	14L-4468	Aaqib Naeem
+15645	15L-4451	Nummra Khalid
+15413	14L-5718	Shahzada Shahjahan Ahmed
+15677	15L-4460	Talha Imran
+15283	14L-4471	Fazal Khan
+15693	15L-4467	Muhammad Aqib
+15819	15L-4500	Muhammad Hamza
+15701	15L-4468	Muhammad Mustafa
+15827	15L-4501	Muhammad Bin Ashiq
+16110	15L-5556	Ahmad Awab
+15685	15L-4466	Shawal Nazir
+15859	15L-4507	Muhammad Yasir
+15851	15L-4505	Muhammad Osama
+15835	15L-4502	Ehtesham Riazat
+15843	15L-4503	Shah Zaman
+14872	13L-4559	Ameeq Ahmed Khan
+15709	15L-4470	Asmar Asim Zaheer
+14979	14L-4382	Zoha Waheed
+14858	13L-4555	Rizwan Mahmood Siddiqui
+15867	15L-4511	Aaqib Riaz
+15725	15L-4479	Malik Zaeem Ul Haq Awan
+15890	15L-4517	Muhammad Waqar Muzaffar
+15898	15L-4518	Rabiya Sajid
+15875	15L-4514	Syed Talha Hasnain
+14771	13L-4428	Muhammad Raza
+15741	15L-4481	Muhammad Fatir Malik
+15749	15L-4482	Babar Afzal
+15733	15L-4480	Mahnoor Zaghum Butt
+15921	15L-4522	Ayesha Javed
+15147	14L-4431	Shahzeb Tauqir
+15764	15L-4487	Danish Saeed
+15913	15L-4521	Muhammad Hashim Raza
+15757	15L-4485	Hamza Awan
+15156	14L-4435	Hadia Hassan
+15461	15L-4409	Arslan Mehmood
+15445	15L-4407	Hammad Munir
+15453	15L-4408	Muhammad Hamza
+15437	15L-4405	Maida
+15937	15L-4527	Abdullah Amjad
+15421	15L-4403	Hamza Tahir
+15429	15L-4404	Noraiz Butt
+15929	15L-4525	Usman Mehboob
+15780	15L-4493	Muhammad Ghous Iqbal
+15771	15L-4491	Abdullah
+15485	15L-4413	Ahmad Hamza
+15945	15L-4534	Muhammad Nauman Tauseef
+15469	15L-4410	Muhammad Arsalan Baig
+16103	15L-5467	Amna Tariq
+15008	14L-4388	Haider Ali Adnan
+15477	15L-4411	Muhammad Daniyal
+14785	13L-4450	Ghulam Hussain Bhatti
+15804	15L-4496	Marium Aamer
+15788	15L-4494	Uzair Zafar
+15796	15L-4495	Hamza Usman Shuja
+15969	15L-4537	Adeel Mazhar
+15509	15L-4417	Basma Aslam
+15953	15L-4535	Abdul Hanan Ali
+15501	15L-4415	Muhammad Saad Khan
+15961	15L-4536	Arsman Safdar
+14695	12L-4256	Ahmed Mustafa
+15019	14L-4392	Muhammad Atif Farooq
+15541	15L-4423	Mohammad Adil Tariq
+15230	14L-4452	Abdullah Zubair
+15549	15L-4424	Muhammad Ahmad Saleem
+15977	15L-4542	Abdul Moiz
+15533	15L-4422	Nehal Ijaz
+15983	15L-4543	Shehroz Waheed
+15525	15L-4420	Khizar
+15565	15L-4429	Shahzaib Akram
+16007	15L-4548	Muhammad Hamza Saeed
+15557	15L-4425	Majid Nadeem
+15992	15L-4546	Arslan Sohail
+15589	15L-4434	Basma Nadeem Anwar
+16047	15L-4556	Sidra Sajjad
+16039	15L-4554	Mehak Amjad
+15573	15L-4430	Muhammad Moaz Adnan
+16023	15L-4551	Moeez Shakoor
+15581	15L-4431	Salman Nadeem
+16031	15L-4552	Mehroz Afzal
+16015	15L-4550	Shadab Ahmad Khan
+15597	15L-4438	Muhammad Raees Haider
+16071	15L-4559	Muhammad Abdullah
+15605	15L-4439	Agha Ali Zeb
+16055	15L-4557	Syed Kausain Mehdi
+16063	15L-4558	Sohaib Abbasi

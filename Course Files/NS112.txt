@@ -1,0 +1,80 @@
+NS112		Engineering Mechanics
+==========================================
+14414	17L-4629	Razi Ur Rehman Malik
+13766	16L-5421	Muhammad Ameer Hamza
+13978	16L-5461	Hamza Nadeem Abbasi
+14683	17L-6323	Shoaib Hassan
+14386	17L-4620	Bassam Tassaduq
+14544	17L-4664	Muhammad Safyan
+14537	17L-4662	Haider Ali
+14676	17L-6320	Mohammad Abdullah Arslan
+14236	17L-4426	Muhammad Dawood
+14565	17L-4667	Qasim Ahmed Bham
+14229	17L-4424	Rahfay Arshad
+14256	17L-4468	Syed Muhammad Sherafgan
+14558	17L-4666	Touseeque Amed
+14270	17L-4544	Muhammad Talha
+14393	17L-4621	Umer Shahid
+14551	17L-4665	Muhammad Ammar Ishaq
+14407	17L-4628	Khizer Ali Bhatti
+14400	17L-4626	Syed Noor Ali Hussaini
+14579	17L-4671	Zaineb Naeem
+14572	17L-4670	Syed Aown Abbas
+14600	17L-4675	Fahad Imran Sheikh
+14421	17L-4630	Abdul Wahab
+14593	17L-4674	Salman Chaudhary
+14586	17L-4672	Malieka Batool
+14243	17L-4437	Ahsan Bashir
+14435	17L-4635	Usama Irshad
+14628	17L-4679	Muhamad Hashim Khan
+14621	17L-4678	Ali Abid Khan Niazi
+14614	17L-4677	Muhammad Aquib Jamil
+14428	17L-4632	Muhammad Adeel Abbas
+14607	17L-4676	Nabiha Khalid
+14462	17L-4639	Syed Mohammad Asjad Adil Rizvi
+14455	17L-4638	Faran Waheed Khan
+14448	17L-4637	Asif Ali
+14250	17L-4438	Muhammad Talha Tariq
+14442	17L-4636	Majid Ali
+14330	17L-4609	Rana Sarmad Shabir
+14323	17L-4608	Afaq Ahmad
+13707	16L-5409	Abdul Majid
+14316	17L-4607	Wasee Bin Asad
+13095	15L-5430	Mubasher Mahboob
+13649	16L-4474	Dawood Mujahid Chattha
+13889	16L-5441	Abdullah
+14094	16L-5485	Ahmad Akmal
+14642	17L-4681	Laraib Khan
+14635	17L-4680	Muhammad Abdullah
+14476	17L-4642	Rana Muhammad Qalbe Saleem
+14656	17L-4686	Usama Rao
+14469	17L-4641	Shoaib Akram
+14649	17L-4685	Neha Shafqat Qureshi
+14263	17L-4486	Muhammad Hamza Saghir
+14284	17L-4602	Muhammad Usman Gill
+14504	17L-4646	Muhammad Amir Khan
+14277	17L-4601	Muhammad Emaz Azam
+14497	17L-4645	Hamas Nazir Malik
+14490	17L-4644	Muhammad Asad Ejaz
+14483	17L-4643	Aurang Zaib Ali
+14662	17L-4687	Talha Iftikhar
+14310	17L-4606	Muhammad Asim Bhatti
+14303	17L-4605	Zulfiqar Ali Jauher
+14297	17L-4604	Muhammad Adeel
+14669	17L-6306	Muhammad Rizwan Khan
+14291	17L-4603	Rana Ahmad Tariq
+14379	17L-4618	Salman Tahir Cheema
+13848	16L-5436	Sarmad Siddique
+13872	16L-5439	Hamza Ashfaq
+13816	16L-5430	Zeeshan Shoukat
+14222	17L-4334	M Faizan Haider
+14518	17L-4652	Usama Rehman
+14511	17L-4650	Ali Akmal Chaudhary
+14344	17L-4612	Muhammad Qasim
+14531	17L-4656	Faizan Zahid Mir
+14337	17L-4610	Muhammad Bilal Akram
+14525	17L-4654	Muhammad Awais Ajmal
+14372	17L-4617	Muhammad Zain Asghar
+14365	17L-4616	Hamza Ali
+14358	17L-4615	Arslan Saghir
+14351	17L-4614	Mirub Akram

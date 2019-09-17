@@ -1,0 +1,53 @@
+SS206		Organizational Behavior
+==========================================
+6026	14L-4278	Momin Shoaib Ahmed
+9116	16L-4215	Duraze Saquib
+8726	16L-4139	Haider Tariq
+8132	16L-4019	Ahmed Muaaz Tehami
+9127	16L-4217	Sallah Ud Din Khan
+9644	16L-4332	Ahmad Moatasim
+8104	16L-4015	Saad Akbar
+9289	16L-4257	Fatima Naseer
+9109	16L-4214	Muhammad Mehboob Destgir
+9294	16L-4258	Sabir Hassan
+9658	16L-4335	Muhammad Adil
+9254	16L-4251	Syed Saqib Ul Hassan
+7475	15L-4249	Ahmed Saeed
+8322	16L-4055	Muhammad Ali Durrani
+8910	16L-4177	Muhammad Hassan Tariq
+8948	16L-4184	Abdul Rehman
+7912	15L-4370	Muhammad Fahad
+4815	13L-4139	Muhammad Awais Rana
+5346	14L-4087	Qandeel Mushtaq
+9624	16L-4329	Abiha Aftab
+7957	15L-4378	Areeba Shehzad
+8679	16L-4127	Ayman Abaid
+8265	16L-4046	Muhammad Saad Iqbal
+9778	16L-4365	Safi Ur Rehman
+8665	16L-4125	Muhammad Sabeeh Zia
+10059	16L-6347	Bilal Zumar
+9422	16L-4284	Muhammad Fakhar E Alam
+8252	16L-4044	Moazzam Saleem
+8506	16L-4093	Muhammad Shamoon Shahid
+8290	16L-4050	Kanwar Taimoor Ali
+8496	16L-4091	Abbas Ahsan
+4738	13L-4047	Haseeb Danyal
+6738	15L-4069	Saad Mahmood Ahmad
+4730	13L-4041	Muhammad Qasim
+9185	16L-4233	Hamza Nazir
+8233	16L-4036	Hassaan Arshad Wain
+8608	16L-4114	Ahmed Ijaz
+8819	16L-4158	Abdullah Siddiqui
+4956	13L-5844	Waqas Nadeem
+9145	16L-4226	Muhammad Aleem Qasim
+9713	16L-4347	Meezab Ahmed
+7838	15L-4354	Abdullah Anwar
+9159	16L-4228	Seerat Kamal
+9525	16L-4306	Arslan Younas
+9490	16L-4300	Asjad Murtaza
+8740	16L-4141	Arsalan Nawaz
+9836	16L-4383	Khawaja Zeeshaur Ahmad
+8140	16L-4021	Rimsha Chaudhry
+8538	16L-4100	Muhammad Usama Shahid
+9010	16L-4195	Muhammad Nehal Safdar
+5385	14L-4096	Hammad Fozi

@@ -1,0 +1,53 @@
+SS103		Arabic Language
+==========================================
+7461	15L-4247	Umair Zohaib
+7618	15L-4287	Muhammad Fawad Zafar
+9665	16L-4336	Tayyab Ali
+8698	16L-4134	Ali Iqbal
+8923	16L-4179	Hafiz Hamza Anjum
+9942	16L-4531	Muhammad Shahrukh Khan
+8909	16L-4177	Muhammad Hassan Tariq
+9820	16L-4380	Afaq Ahmad
+9308	16L-4260	Shaheer Ahmad
+9315	16L-4261	Muhammad Ahmad Shafique
+7005	15L-4138	Hamza Shamshad
+7785	15L-4333	Haris Bin Saif
+7334	15L-4211	Shahbaz Raza
+9246	16L-4249	Ammar Haider
+9610	16L-4326	Rao Umer Aziz
+9982	16L-6308	Muhammad Hamza
+7499	15L-4253	Syed wajahat Ali Shah
+7768	15L-4330	Hasan Saleem Bajwa
+8865	16L-4167	Muhammad Arsil Khan
+10058	16L-6347	Bilal Zumar
+10051	16L-6344	Muhammad Aziz Ullah
+8044	16L-4001	Muhammad Moiz Arshad
+9449	16L-4292	Syed Asad Abrar
+8495	16L-4091	Abbas Ahsan
+4735	13L-4045	Amman Habib
+9751	16L-4358	Muhammad Abubakar
+7233	15L-4187	Usama Ali
+8440	16L-4079	Ali Raza
+8818	16L-4158	Abdullah Siddiqui
+9948	16L-5446	Muhammad Kamran
+9564	16L-4313	Nimra Ijaz
+8427	16L-4076	Anique Rehman
+9895	16L-4395	Ahmad Raza Cheema
+8799	16L-4154	Muhammad Yasir Abbas
+9028	16L-4198	Abdur Rehman Mushtaq
+9381	16L-4276	Abdul Rehman
+10024	16L-6340	Abdul Rafay Qaisar
+8846	16L-4162	Muhammad Umair Afzal
+9414	16L-4283	Muhammad Talha
+7246	15L-4190	Muhammad Ali
+8577	16L-4107	Huda Asghar
+8765	16L-4145	Usman Abbas
+9870	16L-4389	Muhammad Salman
+8181	16L-4027	Ahmed Hasan
+8139	16L-4021	Rimsha Chaudhry
+9334	16L-4265	Muhammad Abdul Akhir Ihsan
+9848	16L-4386	Noman Shafi
+9003	16L-4194	Muhammad Waqas Afzal
+8199	16L-4030	Zain Ghazanfar
+8985	16L-4191	Fatima Rathore
+7584	15L-4280	Hamza Rashid

@@ -1,0 +1,60 @@
+MG412		Sales Management
+==========================================
+1163	15L-4762	Zoha Mahmood
+931	15L-4686	Shahzaib hashmi
+1169	15L-4763	Rana Muhammad Junaid Ahmed Noon
+526	14L-4752	Roeyd Najeeb
+314	14L-4676	Mueez Shahid
+532	14L-4753	Shaheer Ahmed Kamal
+1337	15L-4805	Laiba Tariq
+428	14L-4715	Faryal Shoukat
+438	14L-4718	Sobia Mahmood
+1181	15L-4766	Rabbia Roohi Zulfiqar
+16	13L-4814	Zunair Khalid
+2993	13L-5904	Nasir Subhani
+4	12L-4889	Sheroze Ali
+938	15L-4691	Laiba Noor
+334	14L-4681	Iman Fatima
+3214	14L-4980	Muhammad Arslan
+754	15L-4652	Faizan Khaleeq
+1208	15L-4773	Rimsha Imran
+3379	15L-4851	Sheikh Hassan Mahmood
+99	14L-4620	Ayesha Akbar
+499	14L-4741	Mahnoor Baloch
+1195	15L-4771	Muhammad Mustafa Mumtaz
+747	15L-4651	Saad Shahzad
+1553	15L-4891	Syeda Maria Ashfaq
+1371	15L-4813	Ammar Nadeem
+1241	15L-4778	Usman Naeem
+1405	15L-4818	Aqeeb ud din
+299	14L-4670	Maida Mazhar
+822	15L-4665	Fahad Shafi Baig
+581	14L-4771	Ghulam Mustafa Aslam
+828	15L-4666	Muhammad Umair Masud
+1125	15L-4743	Talha Anjum Butt
+210	14L-4651	Taniya Asif
+809	15L-4663	Mahlaqa Saqib
+1112	15L-4740	Tubah Shahzadi
+588	14L-4773	Zeeshan Shahid
+469	14L-4731	Amina Sameen
+68	14L-4611	Luqman Yousaf
+244	14L-4657	Nusrat Ullah Roomi
+1437	15L-4825	Fawad Ahmad
+722	14L-4814	Omar Mahmood
+834	15L-4667	Iqra Saeed
+1541	15L-4865	Muhammad Mujtaba
+3762	15L-4942	Manal Abid
+11	13L-4793	Shuja Ur Rehman
+1144	15L-4754	Rija Javaid
+3372	15L-4710	M Taha Khan
+160	14L-4640	Asra Irshad
+1298	15L-4795	Mehreen Fatima
+182	14L-4645	Mohammad Shahid
+187	14L-4646	Shahzaib Hassan
+1035	15L-4718	Mehak Zahid
+1504	15L-4839	Ammara Rehman
+1568	15L-4914	Romeesa Tariq
+1151	15L-4755	Fatima Tariq
+3488	15L-4876	Ashir Wasim
+1467	15L-4833	Osama Mateen
+354	14L-4691	Nimra Khalid

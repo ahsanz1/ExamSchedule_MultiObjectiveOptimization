@@ -1,0 +1,77 @@
+EE304		Feedback Control Systems
+==========================================
+15624	15L-4445	Ayesha Nadeem
+15916	15L-4522	Ayesha Javed
+15142	14L-4431	Shahzeb Tauqir
+15616	15L-4444	Muhammad Zeeshan
+15752	15L-4485	Hamza Awan
+16090	15L-4563	Fahad Amer
+16074	15L-4560	Zainab Eman
+15608	15L-4440	Shayan Najeeb Ghumman
+16082	15L-4561	Muhammad Asad Nawaz
+15456	15L-4409	Arslan Mehmood
+15440	15L-4407	Hammad Munir
+15384	14L-4517	Shehryar Hasan
+15448	15L-4408	Muhammad Hamza
+15432	15L-4405	Maida
+15932	15L-4527	Abdullah Amjad
+15633	15L-4447	Usaid Rafique
+15425	15L-4404	Noraiz Butt
+15924	15L-4525	Usman Mehboob
+14842	13L-4531	Hafiz Talha Waheed
+14848	13L-4534	Awais Ali
+15480	15L-4413	Ahmad Hamza
+15664	15L-4457	Salman Tariq
+15940	15L-4534	Muhammad Nauman Tauseef
+15464	15L-4410	Muhammad Arsalan Baig
+16098	15L-5467	Amna Tariq
+15799	15L-4496	Marium Aamer
+15656	15L-4453	Sabeena Tariq
+15783	15L-4494	Uzair Zafar
+15640	15L-4451	Nummra Khalid
+15791	15L-4495	Hamza Usman Shuja
+15343	14L-4505	Hassan Ali Zahid
+15504	15L-4417	Basma Aslam
+15948	15L-4535	Abdul Hanan Ali
+15496	15L-4415	Muhammad Saad Khan
+15956	15L-4536	Arsman Safdar
+15672	15L-4460	Talha Imran
+15279	14L-4471	Fazal Khan
+15537	15L-4423	Mohammad Adil Tariq
+15688	15L-4467	Muhammad Aqib
+15226	14L-4452	Abdullah Zubair
+15544	15L-4424	Muhammad Ahmad Saleem
+15697	15L-4468	Muhammad Mustafa
+15822	15L-4501	Muhammad Bin Ashiq
+15972	15L-4542	Abdul Moiz
+15528	15L-4422	Nehal Ijaz
+15681	15L-4466	Shawal Nazir
+15981	15L-4543	Shehroz Waheed
+14816	13L-4483	Haseeb Ahsan
+15520	15L-4420	Khizar
+15560	15L-4429	Shahzaib Akram
+15854	15L-4507	Muhammad Yasir
+16002	15L-4548	Muhammad Hamza Saeed
+15553	15L-4425	Majid Nadeem
+15830	15L-4502	Ehtesham Riazat
+15840	15L-4503	Shah Zaman
+15996	15L-4547	Farhad Ali
+15239	14L-4460	Bilal Habib
+15584	15L-4434	Basma Nadeem Anwar
+15720	15L-4479	Malik Zaeem Ul Haq Awan
+16042	15L-4556	Sidra Sajjad
+15568	15L-4430	Muhammad Moaz Adnan
+16018	15L-4551	Moeez Shakoor
+15576	15L-4431	Salman Nadeem
+16026	15L-4552	Mehroz Afzal
+16010	15L-4550	Shadab Ahmad Khan
+15893	15L-4518	Rabiya Sajid
+16066	15L-4559	Muhammad Abdullah
+15600	15L-4439	Agha Ali Zeb
+16050	15L-4557	Syed Kausain Mehdi
+15871	15L-4514	Syed Talha Hasnain
+16058	15L-4558	Sohaib Abbasi
+14765	13L-4428	Muhammad Raza
+15736	15L-4481	Muhammad Fatir Malik
+15744	15L-4482	Babar Afzal
+15728	15L-4480	Mahnoor Zaghum Butt

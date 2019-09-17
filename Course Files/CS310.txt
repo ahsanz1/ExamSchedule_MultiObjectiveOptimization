@@ -1,0 +1,154 @@
+CS310		Management Info. Systems
+==========================================
+1039	15L-4721	Uswa Sadia
+1508	15L-4842	Muhammad Ahmad Mansoor
+928	15L-4686	Shahzaib hashmi
+3263	14L-4995	Maheen Muzaffar
+3267	14L-4996	Sana Zakir
+3335	14L-5569	Saad Ansari
+3011	14L-4910	Zainab Ashraf
+3273	14L-4998	Javeria Hameed
+3017	14L-4911	Asphand Tariq
+1064	15L-4727	Muhammad Salman Anjum
+1515	15L-4843	Umer Naveed
+3033	14L-4916	Shizza Nasir
+1522	15L-4844	Abdul karim
+3039	14L-4917	Mishal Qamar
+935	15L-4691	Laiba Noor
+3343	14L-5570	Kashif Ali
+3383	15L-4853	Aamir Saeed
+955	15L-4696	Fatima Sarfraz
+3295	14L-5553	Wajahat Raza Bajwa
+3376	15L-4851	Sheikh Hassan Mahmood
+3302	14L-5555	Khadija Pervaiz
+948	15L-4693	Faraz Naeem
+3229	14L-4986	Muhammad Sohaib Khan Bhatti
+1102	15L-4739	Rija Hassan
+3235	14L-4987	Tehreem Ahsan
+3308	14L-5559	Khushbakht Saleem
+3241	14L-4988	Hafiz Muhammad Ahmad
+3247	14L-4989	Faiqa Shahbaz
+3411	15L-4858	Areej Mujahid
+3397	15L-4856	Iqra Amir
+3404	15L-4857	Hashim Ejaz
+3390	15L-4854	Rameen Sarwar
+3314	14L-5561	Ahmad Imtiaz
+578	14L-4771	Ghulam Mustafa Aslam
+1122	15L-4743	Talha Anjum Butt
+1109	15L-4740	Tubah Shahzadi
+585	14L-4773	Zeeshan Shahid
+3418	15L-4860	Muhammad Qasim Ali Chattha
+3072	14L-4932	Areeba Amjad
+3568	15L-4904	Sania Misbah
+3575	15L-4905	Noor Zia
+3451	15L-4869	Fahad Hameed
+3562	15L-4903	Syed Ali
+3444	15L-4867	Abdullah Naveed
+3555	15L-4901	Mishaal Aslam
+3437	15L-4866	Muhammad Mehdi
+3596	15L-4908	Mian Harris Riaz
+3603	15L-4909	Zainab Naveed
+3582	15L-4906	Muhammad Asadullah Butt
+3589	15L-4907	Kashaf ul khair
+3479	15L-4874	Shahram Ali
+1141	15L-4754	Rija Javaid
+3352	14L-5574	Ahmed Ali Ghuman
+3472	15L-4872	Muhammad Mateen
+3359	14L-5577	Fatima Sajjad
+3458	15L-4870	Syed Muhammad Raza Shirazi
+3465	15L-4871	Husnain Ijaz
+3055	14L-4921	Muhammad Zain Afzal
+3630	15L-4913	Muhammad Ahmad Safdar
+1565	15L-4914	Romeesa Tariq
+3364	14L-5858	Zeeshan Iqbal
+3616	15L-4911	Muhammad Jahangir Khan
+3492	15L-4879	Ramsha Mehmood
+3623	15L-4912	Syed Ammar Ahmad Bukhari
+1148	15L-4755	Fatima Tariq
+3485	15L-4876	Ashir Wasim
+3645	15L-4918	Muattar Javed
+3808	15L-5458	Fareed Ahmad
+3506	15L-4883	Sania Ahsen
+3513	15L-4884	Waleed Hussaini
+3110	14L-4951	Rabia Waheed
+3116	14L-4952	Murtaza Ali
+3123	14L-4953	Syed Shahzaib Hassan
+3499	15L-4880	Javeria Rizwan
+1334	15L-4805	Laiba Tariq
+3130	14L-4954	Maryam Khalid
+3686	15L-4926	Muhammad Addiyan Aamir
+1341	15L-4806	Arsum Shabbir
+3136	14L-4955	Sofia Nasim
+3693	15L-4927	Ahsan Naveed
+3679	15L-4924	Hafeez Ur Rehman Khan
+3142	14L-4957	Maryam Masroor
+3666	15L-4922	Muhammad Fakhar e alam
+3673	15L-4923	Khubaib Mustafa
+3652	15L-4920	Muhammad Tahir Khan
+1185	15L-4767	Maheer Awais Malik
+3659	15L-4921	Ch Muhammad Sameed Ayub
+3700	15L-4928	Fatima Masood
+1348	15L-4808	Muhammad Tahir Latif
+27	13L-4974	Hamna Khalid
+1219	15L-4775	Abdul Rahman Maqbool
+3541	15L-4897	Umer Nadeem
+751	15L-4652	Faizan Khaleeq
+1205	15L-4773	Rimsha Imran
+3527	15L-4894	Mahmood Ahmad
+758	15L-4653	Rafia Javed
+1212	15L-4774	Anum Zahid
+3534	15L-4895	Hafiza Ayesha Javaid
+1192	15L-4771	Muhammad Mustafa Mumtaz
+1557	15L-4892	Maria Samreen
+744	15L-4651	Saad Shahzad
+3520	15L-4890	Aima Irfan
+3005	14L-4788	Shiza Tahir
+3725	15L-4937	Samie ul hassan
+3732	15L-4938	Maryem Iftikhar
+1375	15L-4814	Khadija Waheed
+3088	14L-4946	Hamza Khan
+1361	15L-4812	Hisham Raphick
+786	15L-4659	Rida Ahmad
+3094	14L-4948	Gull e Daudi
+771	15L-4656	Beenish Tahir
+1238	15L-4778	Usman Naeem
+3548	15L-4899	Muhammad Ali Subhani Gondal
+3714	15L-4932	Muhammad Wahab Tabish
+1402	15L-4818	Aqeeb ud din
+3739	15L-4939	Usama Abid
+3745	15L-4940	Sheeza Hussain
+1264	15L-4787	Abdullah Shahzad
+3752	15L-4941	Salvat Ahmed
+806	15L-4663	Mahlaqa Saqib
+1257	15L-4785	Shahzeb Haq
+1250	15L-4782	Ramsha Naveed
+3190	14L-4975	Aleeza Waqar
+3196	14L-4976	Laiba Khalid
+1434	15L-4825	Fawad Ahmad
+3202	14L-4978	Talha Nasir Manj
+982	15L-4705	Hazik Bin Waqar
+3780	15L-4947	Muhammad Sarwar Hashmat
+3768	15L-4945	Saad Aqeel
+962	15L-4700	Fahad Hassan
+1421	15L-4821	Muhammad Abdullah
+3759	15L-4942	Manal Abid
+838	15L-4668	Zainab Hussain Bukhari
+969	15L-4701	Hadeed
+1276	15L-4789	Maleeha Jamal
+1001	15L-4708	Ayesha Adeel Bottar
+1295	15L-4795	Mehreen Fatima
+851	15L-4670	Kalsoom Khan
+1032	15L-4718	Mehak Zahid
+1501	15L-4839	Ammara Rehman
+1019	15L-4713	Ibrahim Ayyaz
+1471	15L-4834	Muhammad Musa Khan
+3174	14L-4969	Abdullah Hassan Malik
+1478	15L-4835	Hamna Waheed
+3794	15L-4956	Muhammad Shariq Ali Rabbani
+882	15L-4678	Nabiha Shahid
+1315	15L-4799	Muhammad Taimoor Ghani
+1458	15L-4832	Namra Arif Chaudhary
+889	15L-4679	Zahid Athar Khan
+3787	15L-4954	Zain ul abedin
+23	13L-4868	Anam Hamid
+896	15L-4680	Imtiaz Ahmed

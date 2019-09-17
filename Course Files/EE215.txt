@@ -1,0 +1,10 @@
+EE215		Computer Organization & Architecture
+==========================================
+14756	13L-4419	Waleed Ahmed
+14726	13L-4207	Ahmad Ammar
+15263	14L-4466	Abdul Moid Rahat
+15290	14L-4478	Mahak Khalid
+15034	14L-4403	Zulfiqar Ali
+15374	14L-4516	Ali Husnain
+15016	14L-4392	Muhammad Atif Farooq
+14976	14L-4382	Zoha Waheed

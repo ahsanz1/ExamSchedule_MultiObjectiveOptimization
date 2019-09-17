@@ -1,0 +1,60 @@
+CV212		Structural Analysis
+==========================================
+14188	16L-5509	Muhammad Zeeshan
+13796	16L-5426	Muhammad Salman Amir
+13788	16L-5425	Muhammad Moonis Hafeez
+12529	14L-5766	Bilal Hussain
+13804	16L-5428	Ahmad Sarfraz
+13991	16L-5466	Haider Ali Zer
+13983	16L-5465	Ajmal Rashid
+13771	16L-5423	Muhammad Abdullah Shahid
+13999	16L-5471	Umer
+13745	16L-5419	Hamna Abid Khan
+12672	14L-5794	Umair Ahmad
+13958	16L-5459	Naeem Ullah
+12168	13L-5782	Ishaq Nabi
+13950	16L-5458	Jawad Ahmad
+13737	16L-5417	Hafiz Muhammad Usama Tofiq
+13729	16L-5416	Haseeb Ullah
+14180	16L-5499	Ammad Asif
+13712	16L-5410	Rehman Yaqoob
+13926	16L-5451	Muhammad Umer Yousuf
+13918	16L-5450	Ali Ahmad
+14146	16L-5494	Amir Hayat
+13942	16L-5453	Abbas Ali Azhar
+14163	16L-5497	Talha Abid
+13934	16L-5452	Muhammad Shahryar Ali
+14154	16L-5496	Muhammad Hammad Raza
+13966	16L-5460	Irfan Kaleem Siddiqui
+12137	13L-4246	Muhammad Noman Tariq
+13695	16L-5408	Ahsan Maqsood
+13687	16L-5407	Muhammad Ali
+13671	16L-5403	Shahab Ud Din
+13679	16L-5406	Muzna Anam
+13910	16L-5449	Faran Masood
+13902	16L-5444	Talha Akram
+14115	16L-5488	Kanwal Anwar
+14107	16L-5487	Muteeb Shafique
+13654	16L-5401	Zain U Din Arshad
+13877	16L-5440	Faizan Arshad
+13629	16L-4153	Muhammad Rehan
+14073	16L-5483	Hamza Majeed
+13894	16L-5442	Muhammad Ahmad Baig
+14099	16L-5486	Muhammad Arslan Saleem
+14122	16L-5490	Muhammad Ahsan Afzal
+14138	16L-5493	Haseeb Ullah
+14130	16L-5492	Raheel Malook Masih
+13448	15L-5484	Muhammad Muneeb
+13862	16L-5438	Muhammad Junaid
+13828	16L-5433	Ansar Pervaiz
+14196	16L-6324	Hamza Naeem
+13820	16L-5432	Ali Faraz
+14039	16L-5479	Usama Shahid
+14213	16L-6326	Muhammad Danish Shoukat
+13836	16L-5434	Aizaz Islam Khan
+14031	16L-5478	Ahmad Ibrar Cheema
+13637	16L-4262	Syed Mujtaba Ali
+14007	16L-5473	Hafiz Ahmad Nawaz
+14023	16L-5475	Hassan Bin Saleem
+14015	16L-5474	Ali Suffian
+14065	16L-5482	Muhammad Hassan Khan Abdali

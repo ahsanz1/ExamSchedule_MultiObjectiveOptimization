@@ -1,0 +1,65 @@
+MG428		Taxation
+==========================================
+3256	14L-4990	Bilal Javaid
+3261	14L-4991	Fatima Khan
+3107	14L-4950	Hira Tahseen
+3327	14L-5566	Rahma Ilyas
+3114	14L-4951	Rabia Waheed
+3265	14L-4995	Maheen Muzaffar
+3119	14L-4952	Murtaza Ali
+3271	14L-4996	Sana Zakir
+3332	14L-5568	Fariha Nawaz
+3127	14L-4953	Syed Shahzaib Hassan
+3014	14L-4910	Zainab Ashraf
+3134	14L-4954	Maryam Khalid
+3019	14L-4911	Asphand Tariq
+3139	14L-4955	Sofia Nasim
+3283	14L-4999	Rida Imran
+3025	14L-4913	Ali Raza
+3146	14L-4957	Maryam Masroor
+3030	14L-4915	Adeel Imran
+3037	14L-4916	Shizza Nasir
+3042	14L-4917	Mishal Qamar
+3048	14L-4918	Shahtaj Quasim
+2996	13L-5904	Nasir Subhani
+3347	14L-5570	Kashif Ali
+3293	14L-5551	Hania Imran
+3217	14L-4980	Muhammad Arslan
+3545	15L-4897	Umer Nadeem
+3222	14L-4981	Saad Amin Khan
+3299	14L-5553	Wajahat Raza Bajwa
+3226	14L-4983	Faryab Ahmad Khan
+3305	14L-5555	Khadija Pervaiz
+3085	14L-4941	M.Musaddique Latif
+3008	14L-4788	Shiza Tahir
+3233	14L-4986	Muhammad Sohaib Khan Bhatti
+3238	14L-4987	Tehreem Ahsan
+3312	14L-5559	Khushbakht Saleem
+3245	14L-4988	Hafiz Muhammad Ahmad
+3250	14L-4989	Faiqa Shahbaz
+3092	14L-4946	Hamza Khan
+3096	14L-4948	Gull e Daudi
+3103	14L-4949	Uswah Aslam Zaeem
+2986	13L-4923	Syed Ijlal Haider Naqvi
+3287	14L-5000	Maryam Manzoor Qadir
+3318	14L-5561	Ahmad Imtiaz
+3182	14L-4970	Humza Liaquat
+3188	14L-4973	Mahnoor
+3194	14L-4975	Aleeza Waqar
+3076	14L-4932	Areeba Amjad
+3200	14L-4976	Laiba Khalid
+3206	14L-4978	Talha Nasir Manj
+3210	14L-4979	Ayat Ul Khadija
+3080	14L-4936	Mahnoor Sohail
+3003	13L-5927	Rahma Sajjad
+3151	14L-4961	Rimsha Shoaib
+3363	14L-5577	Fatima Sajjad
+3156	14L-4962	Rida Zainab
+3053	14L-4920	Dania Azhar Sheikh
+3161	14L-4964	Hasan Raheel
+3059	14L-4921	Muhammad Zain Afzal
+3165	14L-4966	Zoha Saleem
+3065	14L-4923	Baligha Khalid
+3070	14L-4924	Maria Arshad
+3170	14L-4968	Nimra Saher
+3177	14L-4969	Abdullah Hassan Malik

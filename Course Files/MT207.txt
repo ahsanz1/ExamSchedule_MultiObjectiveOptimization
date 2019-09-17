@@ -1,0 +1,204 @@
+MT207		Numerical Methods
+==========================================
+7617	15L-4287	Muhammad Fawad Zafar
+8116	16L-4017	Abdullah Munir
+8089	16L-4013	Ibraheem Ahmed
+8697	16L-4134	Ali Iqbal
+8095	16L-4014	Dania Ahmad
+9281	16L-4256	Ayesha Waheed
+4676	12L-5540	Umer jaan
+8102	16L-4015	Saad Akbar
+9288	16L-4257	Fatima Naseer
+9810	16L-4378	Daniyal Yahya
+9292	16L-4258	Sabir Hassan
+9252	16L-4251	Syed Saqib Ul Hassan
+9791	16L-4372	Muhammad Faizan Naeem
+8076	16L-4010	Muhammad Wajahat Ali Khan
+9260	16L-4252	Muhammad Muaaz Bin Zaka
+9267	16L-4253	Syed Muhammad Abeeq Jafar
+9797	16L-4375	Sikander Hassan Khan
+9996	16L-6310	Usama Maqsood
+9819	16L-4380	Afaq Ahmad
+8732	16L-4140	Mahnoor Arif
+7147	15L-4173	Qurat Ul Ain Naveed
+5333	14L-4084	Maida Tariq
+7176	15L-4177	Muhammad Abdullah
+8059	16L-4006	Hamna Faisal Khan
+9968	16L-6306	Muhammad Irtaza Fiaz
+9245	16L-4249	Ammar Haider
+9961	16L-6305	Ali Haider
+7161	15L-4175	Muhammad Sarmad Iqbal Khan
+9981	16L-6308	Muhammad Hamza
+9975	16L-6307	Muhammad Zain Anjum
+8650	16L-4123	Muhammad Anas Bhatti
+9777	16L-4365	Safi Ur Rehman
+8657	16L-4124	Anas Usman
+9238	16L-4245	Ahmad Mushtaq Ahmad
+9783	16L-4366	Husnain Akhtar Khan
+9953	16L-6301	Syed Sardar Shaharyar
+8642	16L-4120	Bilal Ashfaq
+9217	16L-4241	Zarfishan Wajid
+9934	16L-4490	Muhammad Hasan Sarwar
+5759	14L-4190	Hafiz Muhammad Arslan
+7221	15L-4185	Abu Talha
+5291	14L-4075	Zubair Ijaz
+5775	14L-4197	Syed Muhammad Bilal Munir
+6363	14L-5860	Syed Hassan Ali Naqvi
+8621	16L-4116	Faryal Khan
+9205	16L-4237	Ahmad Bilal Bahadur
+8636	16L-4118	Muhammad Haris Tanveer
+8595	16L-4112	Abdul Wasey Butt
+6400	14L-5867	Saad Ali
+9737	16L-4355	Hajra Naseer Sialwi
+8607	16L-4114	Ahmed Ijaz
+9744	16L-4356	Rabiya Adnan
+9733	16L-4351	Usama Azeem
+4907	13L-4315	Abdul Mannan Yar Khan
+6309	14L-4521	Muhammad Anas Sheikh
+9144	16L-4226	Muhammad Aleem Qasim
+9711	16L-4347	Meezab Ahmed
+8576	16L-4107	Huda Asghar
+6327	14L-4526	Junaid Ahmed Khan
+8557	16L-4103	Muhammad Saad Zaheer Bhatti
+9699	16L-4345	Huzaifa Hussnain
+9704	16L-4346	Ali Ahmad
+9677	16L-4340	Syed Shan E Raza
+9686	16L-4341	Burhan Atique
+5357	14L-4091	Hira Rauf
+6813	15L-4086	Hamza Ahmad
+9114	16L-4215	Duraze Saquib
+9674	16L-4339	Rameen Ahsan
+9088	16L-4211	Agha Bazaid Khan
+9642	16L-4332	Ahmad Moatasim
+9093	16L-4212	Muzammil Azam
+9649	16L-4333	Malik Mohsin Hayat
+9101	16L-4213	Kamran Khalid Shah
+9107	16L-4214	Muhammad Mehboob Destgir
+9656	16L-4335	Muhammad Adil
+9636	16L-4331	Saadi Ahmad Ali
+9623	16L-4329	Abiha Aftab
+9048	16L-4204	Muhammad Danial Mirza
+9596	16L-4321	Abubakar Sadiq
+9041	16L-4202	Muhammad Farhan Atif
+7659	15L-4301	Muhammad Mehtab
+9582	16L-4317	Ahmed Ali
+9554	16L-4312	Usama Khan
+9530	16L-4307	Hafiz Muhammad Wajih Ul Hassan
+9537	16L-4308	Rimsha Amer
+9543	16L-4309	Muhammad Nouman
+9509	16L-4304	Mohammad Badar Ud Din
+5808	14L-4205	Abdul Basit
+9524	16L-4306	Arslan Younas
+9488	16L-4300	Asjad Murtaza
+9496	16L-4301	Muhammad Haroon
+9502	16L-4302	Mahnoor
+8526	16L-4098	Muhammad Hammad Afzal
+4705	13L-4017	Ali Shahid
+5925	14L-4241	Waleed Amjad
+5867	14L-4222	Muhammad Ali
+6202	14L-4344	Hassan Jalal
+8481	16L-4086	Rida Nazir
+8505	16L-4093	Muhammad Shamoon Shahid
+8494	16L-4091	Abbas Ahsan
+4724	13L-4040	Usama Jamil
+4940	13L-5492	Saud Zaman Khan
+5508	14L-4134	Aurangzaib
+4729	13L-4041	Muhammad Qasim
+8422	16L-4075	Muhammad Imran Khan
+8426	16L-4076	Anique Rehman
+9019	16L-4197	Hooria Muslih Ud Din
+8435	16L-4078	Nabeel Khalid
+8456	16L-4082	Syed Saif Ali
+8466	16L-4084	Muhammad Muneeb Akhtar
+8476	16L-4085	Muhammad Abdullah Aziz
+4720	13L-4038	Muhammad Hanif
+7858	15L-4357	Ali Hassan
+6922	15L-4116	Azed Abbas Raja
+5936	14L-4245	Ahmed Shabbir
+7830	15L-4353	Mohammad Saad Bin Riaz
+8394	16L-4068	Kissaebatool
+8970	16L-4189	Nimra Aamir
+8374	16L-4064	Muhammad Bilal Arshad
+6928	15L-4117	Muhammad Usman
+8380	16L-4066	Muhammad Zain
+8956	16L-4187	Moeed Raza Khan
+8415	16L-4072	Maham Masood
+9008	16L-4195	Muhammad Nehal Safdar
+8977	16L-4190	Muhammad Talha Shabbir Chaudhry
+4867	13L-4181	Abdullah Hussain
+7429	15L-4242	Rafay Anwar Malik
+8334	16L-4057	Maidah Tayyab
+8922	16L-4179	Hafiz Hamza Anjum
+8348	16L-4059	Raphael Nazir Ullah
+8309	16L-4053	Waleed Ahmad
+8895	16L-4174	Muhammad Munam Mubashir
+8316	16L-4054	Muhammad Ahmad Saif
+8902	16L-4175	Kanwar Muhammad Ahmed Zaman
+8908	16L-4177	Muhammad Hassan Tariq
+9474	16L-4298	Shafin Salim
+8355	16L-4060	Abdullah Naeem
+8368	16L-4063	Salvasadiq
+8947	16L-4184	Abdul Rehman
+7923	15L-4372	Fatima Mahnoor
+7504	15L-4254	Muhammad Hamza Majeed
+6498	15L-4013	Muhammad Mustafa Shahbaz
+8263	16L-4046	Muhammad Saad Iqbal
+8864	16L-4167	Muhammad Arsil Khan
+8270	16L-4047	Muhammad Talal
+9441	16L-4289	Taha Kibria
+8278	16L-4048	Izzah Manzoor
+8285	16L-4049	Muhammad Abbas Hussain
+8851	16L-4163	Rouel Shafi Chaudhary
+9420	16L-4284	Muhammad Fakhar E Alam
+10038	16L-6342	Ilsa Marium Chaudhary
+9427	16L-4285	Afrasiyab
+8250	16L-4044	Moazzam Saleem
+8257	16L-4045	Haider Nadeem Mirza
+9434	16L-4287	Saad Akbar
+8289	16L-4050	Kanwar Taimoor Ali
+8875	16L-4171	Farwa Khawar
+9448	16L-4292	Syed Asad Abrar
+8294	16L-4051	Zain Arshad
+4737	13L-4047	Haseeb Danyal
+6010	14L-4270	Mohammad Iqbal
+5134	14L-4030	Sameer Ahmad
+5241	14L-4059	Abdur Rafay Khawar
+8232	16L-4036	Hassaan Arshad Wain
+9386	16L-4278	Talha Zaheer Sipra
+8817	16L-4158	Abdullah Siddiqui
+8211	16L-4032	Haad Fida
+8218	16L-4033	Ahmad Maqbool Bajwa
+9372	16L-4275	Muhammad Hassaan Bin Sohail
+9901	16L-4396	Hassan Majid
+9380	16L-4276	Abdul Rehman
+9907	16L-4397	Samra Arshad
+10017	16L-6332	Noefal Ahmed
+9399	16L-4281	Hammad Ikhlaq
+8838	16L-4161	Ahmad Raza
+10023	16L-6340	Abdul Rafay Qaisar
+5258	14L-4062	Uzair Ahmed
+8186	16L-4028	Noor Fatima Saleem
+8779	16L-4149	Umair Ghafoor
+10010	16L-6328	Faiz Muhammad
+8192	16L-4029	Arshia Akhtar
+7077	15L-4153	Syed Moin Ali Zaidi
+8764	16L-4145	Usman Abbas
+9862	16L-4388	Mehar Fatima Khan
+8173	16L-4026	Muhammad Umer Saeed
+8772	16L-4147	Faaiz Ahmed Muneer
+9869	16L-4389	Muhammad Salman
+8738	16L-4141	Arsalan Nawaz
+9835	16L-4383	Khawaja Zeeshaur Ahmad
+8138	16L-4021	Rimsha Chaudhry
+9320	16L-4263	Hamza Hameed Dar
+8145	16L-4022	Fawad Omer Siddiqui
+8750	16L-4143	Roshan Ul Haq
+9327	16L-4264	Syed Ahmad Saeed
+8154	16L-4023	Muhammad Hamza Ashraf
+8758	16L-4144	Aanish Amir Waseem
+9333	16L-4265	Muhammad Abdul Akhir Ihsan
+8784	16L-4150	Minahil Ahmed
+8198	16L-4030	Zain Ghazanfar
+8792	16L-4151	Ali Tahir
+9888	16L-4393	Syeda Zeenat Hassan Zaidi
+7603	15L-4284	Syed Muhammad Hamza Ali Kazmi

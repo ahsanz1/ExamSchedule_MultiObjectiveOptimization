@@ -1,0 +1,67 @@
+EE402		Digital Image Processing
+==========================================
+5593	14L-4155	Imran Latif
+6268	14L-4430	Muhammad Moawaz Ayub
+4861	13L-4180	Zeshan Afzal
+5604	14L-4157	Muhammad Qasim
+6111	14L-4312	Khawar Hussain
+6652	15L-4046	Syed Muhammad Fazle Tehami
+5459	14L-4118	Khan Muhammad Riaz Bin Tariq
+4758	13L-4058	Mudassar Iqbal
+5332	14L-4084	Maida Tariq
+4870	13L-4214	Muhammad Ahmad
+5340	14L-4086	Muhammad Ehtesham Anwar
+5919	14L-4240	Muhammad Muaaz Tariq
+6421	14L-5871	Hassan Khalid
+7955	15L-4378	Areeba Shehzad
+5112	14L-4026	Ali Zain
+5877	14L-4224	Salaar Ahmed Chaudhary
+7503	15L-4254	Muhammad Hamza Majeed
+7935	15L-4375	Syed Ghassan Faheem
+5561	14L-4149	Hamza Ahmed
+6439	14L-5877	Ayman Mustansar
+6100	14L-4306	Hamza Arshad
+15123	14L-4427	Kainat Rizwan Butt
+4919	13L-4328	Abdul Khaliq Ghaffar
+14728	13L-4207	Ahmad Ammar
+4664	12L-4334	Sharon Stephen
+4915	13L-4322	Shahrose Khaliq
+5278	14L-4070	Muhammad Ehsan
+15017	14L-4392	Muhammad Atif Farooq
+5574	14L-4151	Hafiz Saad Mazhar
+6563	15L-4027	Muhammad Yasir
+14877	14L-4253	Taimoor Sattar
+5820	14L-4210	Hamza Awan
+6078	14L-4298	Muhammad Haseeb Mahmood
+5234	14L-4057	Mohammad Babak Shahid
+6370	14L-5861	Muhammad Mubashar Khawar
+14882	14L-4256	Sohaib Ul Hassan Sulehari
+14967	14L-4378	Shayan Akhtar
+15061	14L-4411	Hamza Mumtaz
+4997	13L-5892	Zeeshan Ashraf
+5520	14L-4137	Rahim Bin Shahid
+5844	14L-4215	Mohammad Hamza Rasheed
+6263	14L-4413	Aiza Mansur
+7684	15L-4309	Shariq Ahmad Qureshi
+7977	15L-4427	Saneeha Ahmad
+6619	15L-4038	Maham Amjad
+5649	14L-4166	Muhammad Abdullah Chaudhry
+6141	14L-4321	Faisal Ali
+7576	15L-4279	Kainat E Riaz Ch
+14921	14L-4366	Basir Mahmood
+5481	14L-4125	Khadija Saeed
+5666	14L-4169	Hafiza Nadia Batool
+5946	14L-4247	Hassaan Tauqir
+5801	14L-4204	Hamza Mansoor
+7825	15L-4352	Osama Sajid Khan
+7729	15L-4319	Ayesha Haider
+15050	14L-4408	Muhammad Ali
+4950	13L-5837	Muhammad Isfand Yar Khan
+4570	11L-4012	Syed Arbaz Gillani
+4619	12L-4116	Taimur Mughal
+7112	15L-4162	Ali Hussnain
+5363	14L-4092	Asjad Zaheer
+5379	14L-4095	Ahmad Waleed Qureshi
+4977	13L-5876	Amir Muddassar
+5031	14L-4010	Wahaj Ashfaq
+14803	13L-4468	Syed Uzair Abbas Bukhari

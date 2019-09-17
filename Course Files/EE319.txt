@@ -1,0 +1,67 @@
+EE319		Probability & Random Processes
+==========================================
+16194	16L-4417	Syed Muhammad Mujtaba Amin
+16202	16L-4419	Zainab Zahid
+16394	16L-4457	Yasir Hassan
+16178	16L-4414	Muhammad Usman Javed
+16676	16L-5469	Gohar Nayyab
+16186	16L-4416	Umair Naseem
+16644	16L-5427	Ahsan Kaukab
+16362	16L-4453	Malik Muhammad Awais
+16170	16L-4410	Jibran Ali
+16370	16L-4454	Maryam Rasool Chaudhry
+16503	16L-4498	Muhammad Zeeshan Aslam
+16378	16L-4455	Umair Abbas
+16511	16L-4499	Ayman Waseem
+16386	16L-4456	Muhammad Hassan Shahid
+16669	16L-5467	Ahmad Numeer
+16696	16L-6353	Muhammad Bilal Tahir
+16346	16L-4450	Duaa Ali
+16487	16L-4494	Muhammad Aslaan Sarwar
+16354	16L-4451	Arsal Azam
+16496	16L-4495	Muhammad Saad Ul Haq
+16146	16L-4406	Sidra Jawad
+16154	16L-4407	Mahnoor Jawad Khan
+16162	16L-4409	Muhammad Zuhair Anas
+16330	16L-4446	Abdul Nasir
+16628	16L-4523	Asif Ahmad Arif
+16636	16L-4524	Muhammad Usama
+16130	16L-4404	Raffay Sajjad
+16339	16L-4448	Zargham Ahmed Khan
+16139	16L-4405	Arham Hasib Ilahi
+16471	16L-4486	Rehab Abrar
+16322	16L-4443	Hafiz Inam Ghous
+16479	16L-4487	Muhammad Zohaib Ali Shaikh
+16606	16L-4520	Hadeera Munsif
+16613	16L-4521	Kainat Fatima
+16660	16L-5457	Muhammad Ahsan Mahmood
+16122	16L-4401	Syed Ali Zain Zaidi
+16449	16L-4482	Daniyal Ahmed
+16314	16L-4440	Umair Ali Khan
+16463	16L-4484	Sheharyar Saleem
+16306	16L-4439	Abeya Khan
+16575	16L-4516	Muhammad Bilal Khalid
+16582	16L-4517	Aroosha Farooq
+16598	16L-4519	Muddassir Ahmed
+16433	16L-4479	Zain Ul Abidin
+16290	16L-4436	Maryam Zaib
+16558	16L-4514	Murtaza Hussain Mirza
+16299	16L-4438	Malik Haris Ali Khokhar
+16566	16L-4515	Erbaz Khan
+16266	16L-4432	Benish Hussain
+16652	16L-5443	Mohammad Haasin Farooq
+16274	16L-4433	Abdullah Ashfaq Cheema
+16282	16L-4434	Zartush Khan Durrani
+16425	16L-4473	Mahnoor Sohail
+16250	16L-4430	Arsal Naeem
+16441	16L-4481	Muhammad Waleed Malik
+16243	16L-4428	Muhammad Usman Akram
+16418	16L-4468	Zunaira Tahir
+16226	16L-4425	Muhammad Zain
+16234	16L-4427	Muhammad Omer
+16542	16L-4504	Ali Abid Zaidi
+16210	16L-4420	Sarmad Bin Tahir
+16403	16L-4465	Manahil Tanveer
+16218	16L-4422	Ahsan Jalil Mirza
+16409	16L-4466	Ayesha
+16519	16L-4500	Haider Nadeem

@@ -1,0 +1,160 @@
+MG324		Business Ethics
+==========================================
+3252	14L-4990	Bilal Javaid
+3258	14L-4991	Fatima Khan
+522	14L-4750	M Zeeshan Jamil
+130	14L-4630	Mahrukh Fatima
+134	14L-4631	Sana Mansoor
+525	14L-4752	Roeyd Najeeb
+3324	14L-5566	Rahma Ilyas
+140	14L-4632	Aliza Rizvi
+530	14L-4753	Shaheer Ahmed Kamal
+144	14L-4633	Sheikh Mubeen Riaz
+3329	14L-5568	Fariha Nawaz
+150	14L-4634	Nida Qadeer
+537	14L-4755	Hadia Nadeem
+3280	14L-4999	Rida Imran
+542	14L-4759	Mustafa Kamal
+3022	14L-4913	Ali Raza
+154	14L-4639	Adina Tahir
+3027	14L-4915	Adeel Imran
+3045	14L-4918	Shahtaj Quasim
+734	14L-4919	Mahnoor Siddique
+2992	13L-5904	Nasir Subhani
+3289	14L-5551	Hania Imran
+3213	14L-4980	Muhammad Arslan
+3219	14L-4981	Saad Amin Khan
+494	14L-4740	Muhammad Zuhair
+98	14L-4620	Ayesha Akbar
+498	14L-4741	Mahnoor Baloch
+3223	14L-4983	Faryab Ahmad Khan
+104	14L-4621	Qasim Zafar
+505	14L-4743	Ayesha Saeed
+510	14L-4745	Saffa Faisal
+108	14L-4626	Sh. Muhammad Umer
+113	14L-4627	Muhammad Uzair Zia
+118	14L-4628	Maha Kayani
+516	14L-4749	Aimen Naz
+123	14L-4629	Maham Nadeem
+1	12L-4731	Abdul Waris Ranjha
+574	14L-4770	Muhammad Hassan Rafique
+205	14L-4650	Muhammad Daniyal Malik
+209	14L-4651	Taniya Asif
+222	14L-4653	Nabeeha Akbar
+592	14L-4774	Hafiz Mohammad Furqan Hameed
+227	14L-4654	Iqra Kamal
+598	14L-4775	Romaisa Lateef Sheikh
+232	14L-4655	Ameer Nosherwan Ali
+238	14L-4656	Faria Mehboob
+709	14L-4810	Asna Rehman
+243	14L-4657	Nusrat Ullah Roomi
+603	14L-4778	Hassan Hanif
+608	14L-4779	Namra Siddique
+249	14L-4659	Sophia Mansoor
+715	14L-4813	Muhammad Abubakar
+741	14L-4935	Sana Tariq
+728	14L-4815	Shahbaz Aziz
+3077	14L-4936	Mahnoor Sohail
+2978	12L-5879	Raza Hassan khan
+2999	13L-5927	Rahma Sajjad
+10	13L-4793	Shuja Ur Rehman
+547	14L-4760	Farrukh Alam
+159	14L-4640	Asra Irshad
+552	14L-4761	Zuha Arif
+164	14L-4641	Ammarah Raza Khan
+558	14L-4762	Tooba Irfan
+171	14L-4642	Hassan Badar Butt
+562	14L-4764	Jaudat Ahmed Sulehri
+176	14L-4644	Amna Kazim Khan
+181	14L-4645	Mohammad Shahid
+3050	14L-4920	Dania Azhar Sheikh
+186	14L-4646	Shahzaib Hassan
+567	14L-4767	Mahnoor Jowad Qureshi
+194	14L-4648	Ryaheen Munir
+3062	14L-4923	Baligha Khalid
+199	14L-4649	Muhammad Yawar Aziz
+3067	14L-4924	Maria Arshad
+3367	14L-5858	Zeeshan Iqbal
+689	14L-4805	Ihtisham Khaliq
+699	14L-4807	Menahil Imran
+704	14L-4809	Zainab Nazir
+654	14L-4792	Hina Tabassum
+304	14L-4673	Mahad Ali
+659	14L-4794	Majid Tamoor
+309	14L-4674	Sana Ahmed
+666	14L-4796	Faryal Shafiq
+3104	14L-4950	Hira Tahseen
+313	14L-4676	Mueez Shahid
+670	14L-4797	Asfand Sultan
+319	14L-4677	Esha Tur Rabia
+323	14L-4679	Rubama Aamir Butt
+423	14L-4714	Faizan Shahnawaz
+427	14L-4715	Faryal Shoukat
+433	14L-4716	Suleman
+437	14L-4718	Sobia Mahmood
+2987	13L-4970	Afnan Ahmad
+329	14L-4680	Nida Arshad
+333	14L-4681	Iman Fatima
+253	14L-4660	Zahra Irfan
+613	14L-4781	Zainab Naveed
+259	14L-4661	Faiza Mariam Qazi
+618	14L-4782	Vijay Kumar
+3543	15L-4897	Umer Nadeem
+626	14L-4783	Khuzaima Akmal
+263	14L-4663	Qurat Ul Ain
+632	14L-4784	Syed Taha Noman Wasti
+270	14L-4664	Zahid Ali
+637	14L-4785	Irfan Abdullah
+276	14L-4665	Zainab Ashraf
+3082	14L-4941	M.Musaddique Latif
+395	14L-4700	Muhammad Talha Naveed
+289	14L-4668	Sara Salim
+644	14L-4789	Hassaan Amjad
+294	14L-4669	Hiba Abdul Manan
+402	14L-4704	Maira Tahir
+408	14L-4707	Shanzah Sahir
+3099	14L-4949	Uswah Aslam Zaeem
+412	14L-4708	Numair Ahmad
+417	14L-4709	Mohammad Mashal Khan
+298	14L-4670	Maida Mazhar
+649	14L-4791	Hassan Ahmed
+3284	14L-5000	Maryam Manzoor Qadir
+364	14L-4693	Sulman Azam
+369	14L-4694	Bilal Ishaq
+374	14L-4695	Samman Rana
+3179	14L-4970	Humza Liaquat
+380	14L-4696	Atiqa Latif
+386	14L-4697	Khush Bakht
+462	14L-4730	Areeba Ajmal
+391	14L-4698	Ismail Hassan Butt
+468	14L-4731	Amina Sameen
+3184	14L-4973	Mahnoor
+67	14L-4611	Luqman Yousaf
+474	14L-4732	Muddassir Mustafa Mian
+75	14L-4612	Muhammad Aayem Masood
+479	14L-4733	Muhammad Hassan
+79	14L-4613	Rija Rehman
+484	14L-4734	Muhammad Ameer
+84	14L-4614	Mian Usman Saif
+489	14L-4735	Hafiz Inam Ahmad
+3207	14L-4979	Ayat Ul Khadija
+89	14L-4617	Muhammad Fahad Farooqi
+94	14L-4619	Ammarah Ijaz
+338	14L-4684	Noor Ul Ain
+343	14L-4686	Ujala Ijaz
+3147	14L-4961	Rimsha Shoaib
+348	14L-4687	Ifaf Abid
+443	14L-4720	Zara Javed
+3152	14L-4962	Rida Zainab
+3158	14L-4964	Hasan Raheel
+453	14L-4723	Neha Idrees
+457	14L-4724	Noor Ul Ain
+3163	14L-4966	Zoha Saleem
+37	14L-4604	Ameer Hamza
+41	14L-4605	Alina Zahra
+3167	14L-4968	Nimra Saher
+48	14L-4606	Rabia Tariq
+51	14L-4607	Muhammad Nauman Naeem
+56	14L-4609	Maria Gauhar
+353	14L-4691	Nimra Khalid
+359	14L-4692	Abdullah Ahmad

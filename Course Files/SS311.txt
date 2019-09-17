@@ -1,0 +1,73 @@
+SS311		Tech Communication Skills
+==========================================
+14192	16L-5509	Muhammad Zeeshan
+13276	15L-5454	Agha Zamn Muhammad
+13800	16L-5426	Muhammad Salman Amir
+13792	16L-5425	Muhammad Moonis Hafeez
+13808	16L-5428	Ahmad Sarfraz
+13995	16L-5466	Haider Ali Zer
+13767	16L-5421	Muhammad Ameer Hamza
+13987	16L-5465	Ajmal Rashid
+13783	16L-5424	Muhammad Wajahat Hussain
+13775	16L-5423	Muhammad Abdullah Shahid
+13979	16L-5461	Hamza Nadeem Abbasi
+13757	16L-5420	Tanveel Mukhtar
+14003	16L-5471	Umer
+13749	16L-5419	Hamna Abid Khan
+13962	16L-5459	Naeem Ullah
+13954	16L-5458	Jawad Ahmad
+13741	16L-5417	Hafiz Muhammad Usama Tofiq
+13733	16L-5416	Haseeb Ullah
+14184	16L-5499	Ammad Asif
+13716	16L-5410	Rehman Yaqoob
+14175	16L-5498	Syed Mustafa Najeeb
+13724	16L-5412	Mian Abdur Rehman Tasadduq
+13930	16L-5451	Muhammad Umer Yousuf
+13922	16L-5450	Ali Ahmad
+14150	16L-5494	Amir Hayat
+13946	16L-5453	Abbas Ali Azhar
+14167	16L-5497	Talha Abid
+13938	16L-5452	Muhammad Shahryar Ali
+14159	16L-5496	Muhammad Hammad Raza
+13970	16L-5460	Irfan Kaleem Siddiqui
+13699	16L-5408	Ahsan Maqsood
+13691	16L-5407	Muhammad Ali
+13708	16L-5409	Abdul Majid
+12449	14L-5742	Tahir Nadeem
+13675	16L-5403	Shahab Ud Din
+13683	16L-5406	Muzna Anam
+13914	16L-5449	Faran Masood
+13906	16L-5444	Talha Akram
+14111	16L-5487	Muteeb Shafique
+13666	16L-5402	Safi Ullah Khan
+13658	16L-5401	Zain U Din Arshad
+13881	16L-5440	Faizan Arshad
+14085	16L-5484	Afroze Mir
+13633	16L-4153	Muhammad Rehan
+14077	16L-5483	Hamza Majeed
+13898	16L-5442	Muhammad Ahmad Baig
+14103	16L-5486	Muhammad Arslan Saleem
+13650	16L-4474	Dawood Mujahid Chattha
+13890	16L-5441	Abdullah
+14095	16L-5485	Ahmad Akmal
+14126	16L-5490	Muhammad Ahsan Afzal
+14142	16L-5493	Haseeb Ullah
+14134	16L-5492	Raheel Malook Masih
+13857	16L-5437	Muhammad Aftab Masood
+13849	16L-5436	Sarmad Siddique
+13866	16L-5438	Muhammad Junaid
+13832	16L-5433	Ansar Pervaiz
+14200	16L-6324	Hamza Naeem
+13824	16L-5432	Ali Faraz
+14043	16L-5479	Usama Shahid
+14217	16L-6326	Muhammad Danish Shoukat
+13840	16L-5434	Aizaz Islam Khan
+14035	16L-5478	Ahmad Ibrar Cheema
+14208	16L-6325	Ali Zia Khalid
+13641	16L-4262	Syed Mujtaba Ali
+14011	16L-5473	Hafiz Ahmad Nawaz
+14027	16L-5475	Hassan Bin Saleem
+14019	16L-5474	Ali Suffian
+14051	16L-5480	Muhammad Gulzaib
+14069	16L-5482	Muhammad Hassan Khan Abdali
+14060	16L-5481	Sheraz Ud Din

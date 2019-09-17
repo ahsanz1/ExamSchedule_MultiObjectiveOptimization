@@ -1,0 +1,16 @@
+EE320		Digital Design
+==========================================
+15168	14L-4442	Muaaz Ahmed
+14920	14L-4366	Basir Mahmood
+15060	14L-4411	Hamza Mumtaz
+15209	14L-4448	Syed Mujtaba Ali Shamsi
+15122	14L-4427	Kainat Rizwan Butt
+15074	14L-4417	Shaheera Fatima
+15128	14L-4428	Muhammad Hamza
+15049	14L-4408	Muhammad Ali
+14836	13L-4518	Taimoor Hassan
+14843	13L-4531	Hafiz Talha Waheed
+14715	12L-4505	Hassan Javaid
+14981	14L-4383	Yousuf Rehman
+14849	13L-4534	Awais Ali
+15284	14L-4472	Arsal Siddiq

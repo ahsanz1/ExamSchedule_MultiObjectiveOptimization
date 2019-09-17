@@ -1,0 +1,17 @@
+MG108		Fundamentals of Accounting
+==========================================
+4534	17L-4828	Minahil Malik
+4488	17L-4816	Idrees Ur Rehman
+4097	16L-4972	Muhammad Abdullah
+2691	17L-4990	Muhammad Alyan Tariq
+2853	17L-5023	Areej Amer
+4248	17L-4770	Muhammad Ashtar Ali Khan
+2939	17L-5044	Mahid Siraj
+2812	17L-5015	Mahir Ahmad
+2950	17L-5047	Huzair Khan Niazi
+4260	17L-4772	Zaeem Ijaz Alam
+2575	17L-4964	Syed Ammar Zaidi
+4159	17L-4754	Anosh Nadir
+4524	17L-4826	Tayyab Fareed
+4519	17L-4824	Zaryab Shahzad
+4235	17L-4768	Muhammad Umair Bin Khalid

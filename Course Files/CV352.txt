@@ -1,0 +1,84 @@
+CV352		Mechanics of Solids II
+==========================================
+12953	15L-5414	Hamza Hundal
+12942	15L-5413	Saad Salman
+13302	15L-5457	Aimen Suhail
+12931	15L-5412	Hassan Sajjad
+13292	15L-5456	Wajid Malik
+12921	15L-5411	Rana Shahzaib Khan
+13282	15L-5455	Mohsin Jilani Farooqi
+13559	15L-5499	Muhammad Awais
+12328	14L-5720	Muhammad Arslan Shafiq
+12911	15L-5410	Hasin Ahmed
+13262	15L-5453	Sarmad Rasheed Khan
+13549	15L-5497	Shah Hassan
+13539	15L-5496	Maheen Zahra Khan
+13252	15L-5451	Haider Naeem Bhatti
+13529	15L-5495	Ahmad Faizan Ur Rehman
+13002	15L-5419	Sufyan Latif
+12992	15L-5418	Shuja Ul Hassan
+12973	15L-5416	Muneeb Tahir
+12963	15L-5415	Aaqib Ali
+13312	15L-5459	Mian Muhammad Asnan Akbar
+13322	15L-5460	Muhammad Umer Hayat
+13062	15L-5425	Ahmad Uzair
+13589	15L-5502	Haseeb Ahmed
+12673	14L-5794	Umair Ahmad
+13052	15L-5424	Abbas Ali
+13579	15L-5501	Rafeh Nasim
+13042	15L-5423	Muhammad Fasehab Shaheen
+13569	15L-5500	Qasim Mehmood
+13032	15L-5422	Muhammad Ali Murtaza
+13362	15L-5466	Zain Shabbir
+13022	15L-5421	Muhammad Ayesh Sarwar Khan
+13352	15L-5465	Hamiz Azam
+13012	15L-5420	Abdul Rehman
+13342	15L-5464	Jamal Farooqi
+12828	15L-4373	Noor ud din Ahmad
+13332	15L-5463	Masood Khalil
+12468	14L-5757	Muhammad Hammad Gohar
+13082	15L-5429	Syeda Ifrah Hashmi
+13619	15L-5505	Muhammad Ahmad
+13072	15L-5427	Muhammad Azhar Khan
+13609	15L-5504	Ali Raza Malik
+13599	15L-5503	Malik Muhammad Hamza
+13382	15L-5471	Syed Zaigham Hussain
+13372	15L-5470	Syed Zohaib Hamdani
+13142	15L-5435	Altamash Shakeel
+13420	15L-5479	Amna Awan
+13132	15L-5434	Qasim Irfan Aziz
+12620	14L-5785	Talha Bin Arif
+13122	15L-5433	Mustafa Ahmed
+13112	15L-5432	Adil Zaheer
+13102	15L-5431	Shah Nawaz
+13402	15L-5475	Malik Aizaz Ahmad Awan
+13392	15L-5474	Syed Muhammad Umair Abbas
+13172	15L-5439	Ayesha Khatoon
+12818	15L-4348	Tooba Saqib
+13162	15L-5438	Muhammad Haroon
+13152	15L-5437	Anns Tahir
+12152	13L-5727	Rushaan Rasheed
+13441	15L-5483	Hussnain Javed
+13431	15L-5480	Abdullah Abid
+12848	15L-5402	Zain ul Abidin
+12838	15L-5401	Syed Shehroze Ali
+13232	15L-5445	Syed Arbab Haider
+13500	15L-5489	Sharjeel Hassan Khan
+13222	15L-5444	Ali Ahmad Chughtai
+13490	15L-5488	Zil e Hassnain
+13212	15L-5443	Farooq Akhtar
+13479	15L-5487	Muhammad Shoaib Nazir
+13202	15L-5442	Mansoor Shakeel
+13469	15L-5486	Muzammal Hussain
+12800	14L-5811	Humza Nadir
+13192	15L-5441	Mirza Arslan Baig
+13182	15L-5440	Usama Zahid
+12223	14L-4525	Samnan Khalil
+12416	14L-5737	Adnan Rasheed
+12901	15L-5409	Muhammad Sohaib Aslam
+12891	15L-5408	Yousaf Shafique
+12880	15L-5407	Muhammad Bin Shabbir
+12868	15L-5406	Arslan Ahsan
+12858	15L-5405	Raham Irfan
+13242	15L-5448	Muhammad Irfan
+13510	15L-5492	Ahmad Noor

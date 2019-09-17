@@ -1,0 +1,76 @@
+MG317		Brand Management
+==========================================
+653	14L-4792	Hina Tabassum
+3811	15L-5458	Fareed Ahmad
+1042	15L-4721	Uswa Sadia
+1511	15L-4842	Muhammad Ahmad Mansoor
+3509	15L-4883	Sania Ahsen
+308	14L-4674	Sana Ahmed
+665	14L-4796	Faryal Shafiq
+917	15L-4683	Rahima Noor
+318	14L-4677	Esha Tur Rabia
+149	14L-4634	Nida Qadeer
+536	14L-4755	Hadia Nadeem
+3689	15L-4926	Muhammad Addiyan Aamir
+1059	15L-4726	Ifra akram
+1067	15L-4727	Muhammad Salman Anjum
+3143	14L-4957	Maryam Masroor
+432	14L-4716	Suleman
+1053	15L-4724	Alishah Saeed
+1518	15L-4843	Umer Naveed
+1356	15L-4809	Fatima Hassan Khilji
+1351	15L-4808	Muhammad Tahir Latif
+328	14L-4680	Nida Arshad
+1222	15L-4775	Abdul Rahman Maqbool
+1535	15L-4850	Ahmad Farhan Rafique
+3218	14L-4981	Saad Amin Khan
+3530	15L-4894	Mahmood Ahmad
+1561	15L-4892	Maria Samreen
+1200	15L-4772	Rana Ahsan Bakhtiar
+3230	14L-4986	Muhammad Sohaib Khan Bhatti
+643	14L-4789	Hassaan Amjad
+1390	15L-4816	Annas Wajid Shah
+3309	14L-5559	Khushbakht Saleem
+3242	14L-4988	Hafiz Muhammad Ahmad
+3735	15L-4938	Maryem Iftikhar
+401	14L-4704	Maira Tahir
+515	14L-4749	Aimen Naz
+1364	15L-4812	Hisham Raphick
+3717	15L-4932	Muhammad Wahab Tabish
+648	14L-4791	Hassan Ahmed
+573	14L-4770	Muhammad Hassan Rafique
+1260	15L-4785	Shahzeb Haq
+801	15L-4662	Muhammad Sarmad Suhail
+237	14L-4656	Faria Mehboob
+78	14L-4613	Rija Rehman
+483	14L-4734	Muhammad Ameer
+602	14L-4778	Hassan Hanif
+3073	14L-4932	Areeba Amjad
+3197	14L-4976	Laiba Khalid
+488	14L-4735	Hafiz Inam Ahmad
+3578	15L-4905	Noor Zia
+3454	15L-4869	Fahad Hameed
+740	14L-4935	Sana Tariq
+88	14L-4617	Muhammad Fahad Farooqi
+1130	15L-4746	M Taha bin Sohail
+1429	15L-4823	Abdul Rehman Butt
+3447	15L-4867	Abdullah Naveed
+978	15L-4703	Muhammad Asman
+93	14L-4619	Ammarah Ijaz
+965	15L-4700	Fahad Hassan
+3440	15L-4866	Muhammad Mehdi
+3599	15L-4908	Mian Harris Riaz
+1004	15L-4708	Ayesha Adeel Bottar
+3585	15L-4906	Muhammad Asadullah Butt
+557	14L-4762	Tooba Irfan
+1304	15L-4796	Ahsan khursheed
+170	14L-4642	Hassan Badar Butt
+3049	14L-4920	Dania Azhar Sheikh
+36	14L-4604	Ameer Hamza
+193	14L-4648	Ryaheen Munir
+1022	15L-4713	Ibrahim Ayyaz
+3619	15L-4911	Muhammad Jahangir Khan
+1460	15L-4832	Namra Arif Chaudhary
+892	15L-4679	Zahid Athar Khan
+25	13L-4868	Anam Hamid
+900	15L-4680	Imtiaz Ahmed

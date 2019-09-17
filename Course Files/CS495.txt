@@ -1,0 +1,103 @@
+CS495		Fundamental of Computer Vision
+==========================================
+5788	14L-4199	Muhammad Hamza Akhtar
+6651	15L-4046	Syed Muhammad Fazle Tehami
+5454	14L-4116	Muhammad Meesam Ali Khan
+7117	15L-4164	Humna Gul
+6645	15L-4044	Raghda Saif
+5465	14L-4119	Omer Haroon
+7324	15L-4209	Hafiz Ahmad Shahzad
+4929	13L-4499	Usama Khalid
+6687	15L-4053	Muaz Maqbool
+7641	15L-4293	Shahzad Hafeez
+5339	14L-4086	Muhammad Ehtesham Anwar
+5917	14L-4240	Muhammad Muaaz Tariq
+4703	13L-4017	Ali Shahid
+5922	14L-4241	Waleed Amjad
+5748	14L-4188	Harris Irfan
+5866	14L-4222	Muhammad Ali
+5406	14L-4103	Abdul Sami
+5875	14L-4224	Salaar Ahmed Chaudhary
+7175	15L-4177	Muhammad Abdullah
+4802	13L-4099	Umair Ali
+5883	14L-4225	Sara Tanzeel
+7180	15L-4178	Muhammad Ahmad Ikram
+7779	15L-4332	Tanzeel Hassan
+5418	14L-4106	Saba Asif
+6220	14L-4348	Hasan Nadeem
+7653	15L-4297	Shumaim Naeem
+5426	14L-4107	Muhammad Shahzeb Qaisar
+6715	15L-4063	Abdullah Asad
+5500	14L-4132	Hajira Haider
+5048	14L-4013	Asad Mahmood
+6878	15L-4102	Mirza Hashir Baig
+7375	15L-4221	Muhammad Taha
+6405	14L-5868	Hafiz Nisar Haider
+7270	15L-4195	Aena Maryam
+4931	13L-5401	Rashid Mahmood
+4715	13L-4034	Furqan Saqib
+4985	13L-5883	Muhammad Talal Rashid
+5974	14L-4260	Muhammad Ammar Aslam
+5083	14L-4020	Shahreyaar Faseh
+5087	14L-4021	Rida Bari
+5934	14L-4245	Ahmed Shabbir
+7402	15L-4235	Muhammad Waseem
+6898	15L-4111	Muhammad Kashan SIddiqui
+6251	14L-4401	Hassan Sohail
+7818	15L-4351	Zara Ahmad
+4899	13L-4273	Hamza Ahmad
+6321	14L-4524	Ahmad Anwar
+7824	15L-4352	Osama Sajid Khan
+6925	15L-4117	Muhammad Usman
+7868	15L-4359	Hafiz Ahmad Hassan
+4632	12L-4159	Hammad Javed
+5361	14L-4092	Asjad Zaheer
+5377	14L-4095	Ahmad Waleed Qureshi
+6461	15L-4005	Wisha Riaz
+6466	15L-4006	Muhammad adeel khan
+5160	14L-4036	Muhammad Uzair Abid
+6275	14L-4433	Saad Tahir
+5610	14L-4159	Shahiq Ur Rehman
+6117	14L-4313	Hamza Quddus
+8009	15L-4529	Zain Ali
+6481	15L-4009	Muhammad Muneeb
+6969	15L-4128	Jibran Usman
+7473	15L-4249	Ahmed Saeed
+4607	12L-4097	Waneed Parkash
+4757	13L-4058	Mudassar Iqbal
+7922	15L-4372	Fatima Mahnoor
+6854	15L-4095	Attiqa Naseer
+5620	14L-4161	Dawood Umer Shaikh
+6035	14L-4282	Muhammad Farooq
+5001	13L-5942	Sheikh Waleed Ahmad
+6514	15L-4017	Muhammad Saad Safdar
+5105	14L-4024	Muhammad Bilal
+7515	15L-4256	Alizeh Asim
+6509	15L-4015	Muhammad Faizan zia butt
+6993	15L-4136	Neha Akram
+5116	14L-4027	Muhammad Usman Nazir
+6088	14L-4303	Omair Javed
+6486	15L-4010	Kiran Javed
+7532	15L-4261	Suleman Khalid
+4847	13L-4169	Muhammad Ahsan Anjum Butt
+5139	14L-4032	Hussam Habib
+5817	14L-4210	Hamza Awan
+5717	14L-4178	Tasmia Rana
+7040	15L-4146	Tayyaba Suleman
+6542	15L-4023	Saad Sultan Bajwa
+5852	14L-4218	Mirza Ahmer Baig
+6572	15L-4029	Hasnain Raza
+5262	14L-4063	Mohammad Saad Mujeeb
+6182	14L-4340	Jamshaid Sohail
+6140	14L-4321	Faisal Ali
+7095	15L-4157	Muhammad Faizan Hanif
+4881	13L-4230	Mubashir Ahmad Khan
+5208	14L-4048	Muhammad Fahad Zafar
+5664	14L-4169	Hafiza Nadia Batool
+7087	15L-4156	Talha Ahmad Qureshi
+7690	15L-4310	Muhammad Nauman
+7728	15L-4319	Ayesha Haider
+7598	15L-4283	Talha Akbar
+7593	15L-4282	Midhat
+6061	14L-4293	Mahnoor Fatima
+4934	13L-5438	Ahsan Arif

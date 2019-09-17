@@ -1,0 +1,23 @@
+CV353		Structural Analysis II
+==========================================
+13421	15L-5479	Amna Awan
+12932	15L-5412	Hassan Sajjad
+12621	14L-5785	Talha Bin Arif
+12179	13L-5792	Hassan Khalil
+12329	14L-5720	Muhammad Arslan Shafiq
+13273	15L-5454	Agha Zamn Muhammad
+13412	15L-5476	Muhammad Arslan Khan
+13480	15L-5487	Muhammad Shoaib Nazir
+12801	14L-5811	Humza Nadir
+13460	15L-5485	Muhammad Nabeel Nasir
+12417	14L-5737	Adnan Rasheed
+12756	14L-5804	Rahima Ejaz
+12869	15L-5406	Arslan Ahsan
+12983	15L-5417	Muhammad Wajid Arif
+12107	11L-4684	Muhammad Arslan
+12147	13L-5714	Hamza Shahram
+12188	13L-5803	Muhammad Irtaza Abbas
+12195	13L-5806	Muhammad Haris
+13520	15L-5494	Muhammad Bilal Saeed
+12164	13L-5765	Iqra Mahmood
+12118	12L-5707	Faisal Hameed Khan

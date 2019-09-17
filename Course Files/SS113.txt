@@ -1,0 +1,368 @@
+SS113		Pakistan Studies
+==========================================
+8705	16L-4135	Muhammad Hameez Rizwan
+11736	17L-4341	Shahzaib Ahmed Joyia
+11730	17L-4340	Usama Rizwan Virk
+10627	17L-4103	Syed Ali Raza Gilani
+11208	17L-4224	Mahnoor Hassan
+11750	17L-4345	Sharjeel Hassan
+10620	17L-4102	Muhammad Usman Zahoor
+10613	17L-4101	Syed Kazim Raza
+11202	17L-4222	Mairaj Muhammad
+11743	17L-4343	Muhammad Ahmad Rafique Bhatti
+11195	17L-4221	Zarish Nadeem
+10655	17L-4107	Ihtesham Ahmad
+11233	17L-4228	Muhammad Husnain Maqsood
+11764	17L-4349	Raima Imran
+10648	17L-4106	Faheem Masood
+11226	17L-4227	Malik Abdulaziz
+10641	17L-4105	Sheharyar Qureshi
+11220	17L-4226	Hafiz Gohar Naveed
+11757	17L-4347	Usman Khan Lodhi
+10634	17L-4104	Michelle Akaishi
+10669	17L-4109	Ehtisham Hafeez
+10662	17L-4108	Abou Sufian
+8651	16L-4123	Muhammad Anas Bhatti
+10676	17L-4110	Mubariz Barkat Ali
+11246	17L-4231	Azan
+11240	17L-4230	Usama Bin Amir
+11771	17L-4351	Muhammad Saad Sarfraz
+10703	17L-4114	Durraiz Waseem
+10697	17L-4113	Arslan Bajwa
+10690	17L-4112	Usama Moazzam
+11259	17L-4233	Hafiz Ahmed Mujtaba
+10683	17L-4111	Ahmad Aijaz
+11253	17L-4232	Sana Shakoor
+11778	17L-4353	Arfa Dar
+11287	17L-4239	Murtaza Hussain
+11280	17L-4238	Muhammad Khuram Niaz
+11798	17L-4359	Habiba
+10716	17L-4116	Muhammad Mukarram Murtaza
+11791	17L-4358	Muhammad Shehriyar
+10710	17L-4115	Muhammad Danial Saleem
+11266	17L-4236	Shanzay Gauhar
+11108	17L-4202	Eiman Waheed
+11886	17L-4444	Muhammad Bilal Tahir
+11101	17L-4201	Farjad Suhail
+11657	17L-4322	Sameed Ahmed Khan
+11095	17L-4200	Tayyab Raza
+11650	17L-4321	Abdullah Bin Masood
+11644	17L-4320	Muhammad Hamza Saeed
+11879	17L-4441	Faizan Tanveer
+11129	17L-4206	Muhammad Mubashir
+11678	17L-4327	Alishbah Farooq
+11122	17L-4205	Muhammad Noyan Aziz
+11671	17L-4325	Tehreem Mushtaq
+11115	17L-4203	Ayesha Asad
+11664	17L-4324	Mohammad Omer Asif Khan
+11149	17L-4209	Hafsa Saleem
+11142	17L-4208	Mehsim Khurshid
+11692	17L-4329	Najam Sheraz
+11135	17L-4207	Syed Arham Hussain
+11685	17L-4328	Zaeem Riaz
+571	14L-4767	Mahnoor Jowad Qureshi
+9691	16L-4344	Yameenjavaid
+11169	17L-4213	Rana Muhammad Kashif
+11162	17L-4211	Danish Irfan
+11156	17L-4210	Muhammed Fahad Javed
+11700	17L-4331	Muhammad Fiaz
+11181	17L-4217	Abdul Rehman
+11718	17L-4338	Aiza Nadeem
+11176	17L-4214	Huma Zahoor
+11712	17L-4335	Abdul Mukit
+11188	17L-4218	Rauf Ahmad
+326	14L-4679	Rubama Aamir Butt
+9094	16L-4212	Muzammil Azam
+4319	17L-4781	Anam Naz
+4312	17L-4780	Awais Nayyer
+11547	17L-4300	Asif Ali
+11920	17L-4542	Ammara Naseer
+4333	17L-4783	Syeda Javaria Wasti
+4326	17L-4782	Usman Mehmood
+4347	17L-4788	Zaid Khalid
+11927	17L-4545	Abubakar Munir
+4340	17L-4786	Minahil Azeem
+11553	17L-4302	Usama Ashraf
+11574	17L-4308	Muhammad Kamran
+11567	17L-4307	Daniyal Masood
+11560	17L-4306	Hamza Anwar
+4361	17L-4792	Shabbar Hussain
+4354	17L-4791	Daniyal Yousaf Naveed
+11592	17L-4311	Maryam Nizam
+4374	17L-4794	Amna Ghumman
+11585	17L-4310	Muhammad Ahmad
+11617	17L-4316	Mehboob Ali
+4395	17L-4799	Noor Mahmood
+11934	17L-4557	Bisma Jalal
+4388	17L-4798	Areeba Mahmood
+11603	17L-4314	Arsal Azhar
+4381	17L-4797	Hamza Iqbal
+11638	17L-4319	Muhammad Umar Irfan
+11631	17L-4318	Ahmad Faraz
+11624	17L-4317	Faisal Ashraf
+377	14L-4695	Samman Rana
+11866	17L-4409	Muhammad Raza
+10557	17L-4091	Muhammad Bilal
+10550	17L-4090	Hira Shahid
+10585	17L-4095	Rishwan Tariq Chaudhry
+10578	17L-4094	Afnan Bashir
+10571	17L-4093	Muhammad Saroosh Humayun
+10564	17L-4092	Duaa Sajid
+10536	17L-4088	Nimra Abid
+10529	17L-4087	Muhammad Usman Khaliq
+10522	17L-4086	Hamza Khalid Chaudhary
+4205	17L-4763	Irtiqua Ameer
+4198	17L-4761	Muhammad Ahmed
+4191	17L-4760	Muhammad Ali
+10543	17L-4089	Asad Bin Khalid
+4233	17L-4767	Zartash Jahan
+4226	17L-4766	Syed Hamza Karar
+4219	17L-4765	Kashf Ramzan
+4212	17L-4764	Hadiya Waseem
+4246	17L-4769	Faisal Naveed
+4239	17L-4768	Muhammad Umair Bin Khalid
+4252	17L-4770	Muhammad Ashtar Ali Khan
+10606	17L-4098	Monisa Hassan Alvi
+10599	17L-4097	Asim Shahid
+10592	17L-4096	Manha Zamir
+4277	17L-4774	Muhammad Bilal
+4270	17L-4773	Tabish Ayub Chattha
+11948	17L-4651	Eisha Ahmad
+4298	17L-4777	Hussam Ahmad Maaz
+4291	17L-4776	Majid Saqib
+11913	17L-4534	Muhammad Hassaan Zulqarnain
+4284	17L-4775	Muhammad Zain
+11873	17L-4417	Muhammad Hammad Maqsood
+4305	17L-4779	Sara Mahmood
+9943	16L-4531	Muhammad Shahrukh Khan
+10463	17L-4073	Hamzah Naseem
+8527	16L-4098	Muhammad Hammad Afzal
+10456	17L-4072	Muhammad Farzaib Khan
+8533	16L-4099	Muhammad Qasim
+10449	17L-4071	Shahzaib Ali
+11061	17L-4192	Abia Noor
+10442	17L-4070	Muhammad Zain Sandhu
+11054	17L-4191	Muhammad Zubair
+10414	17L-4066	Muhammad Rohan
+11034	17L-4187	Muhammad Hassan
+10407	17L-4065	Muhammad Umar Naeem
+11027	17L-4185	Mubarak Hussain
+10435	17L-4069	Taha Raza Hashmi
+10428	17L-4068	Muhammad Farhan Ali
+11048	17L-4189	Areej Afzaal
+10421	17L-4067	Mohammad Adnan
+11041	17L-4188	Komal Asim
+11906	17L-4506	Umar Azam
+10496	17L-4080	Maryam Mukhtar
+10516	17L-4084	Muhammad Ahmad
+2964	17L-5050	Muhammad Usman Ameer
+10509	17L-4082	Talha Tariq
+10502	17L-4081	Fuzail Ur Rehman Khan
+10482	17L-4077	Muhammad Jehanzaib
+10476	17L-4076	Muhammad Abdullah Nadeem
+11081	17L-4197	Haider Ashfaq Warraich
+11074	17L-4196	Muhammad Sikandar Subhani
+10470	17L-4074	Maryam Ahmad
+11068	17L-4195	Haiqa Mustafa
+4150	17L-4751	Syed Shahzaib Munir
+10489	17L-4079	Taha Khan
+11088	17L-4199	Muhammad Anzar
+4170	17L-4756	Muhammad Asif Riaz
+4163	17L-4754	Anosh Nadir
+4157	17L-4753	Muhammad Taqi
+4184	17L-4758	Mustafa Salman Mubarak
+4177	17L-4757	Mujtaba Salman Mubarak
+10337	17L-4051	Muhammad Arslan Tahir
+10966	17L-4172	Abubakar Nadeem
+11506	17L-4293	Muhammad Junaid Akhtar
+10959	17L-4171	Aimen Ijaz
+11499	17L-4292	Muhammad Umair Sajjad
+8457	16L-4082	Syed Saif Ali
+10309	17L-4044	Muhammad Ammar Tahir
+11480	17L-4286	Salman Ahmed
+10938	17L-4164	Muhammad Moaz Maalik
+10931	17L-4163	Muhammad Atta Mohio Din Noon
+11473	17L-4284	Ramin Rafi
+10298	17L-4041	Hussain Imtiaz
+10924	17L-4162	Nuzha Khalid
+11467	17L-4283	Harris Amjad
+10330	17L-4048	Amina Naseer
+4565	17L-5136	Abdullah Jamshed Butt
+10323	17L-4046	Usama Bashir
+10945	17L-4167	Isra Akmal
+10316	17L-4045	Aiza Naveed
+11487	17L-4287	Muhammad Husnain
+3868	16L-4867	Aisha Sarwar
+4138	16L-4982	Saad Khaliq Khan
+8395	16L-4068	Kissaebatool
+4133	16L-4981	Sufiyan Tahir Bhatti
+10400	17L-4062	Usama Imran
+11020	17L-4183	Maham Shafiq
+10393	17L-4061	Zohaib Amir
+11013	17L-4182	Muhammad Romman Nadeem
+10386	17L-4060	Haider Wain
+11007	17L-4181	Junaid Saleem
+11000	17L-4180	Taimoor Saqib
+10365	17L-4055	Muhammad Gulraiz
+10980	17L-4176	Samran Waheed
+11533	17L-4297	Muhammad Shayan
+10358	17L-4054	Noor Fatimah
+10973	17L-4175	Muneeb Zubair Khan
+11526	17L-4296	Zain Ayaz
+10351	17L-4053	Shamama Zehra
+11520	17L-4295	Muhammad Osama Asif
+10344	17L-4052	M Salman Saleem
+11513	17L-4294	Hammad Hassan
+4544	17L-4851	Zainab Saleem
+10379	17L-4059	Amna Akram
+10993	17L-4179	Syed Muhammad Sajjad Ali Zaidi
+10372	17L-4057	Abdullah Rizwan
+8402	16L-4070	Aeman Akram
+10986	17L-4177	Muhammad Shazar
+11540	17L-4298	Muhammad Muaviya Ijaz
+11941	17L-4611	Muhammad Hood Aqdas
+4551	17L-4852	Tayyab Zahid
+4538	17L-4828	Minahil Malik
+3836	16L-4854	Syed Musa Raza Zaidi
+8896	16L-4174	Muhammad Munam Mubashir
+11419	17L-4270	Hamza Nazar
+10193	17L-4022	Basim Ahmad Sirohey
+11387	17L-4264	Faiqa Iftikhar
+12040	17L-6322	Muhammad Uzair Tariq
+10186	17L-4020	Fatima Hasan
+10837	17L-4141	Sana Basharat
+11376	17L-4262	Naeem Akhtar
+12046	17L-6324	Abdul Hannan Saqib
+8369	16L-4063	Salvasadiq
+10830	17L-4140	Faham Iqbal
+11369	17L-4261	Sameen Akram
+12052	17L-6325	Noor Ul Ain Haider
+10217	17L-4026	Salman Arshad
+10865	17L-4147	Iffat Kalsoom
+11408	17L-4268	Muhammad Waleed Akram Khan
+10211	17L-4025	Saif Ul Haq
+10858	17L-4146	Waleed Bin Tariq
+10851	17L-4145	Muntaha Khan
+11401	17L-4266	Haseeb Ahmad
+10200	17L-4023	Umair Ahmad
+10844	17L-4144	Malik Muhammad Mujtaba
+11394	17L-4265	Ibrar Ahmed
+12033	17L-6321	Abdullah Fawad
+4517	17L-4822	Nabeel Younas
+10235	17L-4029	Muhammad Bilal Shah Gilani
+4511	17L-4820	Awais Ansari
+10223	17L-4027	Ali Haider
+11414	17L-4269	Saad Ali
+4528	17L-4826	Tayyab Fareed
+12059	17L-6326	Ali Haseeb
+4522	17L-4824	Zaryab Shahzad
+12065	17L-6328	Hamza Sultan Rana
+12072	17L-6329	Muhammad Abdullah Malik
+10031	16L-6341	Aqeedat Zameer
+11460	17L-4281	Faizan Atif Butt
+10052	16L-6344	Muhammad Aziz Ullah
+11453	17L-4280	Abdul Haddi Amjad
+10044	16L-6343	Muhammad Ammaduddin Qazi
+10256	17L-4033	Muhammad Ahmed Kunwar
+10883	17L-4154	Muhammad Saqib Kamran
+11432	17L-4275	Muhammad Asad Khalil
+10249	17L-4032	Waleed Iqbal
+12086	17L-6334	Syed Muhammad Shehroz Ali
+10242	17L-4031	Samra Fakhar
+10876	17L-4152	Amina Zeb
+11426	17L-4273	Hafiz Muhammad Irshad
+12093	17L-6335	Muhammad Fahad Nasir
+12100	17L-6336	Illiyin Sakhawat
+10277	17L-4037	Faheem Shafi Baig
+10910	17L-4158	Hamza Ishtiaq Rana
+11446	17L-4279	Muhammad Ehtisham
+10270	17L-4036	Waleed Ahmad Khan
+10904	17L-4157	Talha Jaleel
+10263	17L-4035	Abdul Hadi
+10897	17L-4156	Laraib Amjad
+11439	17L-4277	Mohammad Osamah Atif
+10890	17L-4155	Muhammad Faizan
+12079	17L-6332	DUR-E-AQDAS KHAN
+10291	17L-4039	Uswa Mahmood
+10284	17L-4038	Syed Muhammad Abdullah Shah
+10917	17L-4159	Fahad Ali
+4558	17L-4955	Neha Malik
+4437	17L-4808	Saad Imran
+4430	17L-4807	Zulaikha Kamal
+4423	17L-4805	Minha Farooq
+4444	17L-4809	Ayesha Iftikhar
+11899	17L-4490	Ashar Ali Jamshaid
+9393	16L-4280	Ali Hamza Khan
+10728	17L-4121	Ali Zahid Amin
+11308	17L-4242	Jahanzaib Rao
+10721	17L-4120	Muhammad Irteza Chishti
+11301	17L-4241	Muhammad Shaharyar
+11812	17L-4362	Muhammad Shoaib Moeen
+11954	17L-6301	Fatima Junaid
+11294	17L-4240	Mohammad Mannan Akmal
+11805	17L-4361	Usama Hassan
+9415	16L-4283	Muhammad Talha
+11958	17L-6303	Ahmad Hayat
+10097	17L-4004	Ather Fawaz
+10742	17L-4125	Hamza Murad
+10090	17L-4002	Noorish Hassan
+11322	17L-4244	Usama Arshad
+11825	17L-4365	Sana Sajid Toor
+10083	17L-4001	Muhammad Hamza Arshad
+10735	17L-4122	Muhammad Abdullah Farooqi
+11315	17L-4243	Muhammad Adan
+4402	17L-4800	Tooba Masroor
+11986	17L-6308	Hasan Ahmed
+10118	17L-4007	Imamah Zafar
+10763	17L-4128	Usama Riaz
+11993	17L-6309	Hifza Sohail
+10111	17L-4006	Sarmad Masaud
+10756	17L-4127	Khawaja Ahmad Hassan
+11843	17L-4369	Usman Ali Anjum Sabir
+10104	17L-4005	Feza Roheel
+11329	17L-4247	Hammad Shoaib
+11836	17L-4368	Talal Zulfiqar
+11965	17L-6304	Khizar Hussain
+4416	17L-4803	Muhammad Farid Ud Din Ahmad
+11972	17L-6305	Syed Mohammad Zohaib Abbas Rizvi
+4409	17L-4801	Umar Ijaz
+11979	17L-6307	Saeeda Khan
+4504	17L-4818	Mariam Mahmood
+4497	17L-4817	Hira Khalid
+4490	17L-4816	Idrees Ur Rehman
+8739	16L-4141	Arsalan Nawaz
+10132	17L-4011	Momin Qureshi
+10782	17L-4132	Muhammad Zain Ul Haq
+12006	17L-6311	Muhammad Hashir Hassan
+10125	17L-4010	Uzair Ahmed Bhatti
+11348	17L-4252	Hafiz Muhammad Annus Waheed
+11860	17L-4373	Marriam Hussain
+8785	16L-4150	Minahil Ahmed
+10775	17L-4130	Muhammad Zarar Tariq
+11855	17L-4372	Abdul Malik
+11336	17L-4250	Hammad Shahid
+10152	17L-4015	Abdur Rafay
+10802	17L-4136	Osama Atta
+10146	17L-4014	Muhammad Fahad Arshad
+10796	17L-4135	Muhammad Hamza
+10789	17L-4134	Rimsha Shakeel
+11362	17L-4255	Muhammah Waqas Kaleem
+10139	17L-4012	Ifrah Arshad
+11355	17L-4254	Abdullah Waseem
+11999	17L-6310	Rubab Tariq
+4458	17L-4811	Muhammad Saad Nazir
+10179	17L-4019	Syed Hamza Bin Jawad
+4451	17L-4810	Muhammad Affan Manzoor
+10172	17L-4018	Umair Shahzad Iqbal
+10823	17L-4139	Syed Zain Ul Aabadeen
+10166	17L-4017	Daud Samim
+10816	17L-4138	Rohan Akhtar
+10159	17L-4016	Muhammad Saad Umair
+10809	17L-4137	Talal Bin Waseem
+4486	17L-4815	Muhammad Abdullah
+12013	17L-6315	Muhammad Wasiq
+4479	17L-4814	Zoraiz Ahmad Jan
+4472	17L-4813	Zain Hameed
+12020	17L-6317	Danish Ali
+4465	17L-4812	Muhammad Bilal
+12027	17L-6318	Noor Afzal

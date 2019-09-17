@@ -1,0 +1,86 @@
+CS301		Theory of Automata
+==========================================
+6447	14L-5881	Ahmad Hassan
+7465	15L-4248	Usama Akram
+7907	15L-4369	Salman Manzoor
+7981	15L-4446	Hafiz Muhammed Rubeel Ahmed
+7445	15L-4245	Muhammad Hasan Zahid
+7626	15L-4289	Avais Muhib Ur Rasool
+6023	14L-4278	Momin Shoaib Ahmed
+7743	15L-4323	Hassaan Maajid
+6823	15L-4089	Tahir Hameed
+7440	15L-4244	Waqar Ahmad
+7621	15L-4288	Wajid Bin Aqeel
+7607	15L-4285	Mohsin Ali
+7120	15L-4165	Rahat mubeen
+7323	15L-4209	Hafiz Ahmad Shahzad
+7760	15L-4328	Fatima
+7987	15L-4449	Muhammad Siddique Khalid
+7315	15L-4208	Bilal Ahmad Butt
+7964	15L-4406	Tehreem Aftab
+6469	15L-4007	Maira Arshad
+7306	15L-4206	Misbah Ahmed Hashmi
+4970	13L-5869	Syed Ali Aizad Kirmani
+7917	15L-4371	Muhammad Aqib Chaudhry
+7921	15L-4372	Fatima Mahnoor
+7139	15L-4172	Talha Saqib
+6845	15L-4093	Sarah Tahir Bokhari
+6828	15L-4090	Muhammad Momin Siddiqui
+5541	14L-4143	Muhammad Bilal Iqbal
+6418	14L-5871	Hassan Khalid
+7524	15L-4258	Saud Ul Hassan
+7002	15L-4138	Hamza Shamshad
+7517	15L-4257	Muhammad Sharjeel Mansha
+6698	15L-4056	Muhammad Hamza
+7771	15L-4331	Asma Maqbool
+4800	13L-4099	Umair Ali
+7492	15L-4252	Muhammad Umair
+7165	15L-4176	Muhammad Moeez Arif
+7652	15L-4297	Shumaim Naeem
+7928	15L-4374	Daniyal Khalid
+7364	15L-4219	Mohammad Hamza Khawaja
+6520	15L-4018	Ahmad Zaheer
+7349	15L-4216	Hamza Usman
+5763	14L-4191	Usman Kabir
+7219	15L-4185	Abu Talha
+4944	13L-5498	Kazim Hasan
+7194	15L-4181	Hamda Naeem
+4742	13L-4049	Sheraz Ahmad
+6561	15L-4027	Muhammad Yasir
+6546	15L-4025	Hassan Tasir
+6734	15L-4069	Saad Mahmood Ahmad
+7039	15L-4146	Tayyaba Suleman
+4770	13L-4088	Naffah Amin
+6728	15L-4068	M Usman Abbasi
+7034	15L-4145	Rabia Noor
+7547	15L-4266	Muhammad Faiq
+6387	14L-5865	Muhammad Husnain Rafiq
+7229	15L-4187	Usama Ali
+6403	14L-5868	Hafiz Nisar Haider
+7676	15L-4308	Syeda Arham Fatima Kazmi
+4583	12L-4033	Muhammad Ahmad Mujtaba
+7669	15L-4307	Muhammad Hamza
+7665	15L-4304	Rizwan Nawaz
+7969	15L-4426	Syed Maisam Ali Shah
+7269	15L-4195	Aena Maryam
+6747	15L-4072	Muhammad Zaman
+4955	13L-5844	Waqas Nadeem
+5983	14L-4262	Saba Abbas
+4989	13L-5887	Muhammad Nomair Ahsan
+7699	15L-4313	Muhammad Ali
+6920	15L-4116	Azed Abbas Raja
+7393	15L-4234	Muhammad Zain Zaheer Bhatti
+7574	15L-4279	Kainat E Riaz Ch
+7851	15L-4356	Ishwa Obaid
+6306	14L-4521	Muhammad Anas Sheikh
+6775	15L-4078	Hassan Akmal
+7836	15L-4354	Abdullah Anwar
+5018	14L-4006	Maha Saeed
+5948	14L-4248	Hassan Zubair
+5806	14L-4205	Abdul Basit
+6591	15L-4033	Usman Majied
+6355	14L-5859	Ahmed Mustafa
+7416	15L-4238	Adil Ashraf
+6932	15L-4118	Aqsa Zia
+6810	15L-4086	Hamza Ahmad
+7872	15L-4361	Uzair Rasheed

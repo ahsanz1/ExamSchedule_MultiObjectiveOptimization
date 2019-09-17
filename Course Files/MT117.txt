@@ -1,0 +1,17 @@
+MT117		Applied Calculus
+==========================================
+17139	17L-4509	Mansoor Ul Hassan Sohail
+13870	16L-5439	Hamza Ashfaq
+14018	16L-5474	Ali Suffian
+17311	17L-4561	Abdullah Khan
+17352	17L-6312	Muhammad Wasif Imran
+17265	17L-4543	Muhammad Farhan Liaqat Ali
+17292	17L-4554	Umair Ismail
+16808	17L-4420	Shakaib Ahmad Hashmi
+17013	17L-4474	Muhammad Burhan
+16892	17L-4445	Zain Arshad
+16746	17L-4406	Meraj Khalid
+17244	17L-4538	Omer Mahmood
+16740	17L-4405	Aneeq Khan
+16911	17L-4449	Sahabzada Salman Shah
+17278	17L-4548	Muhammad Hassan

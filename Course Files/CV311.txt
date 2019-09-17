@@ -1,0 +1,87 @@
+CV311		Plain & Reinforced Concrete
+==========================================
+12950	15L-5414	Hamza Hundal
+12939	15L-5413	Saad Salman
+13299	15L-5457	Aimen Suhail
+12928	15L-5412	Hassan Sajjad
+13289	15L-5456	Wajid Malik
+12918	15L-5411	Rana Shahzaib Khan
+13279	15L-5455	Mohsin Jilani Farooqi
+13556	15L-5499	Muhammad Awais
+12327	14L-5720	Muhammad Arslan Shafiq
+12908	15L-5410	Hasin Ahmed
+13259	15L-5453	Sarmad Rasheed Khan
+13546	15L-5497	Shah Hassan
+12530	14L-5766	Bilal Hussain
+13536	15L-5496	Maheen Zahra Khan
+13249	15L-5451	Haider Naeem Bhatti
+13526	15L-5495	Ahmad Faizan Ur Rehman
+12552	14L-5769	Muhammad Farhan Saleem
+12999	15L-5419	Sufyan Latif
+12989	15L-5418	Shuja Ul Hassan
+12980	15L-5417	Muhammad Wajid Arif
+12970	15L-5416	Muneeb Tahir
+12960	15L-5415	Aaqib Ali
+13309	15L-5459	Mian Muhammad Asnan Akbar
+13319	15L-5460	Muhammad Umer Hayat
+13059	15L-5425	Ahmad Uzair
+13586	15L-5502	Haseeb Ahmed
+13049	15L-5424	Abbas Ali
+13576	15L-5501	Rafeh Nasim
+13039	15L-5423	Muhammad Fasehab Shaheen
+13566	15L-5500	Qasim Mehmood
+13029	15L-5422	Muhammad Ali Murtaza
+13359	15L-5466	Zain Shabbir
+13019	15L-5421	Muhammad Ayesh Sarwar Khan
+13349	15L-5465	Hamiz Azam
+12169	13L-5782	Ishaq Nabi
+13009	15L-5420	Abdul Rehman
+13339	15L-5464	Jamal Farooqi
+12825	15L-4373	Noor ud din Ahmad
+13329	15L-5463	Masood Khalil
+13079	15L-5429	Syeda Ifrah Hashmi
+13616	15L-5505	Muhammad Ahmad
+13069	15L-5427	Muhammad Azhar Khan
+13606	15L-5504	Ali Raza Malik
+13596	15L-5503	Malik Muhammad Hamza
+13379	15L-5471	Syed Zaigham Hussain
+13369	15L-5470	Syed Zohaib Hamdani
+13139	15L-5435	Altamash Shakeel
+13417	15L-5479	Amna Awan
+13129	15L-5434	Qasim Irfan Aziz
+13119	15L-5433	Mustafa Ahmed
+13109	15L-5432	Adil Zaheer
+13410	15L-5476	Muhammad Arslan Khan
+13099	15L-5431	Shah Nawaz
+13399	15L-5475	Malik Aizaz Ahmad Awan
+13389	15L-5474	Syed Muhammad Umair Abbas
+13169	15L-5439	Ayesha Khatoon
+12815	15L-4348	Tooba Saqib
+13159	15L-5438	Muhammad Haroon
+13149	15L-5437	Anns Tahir
+13438	15L-5483	Hussnain Javed
+13428	15L-5480	Abdullah Abid
+12845	15L-5402	Zain ul Abidin
+12835	15L-5401	Syed Shehroze Ali
+13229	15L-5445	Syed Arbab Haider
+13497	15L-5489	Sharjeel Hassan Khan
+13219	15L-5444	Ali Ahmad Chughtai
+13487	15L-5488	Zil e Hassnain
+13209	15L-5443	Farooq Akhtar
+13476	15L-5487	Muhammad Shoaib Nazir
+13199	15L-5442	Mansoor Shakeel
+13466	15L-5486	Muzammal Hussain
+12797	14L-5811	Humza Nadir
+13189	15L-5441	Mirza Arslan Baig
+13457	15L-5485	Muhammad Nabeel Nasir
+13179	15L-5440	Usama Zahid
+13449	15L-5484	Muhammad Muneeb
+12220	14L-4525	Samnan Khalil
+12898	15L-5409	Muhammad Sohaib Aslam
+12888	15L-5408	Yousaf Shafique
+12877	15L-5407	Muhammad Bin Shabbir
+12865	15L-5406	Arslan Ahsan
+12855	15L-5405	Raham Irfan
+13239	15L-5448	Muhammad Irfan
+13517	15L-5494	Muhammad Bilal Saeed
+13507	15L-5492	Ahmad Noor

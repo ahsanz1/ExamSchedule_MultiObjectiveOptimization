@@ -1,0 +1,63 @@
+EE182		Basic Electronics
+==========================================
+11417	17L-4270	Hamza Nazar
+11052	17L-4191	Muhammad Zubair
+11734	17L-4341	Shahzaib Ahmed Joyia
+11380	17L-4263	Muhammad Usman
+12044	17L-6324	Abdul Hannan Saqib
+10215	17L-4026	Salman Arshad
+11206	17L-4224	Mahnoor Hassan
+10204	17L-4024	Shafia Masood
+12031	17L-6321	Abdullah Fawad
+10233	17L-4029	Muhammad Bilal Shah Gilani
+10227	17L-4028	Muhammad Hamza Riaz
+10869	17L-4149	Ali Ahmed Siddique
+11212	17L-4225	Abdullah Khalil
+11412	17L-4269	Saad Ali
+11551	17L-4302	Usama Ashraf
+11578	17L-4309	Faateh Bin Hamad
+5918	14L-4240	Muhammad Muaaz Tariq
+6186	14L-4341	Hafiz Muhammad Yousaf
+9231	16L-4244	Ahsan Naveed
+10500	17L-4081	Fuzail Ur Rehman Khan
+8869	16L-4170	Muhammad Taimur Aslam
+11244	17L-4231	Azan
+10474	17L-4076	Muhammad Abdullah Nadeem
+11072	17L-4196	Muhammad Sikandar Subhani
+10701	17L-4114	Durraiz Waseem
+10908	17L-4158	Hamza Ishtiaq Rana
+11257	17L-4233	Hafiz Ahmed Mujtaba
+11607	17L-4315	Muhammad Ibraheem Waheed
+10714	17L-4116	Muhammad Mukarram Murtaza
+11270	17L-4237	Abdul Samad Urfan
+11596	17L-4313	Rija Rizwan
+4744	13L-4049	Sheraz Ahmad
+9944	16L-5405	Haseeb Ur Rehman
+11491	17L-4290	Hassan Raza
+10719	17L-4120	Muhammad Irteza Chishti
+11952	17L-6301	Fatima Junaid
+10302	17L-4042	Mohammad Zaeem Younas
+11471	17L-4284	Ramin Rafi
+10949	17L-4169	Qira Ahmad
+11829	17L-4367	Ahmed Waheed Butt
+11099	17L-4201	Farjad Suhail
+12104	17L-6341	Akash Bajwa
+11642	17L-4320	Muhammad Hamza Saeed
+11816	17L-4364	Shelan Naveed
+10766	17L-4129	Muhammad Tayyab Ajmal
+11834	17L-4368	Talal Zulfiqar
+11133	17L-4207	Syed Arham Hussain
+11011	17L-4182	Muhammad Romman Nadeem
+11524	17L-4296	Zain Ayaz
+11858	17L-4373	Marriam Hussain
+11340	17L-4251	Rabeea Khalid
+11853	17L-4372	Abdul Malik
+10150	17L-4015	Abdur Rafay
+10800	17L-4136	Osama Atta
+11703	17L-4333	Muhammad Muneeb
+11160	17L-4211	Danish Irfan
+10170	17L-4018	Umair Shahzad Iqbal
+11710	17L-4335	Abdul Mukit
+6787	15L-4081	Muhammad Bahroz Ahmad
+6790	15L-4082	Nauman Ahmed Subhani
+11722	17L-4339	Sohaib Ali

@@ -1,0 +1,78 @@
+CV411		Design of Structures
+==========================================
+12498	14L-5761	Muhammad Qasim Pervaiz
+12506	14L-5762	Zain Tajamal
+12514	14L-5764	Muhammad Hasnat
+12522	14L-5765	Muhammad Bilal
+12337	14L-5722	Usama Khalid
+12724	14L-5800	Muhammad Usama Waheed Khan
+12537	14L-5767	Muhammad Ahsan
+12545	14L-5768	Muhammad Fahad Amjad
+12740	14L-5802	Rooh Ullah
+12554	14L-5769	Muhammad Farhan Saleem
+12732	14L-5801	Muhammad Abdul Wahab
+12345	14L-5726	Chaudhary Saad Zahid
+12759	14L-5804	Rahima Ejaz
+12748	14L-5803	Hammad Ahmad
+12353	14L-5728	Ahmed Tahir
+12361	14L-5729	Muhammad Bilal Shahid
+12774	14L-5808	Sheharyar
+12766	14L-5807	Ahmad Waleed Athar
+12782	14L-5809	Sohaib Aslam
+12110	11L-4684	Muhammad Arslan
+12173	13L-5786	Waleed Bin Yousuf
+12563	14L-5770	Asfand Ali
+12675	14L-5794	Umair Ahmad
+12684	14L-5795	Aatra Ali
+12692	14L-5796	Hafiz Saad Siddiqi
+12700	14L-5797	Muhammad Waleed Imran
+12279	14L-5710	Muhammad Junaid Asif Sahi
+12461	14L-5754	Kawish Khan
+12708	14L-5798	Saiyed Mohammad Yeahyea Gailani
+12287	14L-5711	Muhammad Bilal Ali
+12716	14L-5799	Ahmed Nawaz
+12213	14L-4469	Haseeb Ahmad
+12295	14L-5713	Muhammad Shahan
+12470	14L-5757	Muhammad Hammad Gohar
+12479	14L-5758	Muhammad Sufyan Ahmed
+12488	14L-5759	Safiyullah Nadeem
+12303	14L-5716	Arslan Mazhar
+12311	14L-5717	Taemoor Hassan
+12319	14L-5719	Shahneel Fatima
+12139	13L-4246	Muhammad Noman Tariq
+12204	13L-5812	Arslan Ahmad
+12605	14L-5782	Hamza Sohail
+12428	14L-5740	Muhammad Yousaf
+12613	14L-5784	Iram Naeem
+12436	14L-5741	Muhammad Abdullah Ahmad
+12623	14L-5785	Talha Bin Arif
+12444	14L-5742	Tahir Nadeem
+12632	14L-5786	Fahad Nouman
+12641	14L-5787	Sheikh Muhammad Usama
+12649	14L-5788	Adil Shakeel
+12657	14L-5789	Muhammad Arslan
+12231	14L-5702	Ahmed Mateen
+12453	14L-5746	Rabia Adnan
+12239	14L-5704	Faisal Tariq Khan
+12247	14L-5705	Muhammad Talha Ishfaq
+12255	14L-5707	Zain Ul Islam
+12263	14L-5708	Muhammad Sikandar Malik
+12271	14L-5709	Mohammad Anzar Sheikh
+12153	13L-5727	Rushaan Rasheed
+12161	13L-5728	Muhammad Saad Saeed
+12190	13L-5803	Muhammad Irtaza Abbas
+12197	13L-5806	Muhammad Haris
+12665	14L-5790	Muhammad Waleed Ahsan
+12571	14L-5771	Asghar Mehdi
+12369	14L-5730	Ahmad Raza
+12377	14L-5731	Muhammad Shahroz
+12385	14L-5732	Sameer Moazzam
+12393	14L-5733	Muzamil Kaleem
+12580	14L-5777	Sarim Adnan
+12401	14L-5734	M Wahib Bin Qamar Qureshi
+12790	14L-5810	Haseeb Anjum
+12589	14L-5779	Hamdoon Nasrullah
+12409	14L-5736	Zohaib Mahmood Butt
+12419	14L-5737	Adnan Rasheed
+12597	14L-5780	Faisal Gulzar
+12183	13L-5799	Taha Tariq

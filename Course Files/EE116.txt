@@ -1,0 +1,20 @@
+EE116		Introduction to Computing
+==========================================
+16914	17L-4451	Aliya Batool
+17308	17L-4561	Abdullah Khan
+17341	17L-6302	Zainab Nauman
+16934	17L-4455	Muhammad Abdullah Aftab
+17261	17L-4543	Muhammad Farhan Liaqat Ali
+17288	17L-4554	Umair Ismail
+17321	17L-4564	Amna Javed Alvi
+17281	17L-4551	Hafiz Hamza Mahtab
+16723	17L-4403	Muhammad Shazil Mumtaz Buttar
+16784	17L-4414	Shahab Ahmad
+16941	17L-4457	Subhan Ahmad
+16888	17L-4445	Zain Arshad
+16743	17L-4406	Meraj Khalid
+17240	17L-4538	Omer Mahmood
+16736	17L-4405	Aneeq Khan
+16908	17L-4449	Sahabzada Salman Shah
+17163	17L-4515	Haider Sultan
+17275	17L-4548	Muhammad Hassan

@@ -1,0 +1,78 @@
+CV234		Quantity Surveying & Estimation
+==========================================
+12949	15L-5414	Hamza Hundal
+14190	16L-5509	Muhammad Zeeshan
+12326	14L-5720	Muhammad Arslan Shafiq
+13271	15L-5454	Agha Zamn Muhammad
+13798	16L-5426	Muhammad Salman Amir
+13790	16L-5425	Muhammad Moonis Hafeez
+13806	16L-5428	Ahmad Sarfraz
+13993	16L-5466	Haider Ali Zer
+13763	16L-5421	Muhammad Ameer Hamza
+13985	16L-5465	Ajmal Rashid
+13781	16L-5424	Muhammad Wajahat Hussain
+13773	16L-5423	Muhammad Abdullah Shahid
+13975	16L-5461	Hamza Nadeem Abbasi
+13755	16L-5420	Tanveel Mukhtar
+14001	16L-5471	Umer
+13747	16L-5419	Hamna Abid Khan
+13960	16L-5459	Naeem Ullah
+13952	16L-5458	Jawad Ahmad
+13739	16L-5417	Hafiz Muhammad Usama Tofiq
+13731	16L-5416	Haseeb Ullah
+14182	16L-5499	Ammad Asif
+13714	16L-5410	Rehman Yaqoob
+14173	16L-5498	Syed Mustafa Najeeb
+13722	16L-5412	Mian Abdur Rehman Tasadduq
+13928	16L-5451	Muhammad Umer Yousuf
+13920	16L-5450	Ali Ahmad
+14148	16L-5494	Amir Hayat
+13944	16L-5453	Abbas Ali Azhar
+14165	16L-5497	Talha Abid
+13936	16L-5452	Muhammad Shahryar Ali
+14156	16L-5496	Muhammad Hammad Raza
+13968	16L-5460	Irfan Kaleem Siddiqui
+13697	16L-5408	Ahsan Maqsood
+13689	16L-5407	Muhammad Ali
+13704	16L-5409	Abdul Majid
+13098	15L-5431	Shah Nawaz
+13673	16L-5403	Shahab Ud Din
+13089	15L-5430	Mubasher Mahboob
+13681	16L-5406	Muzna Anam
+13912	16L-5449	Faran Masood
+13904	16L-5444	Talha Akram
+14117	16L-5488	Kanwal Anwar
+14109	16L-5487	Muteeb Shafique
+13664	16L-5402	Safi Ullah Khan
+13656	16L-5401	Zain U Din Arshad
+13879	16L-5440	Faizan Arshad
+14083	16L-5484	Afroze Mir
+13631	16L-4153	Muhammad Rehan
+14075	16L-5483	Hamza Majeed
+13896	16L-5442	Muhammad Ahmad Baig
+14101	16L-5486	Muhammad Arslan Saleem
+13646	16L-4474	Dawood Mujahid Chattha
+13886	16L-5441	Abdullah
+14091	16L-5485	Ahmad Akmal
+14124	16L-5490	Muhammad Ahsan Afzal
+14140	16L-5493	Haseeb Ullah
+14132	16L-5492	Raheel Malook Masih
+13855	16L-5437	Muhammad Aftab Masood
+13845	16L-5436	Sarmad Siddique
+13864	16L-5438	Muhammad Junaid
+13830	16L-5433	Ansar Pervaiz
+14198	16L-6324	Hamza Naeem
+13822	16L-5432	Ali Faraz
+14041	16L-5479	Usama Shahid
+14215	16L-6326	Muhammad Danish Shoukat
+13838	16L-5434	Aizaz Islam Khan
+14033	16L-5478	Ahmad Ibrar Cheema
+14206	16L-6325	Ali Zia Khalid
+13639	16L-4262	Syed Mujtaba Ali
+14009	16L-5473	Hafiz Ahmad Nawaz
+14025	16L-5475	Hassan Bin Saleem
+13813	16L-5430	Zeeshan Shoukat
+14017	16L-5474	Ali Suffian
+14049	16L-5480	Muhammad Gulzaib
+14067	16L-5482	Muhammad Hassan Khan Abdali
+14058	16L-5481	Sheraz Ud Din

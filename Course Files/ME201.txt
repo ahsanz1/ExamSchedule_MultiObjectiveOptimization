@@ -1,0 +1,25 @@
+ME201		Applied Thermodynamics
+==========================================
+15229	14L-4452	Abdullah Zubair
+15812	15L-4498	Umair Hameed
+16593	16L-4518	Muhammad Murtaza
+15912	15L-4521	Muhammad Hashim Raza
+14822	13L-4483	Haseeb Ahsan
+15336	14L-4499	Owais Bin Khalid Dar
+16553	16L-4512	Muhammad Talha Mateen
+15293	14L-4478	Mahak Khalid
+15155	14L-4435	Hadia Hassan
+15071	14L-4414	Muhammad Shahrukh Khan
+15372	14L-4514	Muhammad Talha Rana
+16261	16L-4431	Mahnoor Naveed
+15078	14L-4417	Shaheera Fatima
+15348	14L-4505	Hassan Ali Zahid
+16412	16L-4466	Ayesha
+16623	16L-4522	Muhammad Sikander Abbas
+14689	11L-4586	Sannan Tariq
+14703	12L-4281	Usama Ikhlaq
+15403	14L-4519	Irfan Hussain
+14779	13L-4438	Talha Babar
+14770	13L-4428	Muhammad Raza
+14833	13L-4509	Aneeq Ali
+14813	13L-4478	Muhammad Mohsin Saeed

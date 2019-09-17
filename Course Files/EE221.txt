@@ -1,0 +1,74 @@
+EE221		Electro Mechanical Systems
+==========================================
+16191	16L-4417	Syed Muhammad Mujtaba Amin
+15760	15L-4487	Danish Saeed
+15900	15L-4520	Muhammad Hassan Sharif
+16391	16L-4457	Yasir Hassan
+16175	16L-4414	Muhammad Usman Javed
+16673	16L-5469	Gohar Nayyab
+15360	14L-4513	Mudassar Seemab
+16183	16L-4416	Umair Naseem
+15369	14L-4514	Muhammad Talha Rana
+16359	16L-4453	Malik Muhammad Awais
+16167	16L-4410	Jibran Ali
+16367	16L-4454	Maryam Rasool Chaudhry
+16500	16L-4498	Muhammad Zeeshan Aslam
+16375	16L-4455	Umair Abbas
+16508	16L-4499	Ayman Waseem
+16383	16L-4456	Muhammad Hassan Shahid
+16693	16L-6353	Muhammad Bilal Tahir
+16343	16L-4450	Duaa Ali
+16484	16L-4494	Muhammad Aslaan Sarwar
+16351	16L-4451	Arsal Azam
+16494	16L-4495	Muhammad Saad Ul Haq
+15774	15L-4493	Muhammad Ghous Iqbal
+15767	15L-4491	Abdullah
+16143	16L-4406	Sidra Jawad
+15939	15L-4534	Muhammad Nauman Tauseef
+16151	16L-4407	Mahnoor Jawad Khan
+15806	15L-4498	Umair Hameed
+15004	14L-4388	Haider Ali Adnan
+16159	16L-4409	Muhammad Zuhair Anas
+15647	15L-4452	Malik Zaeem Waqar Awan
+16327	16L-4446	Abdul Nasir
+16625	16L-4523	Asif Ahmad Arif
+16633	16L-4524	Muhammad Usama
+16127	16L-4404	Raffay Sajjad
+16468	16L-4486	Rehab Abrar
+16319	16L-4443	Hafiz Inam Ghous
+16476	16L-4487	Muhammad Zohaib Ali Shaikh
+16603	16L-4520	Hadeera Munsif
+15513	15L-4418	Mahnoor Shahid
+15963	15L-4537	Adeel Mazhar
+16446	16L-4482	Daniyal Ahmed
+16460	16L-4484	Sheharyar Saleem
+15814	15L-4500	Muhammad Hamza
+16114	15L-5557	Izma Binte Atif
+16303	16L-4439	Abeya Khan
+15225	14L-4452	Abdullah Zubair
+16579	16L-4517	Aroosha Farooq
+15971	15L-4542	Abdul Moiz
+16587	16L-4518	Muhammad Murtaza
+16595	16L-4519	Muddassir Ahmed
+16430	16L-4479	Zain Ul Abidin
+16287	16L-4436	Maryam Zaib
+16555	16L-4514	Murtaza Hussain Mirza
+16563	16L-4515	Erbaz Khan
+16263	16L-4432	Benish Hussain
+16649	16L-5443	Mohammad Haasin Farooq
+16271	16L-4433	Abdullah Ashfaq Cheema
+16422	16L-4473	Mahnoor Sohail
+15994	15L-4547	Farhad Ali
+16438	16L-4481	Muhammad Waleed Malik
+15167	14L-4442	Muaaz Ahmed
+15711	15L-4474	Maryam Bokhari
+16223	16L-4425	Muhammad Zain
+16524	16L-4502	Ahmed Sibt E Ali
+15035	14L-4403	Zulfiqar Ali
+16231	16L-4427	Muhammad Omer
+16539	16L-4504	Ali Abid Zaidi
+16681	16L-5476	Syed Ali Hamad Naqvi
+15884	15L-4517	Muhammad Waqar Muzaffar
+16215	16L-4422	Ahsan Jalil Mirza
+16516	16L-4500	Haider Nadeem
+14828	13L-4509	Aneeq Ali

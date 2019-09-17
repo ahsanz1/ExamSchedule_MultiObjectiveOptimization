@@ -1,0 +1,70 @@
+SS144		Islamic & Religious Studies
+==========================================
+14416	17L-4629	Razi Ur Rehman Malik
+14685	17L-6323	Shoaib Hassan
+14388	17L-4620	Bassam Tassaduq
+14546	17L-4664	Muhammad Safyan
+14539	17L-4662	Haider Ali
+14678	17L-6320	Mohammad Abdullah Arslan
+14238	17L-4426	Muhammad Dawood
+14567	17L-4667	Qasim Ahmed Bham
+14231	17L-4424	Rahfay Arshad
+14258	17L-4468	Syed Muhammad Sherafgan
+14560	17L-4666	Touseeque Amed
+14272	17L-4544	Muhammad Talha
+14395	17L-4621	Umer Shahid
+14553	17L-4665	Muhammad Ammar Ishaq
+14409	17L-4628	Khizer Ali Bhatti
+14402	17L-4626	Syed Noor Ali Hussaini
+14158	16L-5496	Muhammad Hammad Raza
+14581	17L-4671	Zaineb Naeem
+14574	17L-4670	Syed Aown Abbas
+14602	17L-4675	Fahad Imran Sheikh
+14423	17L-4630	Abdul Wahab
+14595	17L-4674	Salman Chaudhary
+14588	17L-4672	Malieka Batool
+14245	17L-4437	Ahsan Bashir
+14437	17L-4635	Usama Irshad
+14630	17L-4679	Muhamad Hashim Khan
+14623	17L-4678	Ali Abid Khan Niazi
+14616	17L-4677	Muhammad Aquib Jamil
+14430	17L-4632	Muhammad Adeel Abbas
+14609	17L-4676	Nabiha Khalid
+14464	17L-4639	Syed Mohammad Asjad Adil Rizvi
+14457	17L-4638	Faran Waheed Khan
+14450	17L-4637	Asif Ali
+14252	17L-4438	Muhammad Talha Tariq
+14444	17L-4636	Majid Ali
+14332	17L-4609	Rana Sarmad Shabir
+14325	17L-4608	Afaq Ahmad
+14318	17L-4607	Wasee Bin Asad
+14644	17L-4681	Laraib Khan
+14637	17L-4680	Muhammad Abdullah
+14478	17L-4642	Rana Muhammad Qalbe Saleem
+14658	17L-4686	Usama Rao
+14471	17L-4641	Shoaib Akram
+14651	17L-4685	Neha Shafqat Qureshi
+14265	17L-4486	Muhammad Hamza Saghir
+14286	17L-4602	Muhammad Usman Gill
+14506	17L-4646	Muhammad Amir Khan
+14279	17L-4601	Muhammad Emaz Azam
+14499	17L-4645	Hamas Nazir Malik
+14492	17L-4644	Muhammad Asad Ejaz
+14485	17L-4643	Aurang Zaib Ali
+14664	17L-4687	Talha Iftikhar
+14312	17L-4606	Muhammad Asim Bhatti
+14305	17L-4605	Zulfiqar Ali Jauher
+14671	17L-6306	Muhammad Rizwan Khan
+14293	17L-4603	Rana Ahmad Tariq
+14381	17L-4618	Salman Tahir Cheema
+13874	16L-5439	Hamza Ashfaq
+14224	17L-4334	M Faizan Haider
+14520	17L-4652	Usama Rehman
+14513	17L-4650	Ali Akmal Chaudhary
+14346	17L-4612	Muhammad Qasim
+14339	17L-4610	Muhammad Bilal Akram
+14527	17L-4654	Muhammad Awais Ajmal
+14374	17L-4617	Muhammad Zain Asghar
+14367	17L-4616	Hamza Ali
+14360	17L-4615	Arslan Saghir
+14353	17L-4614	Mirub Akram
